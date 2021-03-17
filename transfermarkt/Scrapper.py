@@ -1,0 +1,114 @@
+import re
+
+import requests
+from bs4 import BeautifulSoup
+import json
+
+
+class Scrapper:
+    def __init__(self):
+        self.headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0'
+        }
+
+    def combine_club_and_players(self):
+        clubs = self.scrap_clubs_in_league()
+
+        complex_records = []
+        print(clubs)
+
+        for club in clubs:
+            print(club)
+            players = self.scrap_players_in_team("https://www.transfermarkt.com" + club[1])
+
+            for player in players:
+                record = [club[0], club[1], player]
+                print(record)
+                # complex_records.append(record)
+        return complex_records
+
+    def scrap_historical_values(self, url):
+        req = requests.get(url, headers=self.headers)
+        soup = BeautifulSoup(req.text, 'html.parser')
+        pretty = soup.prettify()
+
+        text = soup.find_all('script')
+        text = str(text[-1])
+        text = text.split("'data':", 1)[1]
+        text = text.split("}],'credits'", 1)[0]
+        text = text.replace('\'', '"')
+        text = re.sub(r"\\[x|u][\d|\w][\d|\w]", " ", text)
+
+        tuples = json.loads(text)
+        records_to_return = [];
+        for record in tuples:
+            records_to_return.append([record['y'], record['verein'], record['age'], record['datum_mw']])
+
+        return records_to_return
+
+    def scrap_clubs_in_league(self,
+                              league_url="https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1/saison_id/2020"):
+        req = requests.get(league_url, headers=self.headers)
+        soup = BeautifulSoup(req.text, 'html.parser')
+        pretty = soup.prettify()
+
+        text = soup.find_all('div', id="main")
+        text = text[0].find_all('div', id="wettbewerbsstartseite")
+        text = text[0].find_all('div', class_="large-8 columns")
+        text = text[0].find_all('div', class_="box")
+        text = text[1].find_all('div', class_="responsive-table")
+        text = text[0].find_all('div', id="yw1")
+        text = text[0].find_all('table', class_="items")
+        text = text[0].find_all('tbody')
+        text = text[0].find_all('tr')
+
+        records_to_return = []
+        for club in text:
+            club = club.find_all('td')
+            club = club[0]
+            str_club = str(club)
+
+            club_name = str_club.split("img alt=\"", 1)[1]
+            club_name = club_name.split("\"", 1)[0]
+            # print(club_name)
+
+            href = str(club)
+            href = href.split("href=\"", 1)[1]
+            href = href.split("\"", 1)[0]
+            # print(href)
+
+            # < td class ="rechts show-for-small show-for-pad nowrap" >
+            # znaki do scrapowania wartosci klubu
+            # <
+            records_to_return.append([club_name, href])
+
+        return records_to_return
+
+
+    def scrap_players_in_team(self,url):
+        req = requests.get(url, headers=self.headers)
+        soup = BeautifulSoup(req.text, 'html.parser')
+        pretty = soup.prettify()
+
+        text = soup.find_all('div', id="main")
+        text = text[0].find_all('div', class_="row vereinsstartseite")
+        text = text[0].find_all('div', class_="large-8 columns")
+        text = text[0].find_all('div', class_="box kader-widget viewport-tracking")
+        text = text[0].find_all('div', class_="responsive-table")
+        text = text[0].find_all('div', id="yw1")
+        text = text[0].find_all('table', class_="items")
+        text = text[0].find_all('tbody')
+        text = text[0].find_all('tr')
+        # text = text[0].find_all('td')
+        records_to_return = []
+        iter = 0
+        for player in text:
+            if(iter % 3 == 0):
+                player = player.find_all('td')
+                href = str(player[3])
+                href = href.split("href=\"", 1)[1]
+                href = href.split("\"", 1)[0]
+                records_to_return.append(href)
+            iter +=1
+
+        return records_to_return

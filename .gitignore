@@ -1,4 +1,5 @@
 .idea
+/transfermarkt/csv_trash
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

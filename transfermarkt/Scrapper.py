@@ -23,22 +23,27 @@ class Scrapper:
         return complex_records
 
     def scrap_historical_values(self, url):
-        req = requests.get(url, headers=self.headers)
-        soup = BeautifulSoup(req.text, 'html.parser')
-        pretty = soup.prettify()
+        records_to_return = []
+        try:
 
-        text = soup.find_all('script')
-        text = str(text[-1])
-        text = text.split("'data':", 1)[1]
-        text = text.split("}],'credits'", 1)[0]
-        text = text.replace('\'', '"')
-        text = re.sub(r"\\[x|u][\d|\w][\d|\w]", " ", text)
+            req = requests.get(url, headers=self.headers)
+            soup = BeautifulSoup(req.text, 'html.parser')
+            pretty = soup.prettify()
 
-        tuples = json.loads(text)
-        records_to_return = [];
-        for record in tuples:
-            records_to_return.append([record['y'], record['verein'], record['age'], record['datum_mw']])
+            text = soup.find_all('script')
+            text = str(text[-1])
+            text = text.split("'data':", 1)[1]
+            text = text.split("}],'credits'", 1)[0]
+            text = text.replace('\'', '"')
+            text = re.sub(r"\\[x|u][\d|\w][\d|\w]", " ", text)
 
+            tuples = json.loads(text)
+
+            for record in tuples:
+                records_to_return.append([record['y'], record['verein'], record['datum_mw']])
+
+        except IndexError:
+            records_to_return.append(["-1", "", ""])
         return records_to_return
 
     def scrap_clubs_in_league(self,
@@ -116,3 +121,8 @@ class Scrapper:
             iter += 1
 
         return records_to_return
+
+    def get_url_with_historical_values(self, player_url):
+        first_part = player_url.split("/profil", 1)[0]
+        last_part = player_url.split("/profil/", 1)[1]
+        return first_part + "/marktwertverlauf/" + last_part

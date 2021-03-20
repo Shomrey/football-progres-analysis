@@ -25,3 +25,16 @@ for club in clubs:
 df = pd.DataFrame(players, columns=['club_reference','href', 'name_and_surname', 'position', 'market_value', 'date_of_birth', 'country'])
 df.to_csv(os.path.join('', "csv", "Players.csv"))
 
+
+
+
+historic_values = []
+for player in players:
+    player_reference = "https://www.transfermarkt.com" + player[1]
+    print(player_reference)
+    player_values = scrapper.scrap_historical_values(scrapper.get_url_with_historical_values(player_reference))
+    for value in player_values:
+        historic_values.append([player_reference] + value)
+
+df = pd.DataFrame(historic_values, columns=['player_reference','value', 'club', 'date'])
+df.to_csv(os.path.join('', "csv", "Values.csv"))

@@ -22,11 +22,13 @@ class CsvTransformers:
                 factor = factor + character
 
         number_factor = 1
-        if factor == 'Th.':
+        if factor[-1] != ' ':
+            factor = factor + ' '
+        if factor == 'Th. ':
             number_factor = 1000
-        if factor == 'm':
+        if factor == 'm ':
             number_factor = 1000000
-        if factor == 'bn':
+        if factor == 'bn ':
             number_factor = 1000000000
         if string_number != "":
             euros_decimal = Decimal(string_number) * number_factor
@@ -84,6 +86,8 @@ class CsvTransformers:
 
 
 helper = CsvTransformers()
-helper.get_player_birthdate('May 4, 1997 (23)')
 helper.transform_players()
 helper.transform_values()
+
+# euros = helper.get_string_monetary_value_as_decimal("€300Th. ")
+# print(euros)

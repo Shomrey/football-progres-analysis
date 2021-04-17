@@ -10,6 +10,7 @@ requests = "*"
 bs4 = "*"
 pandas = "*"
 numpy = "*"
+unidecode = "*"
 
 [requires]
 python_version = "3.8"

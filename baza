@@ -1,0 +1,28 @@
+
+
+
+Players{
+ player_id,
+ age,
+ position,  // dokładniejsza pozycja
+ nationality
+ current_value,
+ player_reference,
+}
+
+Players_values{
+ value_id,
+ player_id,
+ current_club_in_that_time,
+ value_in_that_time,
+ date
+}
+
+Clubs{
+    club_id
+    club_name,
+    reference,
+    number_of_footballers,
+    total_value
+
+}

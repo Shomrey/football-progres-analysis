@@ -24,16 +24,17 @@ class CsvTransformers:
         number_factor = 1
         if factor[-1] != ' ':
             factor = factor + ' '
-        if factor == 'Th. ':
+        if factor.startswith("Th."):
             number_factor = 1000
-        if factor == 'm ':
+        if factor.startswith("m"):
             number_factor = 1000000
-        if factor == 'bn ':
+        if factor.startswith("bn"):
             number_factor = 1000000000
         if string_number != "":
             euros_decimal = Decimal(string_number) * number_factor
         else:
             euros_decimal = Decimal(-1)
+        #print(string_value + "|" +string_number + "|" +factor +"|"+ str(number_factor) + "|"+ str(euros_decimal) )
         # jeśli nie ma ceny to przyjmujemy cenę równą -1 na danych wejściowych
         return euros_decimal
 
@@ -87,7 +88,9 @@ class CsvTransformers:
 
 helper = CsvTransformers()
 helper.transform_players()
-helper.transform_values()
+# helper.transform_values()
 
-# euros = helper.get_string_monetary_value_as_decimal("€300Th. ")
-# print(euros)
+
+
+euros = helper.get_string_monetary_value_as_decimal("€56.00m")
+print(euros)

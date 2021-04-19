@@ -11,6 +11,9 @@ bs4 = "*"
 pandas = "*"
 numpy = "*"
 unidecode = "*"
+matplotlib = "*"
+scikit-learn = "*"
+jupyter = "*"
 
 [requires]
 python_version = "3.8"

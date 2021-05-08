@@ -1,0 +1,775 @@
+,club_reference,href,name_and_surname,position,market_value,date_of_birth,country
+0,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/ederson/profil/spieler/238223,Ederson,Goalkeeper,€56.00m ,"Aug 17, 1993 (25)",Brazil
+1,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/arijanet-muric/profil/spieler/371021,Arijanet Muric,Goalkeeper,€1.80m ,"Nov 7, 1998 (20)",Kosovo
+2,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/claudio-bravo/profil/spieler/40423,Claudio Bravo,Goalkeeper,€1.20m ,"Apr 13, 1983 (36)",Chile
+3,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/scott-carson/profil/spieler/14555,Scott Carson,Goalkeeper,€800Th. ,"Sep 3, 1985 (33)",England
+4,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/aymeric-laporte/profil/spieler/176553,Aymeric Laporte,Centre-Back,€60.00m ,"May 27, 1994 (25)",France
+5,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/john-stones/profil/spieler/186590,John Stones,Centre-Back,€36.00m ,"May 28, 1994 (25)",England
+6,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/nicolas-otamendi/profil/spieler/54781,Nicolás Otamendi,Centre-Back,€14.50m ,"Feb 12, 1988 (31)",Argentina
+7,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/eric-garcia/profil/spieler/466794,Eric García,Centre-Back,€6.30m ,"Jan 9, 2001 (18)",Spain
+8,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/tosin-adarabioyo/profil/spieler/258878,Tosin Adarabioyo,Centre-Back,€2.80m ,"Sep 24, 1997 (21)",England
+9,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/taylor-harwood-bellis/profil/spieler/503977,Taylor Harwood-Bellis,Centre-Back,€2.30m ,"Jan 30, 2002 (17)",England
+10,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/benjamin-mendy/profil/spieler/157495,Benjamin Mendy,Left-Back,€28.00m ,"Jul 17, 1994 (24)",France
+11,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/oleksandr-zinchenko/profil/spieler/203853,Oleksandr Zinchenko,Left-Back,€24.00m ,"Dec 15, 1996 (22)",Ukraine
+12,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/adrian-bernabe/profil/spieler/466802,Adrián Bernabé,Left-Back,€2.30m ,"May 26, 2001 (18)",Spain
+13,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/kyle-walker/profil/spieler/95424,Kyle Walker,Right-Back,€40.00m ,"May 28, 1990 (29)",England
+14,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/joao-cancelo/profil/spieler/182712,João Cancelo,Right-Back,€36.00m ,"May 27, 1994 (25)",Portugal
+15,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/alpha-dionkou/profil/spieler/554175,Alpha Dionkou,Right-Back,€250Th. ,"Oct 10, 2001 (17)",Senegal
+16,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/rodri/profil/spieler/357565,Rodri,Defensive Midfield,€64.00m ,"Jun 22, 1996 (23)",Spain
+17,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/fernandinho/profil/spieler/26267,Fernandinho,Defensive Midfield,€8.00m ,"May 4, 1985 (34)",Brazil
+18,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/ilkay-gundogan/profil/spieler/53622,Ilkay Gündogan,Central Midfield,€40.00m ,"Oct 24, 1990 (28)",Germany
+19,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/phil-foden/profil/spieler/406635,Phil Foden,Central Midfield,€27.00m ,"May 28, 2000 (19)",England
+20,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/tommy-doyle/profil/spieler/433183,Tommy Doyle,Central Midfield, ,"Oct 17, 2001 (17)",England
+21,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/angelino/profil/spieler/277179,Angeliño,Left Midfield,€17.50m ,"Jan 4, 1997 (22)",Spain
+22,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/kevin-de-bruyne/profil/spieler/88755,Kevin De Bruyne,Attacking Midfield,€120.00m ,"Jun 28, 1991 (28)",Belgium
+23,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/bernardo-silva/profil/spieler/241641,Bernardo Silva,Attacking Midfield,€80.00m ,"Aug 10, 1994 (24)",Portugal
+24,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/david-silva/profil/spieler/35518,David Silva,Attacking Midfield,€12.00m ,"Jan 8, 1986 (33)",Spain
+25,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/ryotaro-meshino/profil/spieler/426666,Ryotaro Meshino,Attacking Midfield,€450Th. ,"Jun 18, 1998 (21)",Japan
+26,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/cole-palmer/profil/spieler/568177,Cole Palmer,Attacking Midfield, ,"May 6, 2002 (17)",England
+27,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/raheem-sterling/profil/spieler/134425,Raheem Sterling,Left Winger,€128.00m ,"Dec 8, 1994 (24)",England
+28,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/leroy-sane/profil/spieler/192565,Leroy Sané,Right Winger,€80.00m ,"Jan 11, 1996 (23)",Germany
+29,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/riyad-mahrez/profil/spieler/171424,Riyad Mahrez,Right Winger,€48.00m ,"Feb 21, 1991 (28)",Algeria
+30,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/patrick-roberts/profil/spieler/225452,Patrick Roberts,Right Winger,€2.80m ,"Feb 5, 1997 (22)",England
+31,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/ian-poveda/profil/spieler/392763,Ian Poveda,Right Winger,€675Th. ,"Feb 9, 2000 (19)",England
+32,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/gabriel-jesus/profil/spieler/363205,Gabriel Jesus,Centre-Forward,€56.00m ,"Apr 3, 1997 (22)",Brazil
+33,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2019,/sergio-aguero/profil/spieler/26399,Sergio Agüero,Centre-Forward,€52.00m ,"Jun 2, 1988 (31)",Argentina
+34,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/alisson/profil/spieler/105470,Alisson,Goalkeeper,€72.00m ,"Oct 2, 1992 (26)",Brazil
+35,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/simon-mignolet/profil/spieler/50219,Simon Mignolet,Goalkeeper,€8.00m ,"Mar 6, 1988 (31)",Belgium
+36,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/adrian/profil/spieler/71271,Adrián,Goalkeeper,€4.00m ,"Jan 3, 1987 (32)",Spain
+37,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/loris-karius/profil/spieler/85864,Loris Karius,Goalkeeper,€3.20m ,"Jun 22, 1993 (26)",Germany
+38,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/caoimhin-kelleher/profil/spieler/340918,Caoimhin Kelleher,Goalkeeper,€900Th. ,"Nov 23, 1998 (20)",Ireland
+39,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/andy-lonergan/profil/spieler/14044,Andy Lonergan,Goalkeeper,€250Th. ,"Oct 19, 1983 (35)",England
+40,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/vitezslav-jaros/profil/spieler/486604,Vitezslav Jaros,Goalkeeper, ,"Jul 23, 2001 (17)",Czech Republic
+41,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/ben-winterbottom/profil/spieler/505046,Ben Winterbottom,Goalkeeper, ,"Jul 16, 2001 (17)",England
+42,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/virgil-van-dijk/profil/spieler/139208,Virgil van Dijk,Centre-Back,€80.00m ,"Jul 8, 1991 (27)",Netherlands
+43,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/joe-gomez/profil/spieler/256178,Joe Gomez,Centre-Back,€33.50m ,"May 23, 1997 (22)",England
+44,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/joel-matip/profil/spieler/82105,Joel Matip,Centre-Back,€32.00m ,"Aug 8, 1991 (27)",Cameroon
+45,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/dejan-lovren/profil/spieler/37838,Dejan Lovren,Centre-Back,€16.00m ,"Jul 5, 1989 (29)",Croatia
+46,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/sepp-van-den-berg/profil/spieler/541231,Sepp van den Berg,Centre-Back,€1.80m ,"Dec 20, 2001 (17)",Netherlands
+47,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/nathaniel-phillips/profil/spieler/371814,Nathaniel Phillips,Centre-Back,€800Th. ,"Mar 21, 1997 (22)",England
+48,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/tom-clayton/profil/spieler/546194,Tom Clayton,Centre-Back, ,"Dec 16, 2000 (18)",Scotland
+49,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/morgan-boyes/profil/spieler/554250,Morgan Boyes,Centre-Back, ,"Apr 22, 2001 (18)",Wales
+50,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/billy-koumetio/profil/spieler/696324,Billy Koumetio,Centre-Back, ,"Nov 14, 2002 (16)",France
+51,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/andrew-robertson/profil/spieler/234803,Andrew Robertson,Left-Back,€64.00m ,"Mar 11, 1994 (25)",Scotland
+52,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/yasser-larouci/profil/spieler/554251,Yasser Larouci,Left-Back,€1.80m ,"Jan 1, 2001 (18)",Algeria
+53,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/tony-gallacher/profil/spieler/344579,Tony Gallacher,Left-Back,€250Th. ,"Jul 23, 1999 (19)",Scotland
+54,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/adam-lewis/profil/spieler/347481,Adam Lewis,Left-Back, ,"Nov 8, 1999 (19)",England
+55,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/james-norris/profil/spieler/618495,James Norris,Left-Back, ,"Apr 4, 2003 (16)",England
+56,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/trent-alexander-arnold/profil/spieler/314353,Trent Alexander-Arnold,Right-Back,€99.00m ,"Oct 7, 1998 (20)",England
+57,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/nathaniel-clyne/profil/spieler/85177,Nathaniel Clyne,Right-Back,€8.00m ,"Apr 5, 1991 (28)",England
+58,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/ki-jana-hoever/profil/spieler/485583,Ki-Jana Hoever,Right-Back,€3.60m ,"Jan 18, 2002 (17)",Netherlands
+59,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/neco-williams/profil/spieler/503680,Neco Williams,Right-Back, ,"Apr 13, 2001 (18)",Wales
+60,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/fabinho/profil/spieler/225693,Fabinho,Defensive Midfield,€56.00m ,"Oct 23, 1993 (25)",Brazil
+61,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/pedro-chirivella/profil/spieler/242273,Pedro Chirivella,Defensive Midfield,€650Th. ,"May 23, 1997 (22)",Spain
+62,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/leighton-clarkson/profil/spieler/470606,Leighton Clarkson,Defensive Midfield, ,"Oct 19, 2001 (17)",England
+63,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/georginio-wijnaldum/profil/spieler/49499,Georginio Wijnaldum,Central Midfield,€40.00m ,"Nov 11, 1990 (28)",Netherlands
+64,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/naby-keita/profil/spieler/302215,Naby Keïta,Central Midfield,€33.50m ,"Feb 10, 1995 (24)",Guinea
+65,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/jordan-henderson/profil/spieler/61651,Jordan Henderson,Central Midfield,€28.00m ,"Jun 17, 1990 (29)",England
+66,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/alex-oxlade-chamberlain/profil/spieler/143424,Alex Oxlade-Chamberlain,Central Midfield,€28.00m ,"Aug 15, 1993 (25)",England
+67,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/james-milner/profil/spieler/3333,James Milner,Central Midfield,€6.50m ,"Jan 4, 1986 (33)",England
+68,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/herbie-kane/profil/spieler/314253,Herbie Kane,Central Midfield,€250Th. ,"Nov 23, 1998 (20)",England
+69,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/elijah-dixon-bonner/profil/spieler/433180,Elijah Dixon-Bonner,Central Midfield, ,"Jan 1, 2001 (18)",England
+70,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/thomas-hill/profil/spieler/655990,Thomas Hill,Central Midfield, ,"Oct 13, 2002 (16)",England
+71,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/adam-lallana/profil/spieler/43530,Adam Lallana,Attacking Midfield,€9.50m ,"May 10, 1988 (31)",England
+72,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/ben-woodburn/profil/spieler/344015,Ben Woodburn,Attacking Midfield,€4.50m ,"Oct 15, 1999 (19)",Wales
+73,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/curtis-jones/profil/spieler/433188,Curtis Jones,Attacking Midfield,€1.80m ,"Jan 30, 2001 (18)",England
+74,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/isaac-christie-davies/profil/spieler/264660,Isaac Christie-Davies,Attacking Midfield,€250Th. ,"Oct 18, 1997 (21)",Wales
+75,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/jake-cain/profil/spieler/565420,Jake Cain,Attacking Midfield, ,"Sep 2, 2001 (17)",England
+76,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/sadio-mane/profil/spieler/200512,Sadio Mané,Left Winger,€120.00m ,"Apr 10, 1992 (27)",Senegal
+77,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/takumi-minamino/profil/spieler/165793,Takumi Minamino,Left Winger,€10.00m ,"Jan 16, 1995 (24)",Japan
+78,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/liam-millar/profil/spieler/487417,Liam Millar,Left Winger,€50Th. ,"Sep 27, 1999 (19)",Canada
+79,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/mohamed-salah/profil/spieler/148455,Mohamed Salah,Right Winger,€120.00m ,"Jun 15, 1992 (27)",Egypt
+80,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/xherdan-shaqiri/profil/spieler/86792,Xherdan Shaqiri,Right Winger,€16.00m ,"Oct 10, 1991 (27)",Switzerland
+81,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/harvey-elliott/profil/spieler/565822,Harvey Elliott,Right Winger,€3.60m ,"Apr 4, 2003 (16)",England
+82,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/sheyi-ojo/profil/spieler/236510,Sheyi Ojo,Right Winger,€1.60m ,"Jun 19, 1997 (22)",England
+83,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/jack-bearne/profil/spieler/565419,Jack Bearne,Right Winger, ,"Sep 15, 2001 (17)",England
+84,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/roberto-firmino/profil/spieler/131789,Roberto Firmino,Centre-Forward,€72.00m ,"Oct 2, 1991 (27)",Brazil
+85,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/divock-origi/profil/spieler/148368,Divock Origi,Centre-Forward,€16.00m ,"Apr 18, 1995 (24)",Belgium
+86,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/rhian-brewster/profil/spieler/406560,Rhian Brewster,Centre-Forward,€5.40m ,"Apr 1, 2000 (19)",England
+87,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/joe-hardy/profil/spieler/382555,Joe Hardy,Centre-Forward, ,"Sep 26, 1998 (20)",England
+88,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/luis-longstaff/profil/spieler/433182,Luis Longstaff,Centre-Forward, ,"Feb 24, 2001 (18)",England
+89,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2019,/layton-stewart/profil/spieler/580801,Layton Stewart,Centre-Forward, ,"Sep 3, 2002 (16)",England
+90,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/hugo-lloris/profil/spieler/17965,Hugo Lloris,Goalkeeper,€14.50m ,"Dec 26, 1986 (32)",France
+91,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/paulo-gazzaniga/profil/spieler/195488,Paulo Gazzaniga,Goalkeeper,€2.80m ,"Jan 2, 1992 (27)",Argentina
+92,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/michel-vorm/profil/spieler/26276,Michel Vorm,Goalkeeper,€800Th. ,"Oct 20, 1983 (35)",Netherlands
+93,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/brandon-austin/profil/spieler/428016,Brandon Austin,Goalkeeper,€200Th. ,"Jan 8, 1999 (20)",England
+94,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/alfie-whiteman/profil/spieler/282823,Alfie Whiteman,Goalkeeper, ,"Oct 2, 1998 (20)",England
+95,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/davinson-sanchez/profil/spieler/341429,Davinson Sánchez,Centre-Back,€48.00m ,"Jun 12, 1996 (23)",Colombia
+96,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/toby-alderweireld/profil/spieler/42710,Toby Alderweireld,Centre-Back,€24.00m ,"Mar 2, 1989 (30)",Belgium
+97,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/eric-dier/profil/spieler/175722,Eric Dier,Centre-Back,€20.00m ,"Jan 15, 1994 (25)",England
+98,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/jan-vertonghen/profil/spieler/43250,Jan Vertonghen,Centre-Back,€14.50m ,"Apr 24, 1987 (32)",Belgium
+99,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/juan-foyth/profil/spieler/480763,Juan Foyth,Centre-Back,€13.50m ,"Jan 12, 1998 (21)",Argentina
+100,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/japhet-tanganga/profil/spieler/346478,Japhet Tanganga,Centre-Back,€7.20m ,"Mar 31, 1999 (20)",England
+101,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/cameron-carter-vickers/profil/spieler/341049,Cameron Carter-Vickers,Centre-Back,€2.00m ,"Dec 31, 1997 (21)",United States
+102,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/malachi-fagan-walcott/profil/spieler/554173,Malachi Fagan-Walcott,Centre-Back, ,"Mar 11, 2002 (17)",England
+103,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/ryan-sessegnon/profil/spieler/392775,Ryan Sessegnon,Left-Back,€31.50m ,"May 18, 2000 (19)",England
+104,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/ben-davies/profil/spieler/192765,Ben Davies,Left-Back,€17.50m ,"Apr 24, 1993 (26)",Wales
+105,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/danny-rose/profil/spieler/50174,Danny Rose,Left-Back,€16.00m ,"Jul 2, 1990 (28)",England
+106,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/dennis-cirkin/profil/spieler/568006,Dennis Cirkin,Left-Back, ,"Apr 6, 2002 (17)",England
+107,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/serge-aurier/profil/spieler/127032,Serge Aurier,Right-Back,€16.00m ,"Dec 24, 1992 (26)",Cote d'Ivoire
+108,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/kyle-walker-peters/profil/spieler/341051,Kyle Walker-Peters,Right-Back,€8.00m ,"Apr 13, 1997 (22)",England
+109,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/harry-winks/profil/spieler/249126,Harry Winks,Defensive Midfield,€32.00m ,"Feb 2, 1996 (23)",England
+110,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/oliver-skipp/profil/spieler/406638,Oliver Skipp,Defensive Midfield,€7.20m ,"Sep 16, 2000 (18)",England
+111,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/victor-wanyama/profil/spieler/77760,Victor Wanyama,Defensive Midfield,€6.50m ,"Jun 25, 1991 (28)",Kenya
+112,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/harvey-white/profil/spieler/581598,Harvey White,Defensive Midfield, ,"Sep 19, 2001 (17)",England
+113,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/tanguy-ndombele/profil/spieler/450936,Tanguy Ndombélé,Central Midfield,€52.00m ,"Dec 28, 1996 (22)",France
+114,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/giovani-lo-celso/profil/spieler/348795,Giovani Lo Celso,Central Midfield,€40.00m ,"Apr 9, 1996 (23)",Argentina
+115,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/moussa-sissoko/profil/spieler/46001,Moussa Sissoko,Central Midfield,€20.00m ,"Aug 16, 1989 (29)",France
+116,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/gedson-fernandes/profil/spieler/337800,Gedson Fernandes,Central Midfield,€13.50m ,"Jan 9, 1999 (20)",Portugal
+117,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/christian-eriksen/profil/spieler/69633,Christian Eriksen,Attacking Midfield,€68.00m ,"Feb 14, 1992 (27)",Denmark
+118,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/dele-alli/profil/spieler/207929,Dele Alli,Attacking Midfield,€64.00m ,"Apr 11, 1996 (23)",England
+119,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/heung-min-son/profil/spieler/91845,Heung-min Son,Left Winger,€64.00m ,"Jul 8, 1992 (26)","Korea, South"
+120,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/steven-bergwijn/profil/spieler/284165,Steven Bergwijn,Left Winger,€28.00m ,"Oct 8, 1997 (21)",Netherlands
+121,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/georges-kevin-nkoudou/profil/spieler/215679,Georges-Kevin N'Koudou,Left Winger,€3.50m ,"Feb 13, 1995 (24)",France
+122,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/lucas-moura/profil/spieler/77100,Lucas Moura,Right Winger,€32.00m ,"Aug 13, 1992 (26)",Brazil
+123,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/erik-lamela/profil/spieler/111630,Erik Lamela,Right Winger,€16.00m ,"Mar 4, 1992 (27)",Argentina
+124,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/harry-kane/profil/spieler/132098,Harry Kane,Centre-Forward,€120.00m ,"Jul 28, 1993 (25)",England
+125,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2019,/troy-parrott/profil/spieler/552655,Troy Parrott,Centre-Forward,€3.60m ,"Feb 4, 2002 (17)",Ireland
+126,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/kepa/profil/spieler/192279,Kepa,Goalkeeper,€32.00m ,"Oct 3, 1994 (24)",Spain
+127,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/willy-caballero/profil/spieler/19948,Willy Caballero,Goalkeeper,€600Th. ,"Sep 28, 1981 (37)",Argentina
+128,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/jamie-cumming/profil/spieler/396859,Jamie Cumming,Goalkeeper,€450Th. ,"Sep 4, 1999 (19)",England
+129,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/antonio-rudiger/profil/spieler/86202,Antonio Rüdiger,Centre-Back,€40.00m ,"Mar 3, 1993 (26)",Germany
+130,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/kurt-zouma/profil/spieler/157509,Kurt Zouma,Centre-Back,€28.00m ,"Oct 27, 1994 (24)",France
+131,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/andreas-christensen/profil/spieler/196948,Andreas Christensen,Centre-Back,€24.00m ,"Apr 10, 1996 (23)",Denmark
+132,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/fikayo-tomori/profil/spieler/303254,Fikayo Tomori,Centre-Back,€16.00m ,"Dec 19, 1997 (21)",England
+133,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/marc-guehi/profil/spieler/392757,Marc Guehi,Centre-Back,€2.70m ,"Jul 13, 2000 (18)",England
+134,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/dynel-simeu/profil/spieler/503976,Dynel Simeu,Centre-Back, ,"Mar 13, 2002 (17)",England
+135,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/emerson/profil/spieler/181778,Emerson,Left-Back,€24.00m ,"Aug 3, 1994 (24)",Italy
+136,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/marcos-alonso/profil/spieler/112515,Marcos Alonso,Left-Back,€20.00m ,"Dec 28, 1990 (28)",Spain
+137,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/ian-maatsen/profil/spieler/485585,Ian Maatsen,Left-Back, ,"Mar 10, 2002 (17)",Netherlands
+138,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/cesar-azpilicueta/profil/spieler/57500,César Azpilicueta,Right-Back,€24.00m ,"Aug 28, 1989 (29)",Spain
+139,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/reece-james/profil/spieler/472423,Reece James,Right-Back,€22.50m ,"Dec 8, 1999 (19)",England
+140,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/tariq-lamptey/profil/spieler/504148,Tariq Lamptey,Right-Back,€3.20m ,"Sep 30, 2000 (18)",England
+141,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/henry-lawrence/profil/spieler/580765,Henry Lawrence,Right-Back, ,"Sep 21, 2001 (17)",England
+142,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/jorginho/profil/spieler/102017,Jorginho,Defensive Midfield,€52.00m ,"Dec 20, 1991 (27)",Italy
+143,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/ngolo-kante/profil/spieler/225083,N'Golo Kanté,Central Midfield,€80.00m ,"Mar 29, 1991 (28)",France
+144,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/mateo-kovacic/profil/spieler/51471,Mateo Kovacic,Central Midfield,€36.00m ,"May 6, 1994 (25)",Croatia
+145,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/ruben-loftus-cheek/profil/spieler/202886,Ruben Loftus-Cheek,Central Midfield,€24.00m ,"Jan 23, 1996 (23)",England
+146,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/ross-barkley/profil/spieler/131978,Ross Barkley,Central Midfield,€21.50m ,"Dec 5, 1993 (25)",England
+147,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/billy-gilmour/profil/spieler/423744,Billy Gilmour,Central Midfield,€5.40m ,"Jun 11, 2001 (18)",Scotland
+148,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/marco-van-ginkel/profil/spieler/147034,Marco van Ginkel,Central Midfield,€3.20m ,"Dec 1, 1992 (26)",Netherlands
+149,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/lewis-bate/profil/spieler/587003,Lewis Bate,Central Midfield, ,"Oct 28, 2002 (16)",England
+150,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/davide-zappacosta/profil/spieler/173859,Davide Zappacosta,Right Midfield,€12.00m ,"Jun 11, 1992 (27)",Italy
+151,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/mason-mount/profil/spieler/346483,Mason Mount,Attacking Midfield,€40.50m ,"Jan 10, 1999 (20)",England
+152,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/faustino-anjorin/profil/spieler/433181,Faustino Anjorin,Attacking Midfield,€2.30m ,"Nov 23, 2001 (17)",England
+153,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/callum-hudson-odoi/profil/spieler/392768,Callum Hudson-Odoi,Left Winger,€31.50m ,"Nov 7, 2000 (18)",England
+154,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/kenedy/profil/spieler/281404,Kenedy,Left Winger,€9.50m ,"Feb 8, 1996 (23)",Brazil
+155,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/christian-pulisic/profil/spieler/315779,Christian Pulisic,Right Winger,€54.00m ,"Sep 18, 1998 (20)",United States
+156,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/willian/profil/spieler/52769,Willian,Right Winger,€22.50m ,"Aug 9, 1988 (30)",Brazil
+157,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/pedro/profil/spieler/65278,Pedro,Right Winger,€9.50m ,"Jul 28, 1987 (31)",Spain
+158,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/tammy-abraham/profil/spieler/331726,Tammy Abraham,Centre-Forward,€40.00m ,"Oct 2, 1997 (21)",England
+159,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/michy-batshuayi/profil/spieler/179184,Michy Batshuayi,Centre-Forward,€17.50m ,"Oct 2, 1993 (25)",Belgium
+160,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/olivier-giroud/profil/spieler/82442,Olivier Giroud,Centre-Forward,€7.00m ,"Sep 30, 1986 (32)",France
+161,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2019,/armando-broja/profil/spieler/571743,Armando Broja,Centre-Forward, ,"Sep 10, 2001 (17)",Albania
+162,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/david-de-gea/profil/spieler/59377,David de Gea,Goalkeeper,€40.00m ,"Nov 7, 1990 (28)",Spain
+163,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/sergio-romero/profil/spieler/30690,Sergio Romero,Goalkeeper,€2.80m ,"Feb 22, 1987 (32)",Argentina
+164,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/lee-grant/profil/spieler/13460,Lee Grant,Goalkeeper,€600Th. ,"Jan 27, 1983 (36)",England
+165,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/joel-pereira/profil/spieler/192611,Joel Pereira,Goalkeeper,€475Th. ,"Jun 28, 1996 (23)",Portugal
+166,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/matej-kovar/profil/spieler/550829,Matej Kovar,Goalkeeper,€250Th. ,"May 17, 2000 (19)",Czech Republic
+167,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/harry-maguire/profil/spieler/177907,Harry Maguire,Centre-Back,€56.00m ,"Mar 5, 1993 (26)",England
+168,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/victor-lindelof/profil/spieler/184573,Victor Lindelöf,Centre-Back,€28.00m ,"Jul 17, 1994 (24)",Sweden
+169,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/eric-bailly/profil/spieler/286384,Eric Bailly,Centre-Back,€17.50m ,"Apr 12, 1994 (25)",Cote d'Ivoire
+170,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/marcos-rojo/profil/spieler/93176,Marcos Rojo,Centre-Back,€8.00m ,"Mar 20, 1990 (29)",Argentina
+171,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/axel-tuanzebe/profil/spieler/342046,Axel Tuanzebe,Centre-Back,€8.00m ,"Nov 14, 1997 (21)",England
+172,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/phil-jones/profil/spieler/117996,Phil Jones,Centre-Back,€7.00m ,"Feb 21, 1992 (27)",England
+173,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/max-taylor/profil/spieler/460683,Max Taylor,Centre-Back, ,"Jan 10, 2000 (19)",England
+174,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/dishon-bernard/profil/spieler/531677,Di'Shon Bernard,Centre-Back, ,"Oct 14, 2000 (18)",England
+175,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/teden-mengi/profil/spieler/548470,Teden Mengi,Centre-Back, ,"Apr 30, 2002 (17)",England
+176,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/luke-shaw/profil/spieler/183288,Luke Shaw,Left-Back,€17.50m ,"Jul 12, 1995 (23)",England
+177,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/brandon-williams/profil/spieler/507700,Brandon Williams,Left-Back,€11.00m ,"Sep 3, 2000 (18)",England
+178,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/cameron-borthwick-jackson/profil/spieler/258879,Cameron Borthwick-Jackson,Left-Back,€800Th. ,"Feb 2, 1997 (22)",England
+179,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/aaron-wan-bissaka/profil/spieler/477758,Aaron Wan-Bissaka,Right-Back,€32.00m ,"Nov 26, 1997 (21)",England
+180,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/diogo-dalot/profil/spieler/357147,Diogo Dalot,Right-Back,€18.00m ,"Mar 18, 1999 (20)",Portugal
+181,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/timothy-fosu-mensah/profil/spieler/315131,Timothy Fosu-Mensah,Right-Back,€6.30m ,"Jan 2, 1998 (21)",Netherlands
+182,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/ethan-laird/profil/spieler/531679,Ethan Laird,Right-Back,€1.80m ,"Aug 5, 2001 (17)",England
+183,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/nemanja-matic/profil/spieler/74683,Nemanja Matic,Defensive Midfield,€16.00m ,"Aug 1, 1988 (30)",Serbia
+184,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/james-garner/profil/spieler/505219,James Garner,Defensive Midfield,€2.70m ,"Mar 13, 2001 (18)",England
+185,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/paul-pogba/profil/spieler/122153,Paul Pogba,Central Midfield,€80.00m ,"Mar 15, 1993 (26)",France
+186,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/scott-mctominay/profil/spieler/315969,Scott McTominay,Central Midfield,€22.50m ,"Dec 8, 1996 (22)",Scotland
+187,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/fred/profil/spieler/191614,Fred,Central Midfield,€17.50m ,"Mar 5, 1993 (26)",Brazil
+188,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/ethan-galbraith/profil/spieler/433991,Ethan Galbraith,Central Midfield,€900Th. ,"May 11, 2001 (18)",Northern Ireland
+189,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/arnau-puigmal/profil/spieler/536030,Arnau Puigmal,Central Midfield,€900Th. ,"Jan 10, 2001 (18)",Spain
+190,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/dylan-levitt/profil/spieler/496652,Dylan Levitt,Central Midfield,€675Th. ,"Nov 17, 2000 (18)",Wales
+191,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/ashley-young/profil/spieler/14086,Ashley Young,Left Midfield,€3.20m ,"Jul 9, 1985 (33)",England
+192,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/bruno-fernandes/profil/spieler/240306,Bruno Fernandes,Attacking Midfield,€48.00m ,"Sep 8, 1994 (24)",Portugal
+193,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/jesse-lingard/profil/spieler/141660,Jesse Lingard,Attacking Midfield,€17.50m ,"Dec 15, 1992 (26)",England
+194,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/andreas-pereira/profil/spieler/203394,Andreas Pereira,Attacking Midfield,€16.00m ,"Jan 1, 1996 (23)",Brazil
+195,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/juan-mata/profil/spieler/44068,Juan Mata,Attacking Midfield,€9.50m ,"Apr 28, 1988 (31)",Spain
+196,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/angel-gomes/profil/spieler/392770,Angel Gomes,Attacking Midfield,€3.60m ,"Aug 31, 2000 (18)",England
+197,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/marcus-rashford/profil/spieler/258923,Marcus Rashford,Left Winger,€64.00m ,"Oct 31, 1997 (21)",England
+198,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/daniel-james/profil/spieler/319301,Daniel James,Left Winger,€22.50m ,"Nov 10, 1997 (21)",Wales
+199,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/largie-ramazani/profil/spieler/518644,Largie Ramazani,Left Winger,€450Th. ,"Feb 27, 2001 (18)",Belgium
+200,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/mason-greenwood/profil/spieler/532826,Mason Greenwood,Right Winger,€29.00m ,"Oct 1, 2001 (17)",England
+201,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/tahith-chong/profil/spieler/344830,Tahith Chong,Right Winger,€6.30m ,"Dec 4, 1999 (19)",Netherlands
+202,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/anthony-martial/profil/spieler/182877,Anthony Martial,Centre-Forward,€48.00m ,"Dec 5, 1995 (23)",France
+203,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/odion-ighalo/profil/spieler/62121,Odion Ighalo,Centre-Forward,€5.20m ,"Jun 16, 1989 (30)",Nigeria
+204,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2019,/dmani-mellor/profil/spieler/531678,D'Mani Mellor,Centre-Forward, ,"Sep 20, 2000 (18)",England
+205,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/bernd-leno/profil/spieler/72476,Bernd Leno,Goalkeeper,€28.00m ,"Mar 4, 1992 (27)",Germany
+206,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/emiliano-martinez/profil/spieler/111873,Emiliano Martínez,Goalkeeper,€2.80m ,"Sep 2, 1992 (26)",Argentina
+207,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/matt-macey/profil/spieler/220491,Matt Macey,Goalkeeper,€250Th. ,"Sep 9, 1994 (24)",England
+208,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/sokratis-papastathopoulos/profil/spieler/34322,Sokratis Papastathopoulos,Centre-Back,€14.50m ,"Jun 9, 1988 (31)",Greece
+209,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/calum-chambers/profil/spieler/215118,Calum Chambers,Centre-Back,€14.50m ,"Jan 20, 1995 (24)",England
+210,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/shkodran-mustafi/profil/spieler/88590,Shkodran Mustafi,Centre-Back,€12.00m ,"Apr 17, 1992 (27)",Germany
+211,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/david-luiz/profil/spieler/46741,David Luiz,Centre-Back,€12.00m ,"Apr 22, 1987 (32)",Brazil
+212,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/rob-holding/profil/spieler/253341,Rob Holding,Centre-Back,€9.50m ,"Sep 20, 1995 (23)",England
+213,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/pablo-mari/profil/spieler/210178,Pablo Marí,Centre-Back,€4.80m ,"Aug 31, 1993 (25)",Spain
+214,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/konstantinos-mavropanos/profil/spieler/415912,Konstantinos Mavropanos,Centre-Back,€2.40m ,"Dec 11, 1997 (21)",Greece
+215,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/zech-medley/profil/spieler/392761,Zech Medley,Centre-Back, ,"Jul 9, 2000 (18)",England
+216,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/kieran-tierney/profil/spieler/300716,Kieran Tierney,Left-Back,€20.00m ,"Jun 5, 1997 (22)",Scotland
+217,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/sead-kolasinac/profil/spieler/94005,Sead Kolasinac,Left-Back,€16.00m ,"Jun 20, 1993 (26)",Bosnia-Herzegovina
+218,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/nacho-monreal/profil/spieler/43003,Nacho Monreal,Left-Back,€3.20m ,"Feb 26, 1986 (33)",Spain
+219,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/tolaji-bola/profil/spieler/340307,Tolaji Bola,Left-Back, ,"Jan 4, 1999 (20)",England
+220,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/hector-bellerin/profil/spieler/191217,Héctor Bellerín,Right-Back,€32.00m ,"Mar 19, 1995 (24)",Spain
+221,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/cedric-soares/profil/spieler/112988,Cédric Soares,Right-Back,€8.00m ,"Aug 31, 1991 (27)",Portugal
+222,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/lucas-torreira/profil/spieler/318077,Lucas Torreira,Defensive Midfield,€36.00m ,"Feb 11, 1996 (23)",Uruguay
+223,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/granit-xhaka/profil/spieler/111455,Granit Xhaka,Defensive Midfield,€24.00m ,"Sep 27, 1992 (26)",Switzerland
+224,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/matteo-guendouzi/profil/spieler/465830,Mattéo Guendouzi,Central Midfield,€40.50m ,"Apr 14, 1999 (20)",France
+225,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/dani-ceballos/profil/spieler/319745,Dani Ceballos,Central Midfield,€32.00m ,"Aug 7, 1996 (22)",Spain
+226,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/joe-willock/profil/spieler/340329,Joe Willock,Central Midfield,€16.00m ,"Aug 20, 1999 (19)",England
+227,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/robbie-burton/profil/spieler/404386,Robbie Burton,Central Midfield, ,"Dec 26, 1999 (19)",Wales
+228,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/james-olayinka/profil/spieler/506965,James Olayinka,Central Midfield, ,"Oct 5, 2000 (18)",England
+229,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/matt-smith/profil/spieler/528894,Matt Smith,Central Midfield, ,"Oct 5, 2000 (18)",England
+230,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/ainsley-maitland-niles/profil/spieler/285845,Ainsley Maitland-Niles,Right Midfield,€14.50m ,"Aug 29, 1997 (21)",England
+231,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/henrikh-mkhitaryan/profil/spieler/55735,Henrikh Mkhitaryan,Attacking Midfield,€20.00m ,"Jan 21, 1989 (30)",Armenia
+232,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/mesut-ozil/profil/spieler/35664,Mesut Özil,Attacking Midfield,€17.50m ,"Oct 15, 1988 (30)",Germany
+233,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/emile-smith-rowe/profil/spieler/392765,Emile Smith Rowe,Attacking Midfield,€2.70m ,"Jul 28, 2000 (18)",England
+234,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/gabriel-martinelli/profil/spieler/655488,Gabriel Martinelli,Left Winger,€25.00m ,"Jun 18, 2001 (18)",Brazil
+235,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/nicolas-pepe/profil/spieler/343052,Nicolas Pépé,Right Winger,€52.00m ,"May 29, 1995 (24)",Cote d'Ivoire
+236,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/bukayo-saka/profil/spieler/433177,Bukayo Saka,Right Winger,€20.00m ,"Sep 5, 2001 (17)",England
+237,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/reiss-nelson/profil/spieler/340325,Reiss Nelson,Right Winger,€12.50m ,"Dec 10, 1999 (19)",England
+238,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/pierre-emerick-aubameyang/profil/spieler/58864,Pierre-Emerick Aubameyang,Centre-Forward,€56.00m ,"Jun 18, 1989 (30)",Gabon
+239,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/alexandre-lacazette/profil/spieler/93720,Alexandre Lacazette,Centre-Forward,€48.00m ,"May 28, 1991 (28)",France
+240,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/eddie-nketiah/profil/spieler/340324,Eddie Nketiah,Centre-Forward,€11.00m ,"May 30, 1999 (20)",England
+241,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/tyreece-john-jules/profil/spieler/503768,Tyreece John-Jules,Centre-Forward, ,"Feb 14, 2001 (18)",England
+242,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2019,/folarin-balogun/profil/spieler/503770,Folarin Balogun,Centre-Forward, ,"Jul 3, 2001 (17)",England
+243,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/jordan-pickford/profil/spieler/130164,Jordan Pickford,Goalkeeper,€28.00m ,"Mar 7, 1994 (25)",England
+244,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/jonas-lossl/profil/spieler/48870,Jonas Lössl,Goalkeeper,€3.20m ,"Feb 1, 1989 (30)",Denmark
+245,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/maarten-stekelenburg/profil/spieler/4311,Maarten Stekelenburg,Goalkeeper,€550Th. ,"Sep 22, 1982 (36)",Netherlands
+246,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/joao-virginia/profil/spieler/329813,João Virgínia,Goalkeeper,€150Th. ,"Oct 10, 1999 (19)",Portugal
+247,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/michael-keane/profil/spieler/118534,Michael Keane,Centre-Back,€20.00m ,"Jan 11, 1993 (26)",England
+248,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/yerry-mina/profil/spieler/289446,Yerry Mina,Centre-Back,€20.00m ,"Sep 23, 1994 (24)",Colombia
+249,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/mason-holgate/profil/spieler/348623,Mason Holgate,Centre-Back,€13.50m ,"Oct 22, 1996 (22)",England
+250,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/lewis-gibson/profil/spieler/419325,Lewis Gibson,Centre-Back, ,"Jul 19, 2000 (18)",England
+251,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/jarrad-branthwaite/profil/spieler/661053,Jarrad Branthwaite,Centre-Back, ,"Jun 27, 2002 (17)",England
+252,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/lucas-digne/profil/spieler/126664,Lucas Digne,Left-Back,€28.00m ,"Jul 20, 1993 (25)",France
+253,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/leighton-baines/profil/spieler/13507,Leighton Baines,Left-Back,€1.60m ,"Dec 11, 1984 (34)",England
+254,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/luke-garbutt/profil/spieler/110860,Luke Garbutt,Left-Back,€600Th. ,"May 21, 1993 (26)",England
+255,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/djibril-sidibe/profil/spieler/161869,Djibril Sidibé,Right-Back,€9.50m ,"Jul 29, 1992 (26)",France
+256,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/seamus-coleman/profil/spieler/68390,Seamus Coleman,Right-Back,€9.50m ,"Oct 11, 1988 (30)",Ireland
+257,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/cuco-martina/profil/spieler/91251,Cuco Martina,Right-Back,€1.20m ,"Sep 25, 1989 (29)",Curacao
+258,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/jean-philippe-gbamin/profil/spieler/182894,Jean-Philippe Gbamin,Defensive Midfield,€22.50m ,"Sep 25, 1995 (23)",Cote d'Ivoire
+259,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/morgan-schneiderlin/profil/spieler/56818,Morgan Schneiderlin,Defensive Midfield,€9.50m ,"Nov 8, 1989 (29)",France
+260,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/muhamed-besic/profil/spieler/93905,Muhamed Besic,Defensive Midfield,€2.40m ,"Sep 10, 1992 (26)",Bosnia-Herzegovina
+261,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/andre-gomes/profil/spieler/221025,André Gomes,Central Midfield,€22.50m ,"Jul 30, 1993 (25)",Portugal
+262,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/tom-davies/profil/spieler/314210,Tom Davies,Central Midfield,€16.00m ,"Jun 30, 1998 (21)",England
+263,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/fabian-delph/profil/spieler/50362,Fabian Delph,Central Midfield,€12.00m ,"Nov 21, 1989 (29)",England
+264,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/beni-baningime/profil/spieler/399369,Beni Baningime,Central Midfield,€1.30m ,"Sep 9, 1998 (20)",DR Congo
+265,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/dennis-adeniran/profil/spieler/353147,Dennis Adeniran,Central Midfield,- ,"Jan 2, 1999 (20)",England
+266,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/gylfi-sigurdsson/profil/spieler/90466,Gylfi Sigurdsson,Attacking Midfield,€22.50m ,"Sep 8, 1989 (29)",Iceland
+267,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/richarlison/profil/spieler/378710,Richarlison,Left Winger,€52.00m ,"May 10, 1997 (22)",Brazil
+268,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/alex-iwobi/profil/spieler/242631,Alex Iwobi,Left Winger,€25.50m ,"May 3, 1996 (23)",Nigeria
+269,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/bernard/profil/spieler/175169,Bernard,Left Winger,€16.00m ,"Sep 8, 1992 (26)",Brazil
+270,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/yannick-bolasie/profil/spieler/75471,Yannick Bolasie,Left Winger,€4.80m ,"May 24, 1989 (30)",DR Congo
+271,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/anthony-gordon/profil/spieler/503733,Anthony Gordon,Left Winger,€1.30m ,"Feb 24, 2001 (18)",England
+272,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/theo-walcott/profil/spieler/33713,Theo Walcott,Right Winger,€12.00m ,"Mar 16, 1989 (30)",England
+273,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/moise-kean/profil/spieler/364135,Moise Kean,Centre-Forward,€25.00m ,"Feb 28, 2000 (19)",Italy
+274,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/dominic-calvert-lewin/profil/spieler/306024,Dominic Calvert-Lewin,Centre-Forward,€24.00m ,"Mar 16, 1997 (22)",England
+275,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/cenk-tosun/profil/spieler/45671,Cenk Tosun,Centre-Forward,€12.00m ,"Jun 7, 1991 (28)",Turkey
+276,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/oumar-niasse/profil/spieler/209781,Oumar Niasse,Centre-Forward,€3.20m ,"Apr 18, 1990 (29)",Senegal
+277,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2019,/ellis-simms/profil/spieler/511550,Ellis Simms,Centre-Forward, ,"Jan 5, 2001 (18)",England
+278,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/kasper-schmeichel/profil/spieler/16911,Kasper Schmeichel,Goalkeeper,€9.50m ,"Nov 5, 1986 (32)",Denmark
+279,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/danny-ward/profil/spieler/203026,Danny Ward,Goalkeeper,€6.50m ,"Jun 22, 1993 (26)",Wales
+280,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/eldin-jakupovic/profil/spieler/2857,Eldin Jakupovic,Goalkeeper,€600Th. ,"Oct 2, 1984 (34)",Switzerland
+281,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/caglar-soyuncu/profil/spieler/320141,Caglar Söyüncü,Centre-Back,€32.00m ,"May 23, 1996 (23)",Turkey
+282,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/jonny-evans/profil/spieler/42412,Jonny Evans,Centre-Back,€12.00m ,"Jan 3, 1988 (31)",Northern Ireland
+283,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/filip-benkovic/profil/spieler/293168,Filip Benkovic,Centre-Back,€7.00m ,"Jul 13, 1997 (21)",Croatia
+284,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/daniel-amartey/profil/spieler/214056,Daniel Amartey,Centre-Back,€5.50m ,"Dec 21, 1994 (24)",Ghana
+285,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/ryan-bennett/profil/spieler/67252,Ryan Bennett,Centre-Back,€4.00m ,"Mar 6, 1990 (29)",England
+286,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/wes-morgan/profil/spieler/10003,Wes Morgan,Centre-Back,€1.20m ,"Jan 21, 1984 (35)",Jamaica
+287,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/darnell-johnson/profil/spieler/314372,Darnell Johnson,Centre-Back, ,"Sep 3, 1998 (20)",England
+288,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/ben-chilwell/profil/spieler/316125,Ben Chilwell,Left-Back,€40.00m ,"Dec 21, 1996 (22)",England
+289,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/christian-fuchs/profil/spieler/6636,Christian Fuchs,Left-Back,€1.60m ,"Apr 7, 1986 (33)",Austria
+290,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/luke-thomas/profil/spieler/505194,Luke Thomas,Left-Back, ,"Jun 10, 2001 (18)",England
+291,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/ricardo-pereira/profil/spieler/215876,Ricardo Pereira,Right-Back,€32.00m ,"Oct 6, 1993 (25)",Portugal
+292,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/james-justin/profil/spieler/413220,James Justin,Right-Back,€3.60m ,"Feb 23, 1998 (21)",England
+293,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/wilfred-ndidi/profil/spieler/274839,Wilfred Ndidi,Defensive Midfield,€36.00m ,"Dec 16, 1996 (22)",Nigeria
+294,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/hamza-choudhury/profil/spieler/341501,Hamza Choudhury,Defensive Midfield,€8.00m ,"Oct 1, 1997 (21)",England
+295,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/nampalys-mendy/profil/spieler/111051,Nampalys Mendy,Defensive Midfield,€5.50m ,"Jun 23, 1992 (27)",Senegal
+296,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/kiernan-dewsbury-hall/profil/spieler/475188,Kiernan Dewsbury-Hall,Defensive Midfield, ,"Sep 6, 1998 (20)",England
+297,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/youri-tielemans/profil/spieler/249565,Youri Tielemans,Central Midfield,€44.00m ,"May 7, 1997 (22)",Belgium
+298,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/dennis-praet/profil/spieler/129588,Dennis Praet,Central Midfield,€19.00m ,"May 14, 1994 (25)",Belgium
+299,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/matty-james/profil/spieler/73522,Matty James,Central Midfield,€1.20m ,"Jul 22, 1991 (27)",England
+300,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/marc-albrighton/profil/spieler/61560,Marc Albrighton,Right Midfield,€8.00m ,"Nov 18, 1989 (29)",England
+301,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/harvey-barnes/profil/spieler/398065,Harvey Barnes,Left Midfield,€17.50m ,"Dec 9, 1997 (21)",England
+302,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/james-maddison/profil/spieler/294057,James Maddison,Attacking Midfield,€48.00m ,"Nov 23, 1996 (22)",England
+303,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/bartosz-kapustka/profil/spieler/246579,Bartosz Kapustka,Attacking Midfield,€1.20m ,"Dec 23, 1996 (22)",Poland
+304,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/george-thomas/profil/spieler/298240,George Thomas,Attacking Midfield,€250Th. ,"Mar 24, 1997 (22)",Wales
+305,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/demarai-gray/profil/spieler/292417,Demarai Gray,Left Winger,€14.50m ,"Jun 28, 1996 (23)",England
+306,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/ayoze-perez/profil/spieler/246968,Ayoze Pérez,Second Striker,€24.00m ,"Jul 29, 1993 (25)",Spain
+307,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/jamie-vardy/profil/spieler/197838,Jamie Vardy,Centre-Forward,€16.00m ,"Jan 11, 1987 (32)",England
+308,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/kelechi-iheanacho/profil/spieler/295330,Kelechi Iheanacho,Centre-Forward,€12.00m ,"Oct 3, 1996 (22)",Nigeria
+309,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2019,/george-hirst/profil/spieler/420808,George Hirst,Centre-Forward,€450Th. ,"Feb 15, 1999 (20)",England
+310,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/lukasz-fabianski/profil/spieler/29692,Lukasz Fabianski,Goalkeeper,€3.20m ,"Apr 18, 1985 (34)",Poland
+311,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/darren-randolph/profil/spieler/51321,Darren Randolph,Goalkeeper,€2.80m ,"May 12, 1987 (32)",Ireland
+312,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/roberto/profil/spieler/37403,Roberto,Goalkeeper,€800Th. ,"Feb 10, 1986 (33)",Spain
+313,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/david-martin/profil/spieler/15930,David Martin,Goalkeeper,€250Th. ,"Jan 22, 1986 (33)",England
+314,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/joseph-anang/profil/spieler/576099,Joseph Anang,Goalkeeper, ,"Jun 8, 2000 (19)",England
+315,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/issa-diop/profil/spieler/272622,Issa Diop,Centre-Back,€28.00m ,"Jan 9, 1997 (22)",France
+316,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/fabian-balbuena/profil/spieler/285548,Fabián Balbuena,Centre-Back,€9.50m ,"Aug 23, 1991 (27)",Paraguay
+317,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/angelo-ogbonna/profil/spieler/48002,Angelo Ogbonna,Centre-Back,€6.50m ,"May 23, 1988 (31)",Italy
+318,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/winston-reid/profil/spieler/37526,Winston Reid,Centre-Back,€3.20m ,"Jul 3, 1988 (30)",New Zealand
+319,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/goncalo-cardoso/profil/spieler/587106,Gonçalo Cardoso,Centre-Back,€2.30m ,"Oct 21, 2000 (18)",Portugal
+320,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/aaron-cresswell/profil/spieler/92571,Aaron Cresswell,Left-Back,€6.50m ,"Dec 15, 1989 (29)",England
+321,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/arthur-masuaku/profil/spieler/181380,Arthur Masuaku,Left-Back,€6.50m ,"Nov 7, 1993 (25)",DR Congo
+322,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/ryan-fredericks/profil/spieler/140191,Ryan Fredericks,Right-Back,€4.00m ,"Oct 10, 1992 (26)",England
+323,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/pablo-zabaleta/profil/spieler/20007,Pablo Zabaleta,Right-Back,€800Th. ,"Jan 16, 1985 (34)",Argentina
+324,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/jeremy-ngakia/profil/spieler/503795,Jeremy Ngakia,Right-Back,€250Th. ,"Sep 7, 2000 (18)",England
+325,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/ben-johnson/profil/spieler/468002,Ben Johnson,Right-Back, ,"Jan 24, 2000 (19)",England
+326,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/declan-rice/profil/spieler/357662,Declan Rice,Defensive Midfield,€49.50m ,"Jan 14, 1999 (20)",England
+327,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/tomas-soucek/profil/spieler/283628,Tomas Soucek,Defensive Midfield,€12.00m ,"Feb 27, 1995 (24)",Czech Republic
+328,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/carlos-sanchez/profil/spieler/51226,Carlos Sánchez,Defensive Midfield,€1.20m ,"Feb 6, 1986 (33)",Colombia
+329,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/conor-coventry/profil/spieler/419025,Conor Coventry,Defensive Midfield, ,"Mar 25, 2000 (19)",Ireland
+330,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/mark-noble/profil/spieler/31835,Mark Noble,Central Midfield,€4.80m ,"May 8, 1987 (32)",England
+331,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/jack-wilshere/profil/spieler/74223,Jack Wilshere,Central Midfield,€4.80m ,"Jan 1, 1992 (27)",England
+332,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/bernardo-rosa/profil/spieler/476367,Bernardo Rosa,Central Midfield, ,"Sep 20, 2000 (18)",Brazil
+333,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/alfie-lewis/profil/spieler/423571,Alfie Lewis,Central Midfield, ,"Sep 28, 1999 (19)",England
+334,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/felipe-anderson/profil/spieler/159372,Felipe Anderson,Left Midfield,€32.00m ,"Apr 15, 1993 (26)",Brazil
+335,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/manuel-lanzini/profil/spieler/135853,Manuel Lanzini,Attacking Midfield,€16.00m ,"Feb 15, 1993 (26)",Argentina
+336,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/pablo-fornals/profil/spieler/357885,Pablo Fornals,Attacking Midfield,€16.00m ,"Feb 22, 1996 (23)",Spain
+337,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/grady-diangana/profil/spieler/342048,Grady Diangana,Left Winger,€4.50m ,"Apr 19, 1998 (21)",England
+338,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/nathan-holland/profil/spieler/337321,Nathan Holland,Left Winger, ,"Jun 19, 1998 (21)",England
+339,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/jarrod-bowen/profil/spieler/314875,Jarrod Bowen,Right Winger,€16.00m ,"Dec 20, 1996 (22)",England
+340,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/andriy-yarmolenko/profil/spieler/69015,Andriy Yarmolenko,Right Winger,€9.50m ,"Oct 23, 1989 (29)",Ukraine
+341,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/robert-snodgrass/profil/spieler/22614,Robert Snodgrass,Right Winger,€4.80m ,"Sep 7, 1987 (31)",Scotland
+342,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/xande-silva/profil/spieler/258011,Xande Silva,Right Winger,€800Th. ,"Mar 16, 1997 (22)",Portugal
+343,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/dan-kemp/profil/spieler/396857,Dan Kemp,Right Winger, ,"Jan 11, 1999 (20)",England
+344,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/sebastien-haller/profil/spieler/181375,Sébastien Haller,Centre-Forward,€36.00m ,"Jun 22, 1994 (25)",Cote d'Ivoire
+345,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/michail-antonio/profil/spieler/104124,Michail Antonio,Centre-Forward,€9.50m ,"Mar 28, 1990 (29)",Jamaica
+346,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/chicharito/profil/spieler/50935,Chicharito,Centre-Forward,€6.80m ,"Jun 1, 1988 (31)",Mexico
+347,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2019,/albian-ajeti/profil/spieler/195906,Albian Ajeti,Centre-Forward,€4.80m ,"Feb 26, 1997 (22)",Switzerland
+348,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/rui-patricio/profil/spieler/45026,Rui Patrício,Goalkeeper,€16.00m ,"Feb 15, 1988 (31)",Portugal
+349,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/john-ruddy/profil/spieler/29712,John Ruddy,Goalkeeper,€2.00m ,"Oct 24, 1986 (32)",England
+350,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/will-norris/profil/spieler/285033,Will Norris,Goalkeeper,€250Th. ,"Aug 12, 1993 (25)",England
+351,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/andreas-sondergaard/profil/spieler/462820,Andreas Söndergaard,Goalkeeper, ,"Jan 17, 2001 (18)",Denmark
+352,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/willy-boly/profil/spieler/142310,Willy Boly,Centre-Back,€14.50m ,"Feb 3, 1991 (28)",Cote d'Ivoire
+353,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/conor-coady/profil/spieler/128901,Conor Coady,Centre-Back,€14.50m ,"Feb 25, 1993 (26)",England
+354,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/jesus-vallejo/profil/spieler/251896,Jesús Vallejo,Centre-Back,€6.00m ,"Jan 5, 1997 (22)",Spain
+355,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/ryan-bennett/profil/spieler/67252,Ryan Bennett,Centre-Back,€4.00m ,"Mar 6, 1990 (29)",England
+356,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/romain-saiss/profil/spieler/204198,Romain Saïss,Centre-Back,€4.00m ,"Mar 26, 1990 (29)",Morocco
+357,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/max-kilman/profil/spieler/525247,Max Kilman,Centre-Back,€800Th. ,"May 23, 1997 (22)",England
+358,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/dion-sanderson/profil/spieler/495993,Dion Sanderson,Centre-Back,€150Th. ,"Dec 15, 1999 (19)",England
+359,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/lewis-richards/profil/spieler/571827,Lewis Richards,Centre-Back, ,"Oct 15, 2001 (17)",Ireland
+360,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/christian-marques/profil/spieler/539807,Christian Marques,Centre-Back, ,"Jan 15, 2003 (16)",Switzerland
+361,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/jonny-otto/profil/spieler/175446,Jonny Otto,Left-Back,€16.00m ,"Mar 3, 1994 (25)",Spain
+362,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/ruben-vinagre/profil/spieler/357158,Rúben Vinagre,Left-Back,€9.00m ,"Apr 9, 1999 (20)",Portugal
+363,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/matt-doherty/profil/spieler/171679,Matt Doherty,Right-Back,€16.00m ,"Jan 16, 1992 (27)",Ireland
+364,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/luke-matheson/profil/spieler/614084,Luke Matheson,Right-Back,€900Th. ,"Oct 2, 2002 (16)",England
+365,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/phil-ofosu-ayeh/profil/spieler/133858,Phil Ofosu-Ayeh,Right-Back,€300Th. ,"Sep 15, 1991 (27)",Ghana
+366,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/oskar-buur/profil/spieler/293283,Oskar Buur,Right-Back,€100Th. ,"Mar 31, 1998 (21)",Denmark
+367,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/ruben-neves/profil/spieler/225161,Rúben Neves,Defensive Midfield,€40.00m ,"Mar 13, 1997 (22)",Portugal
+368,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/leander-dendoncker/profil/spieler/168157,Leander Dendoncker,Defensive Midfield,€22.50m ,"Apr 15, 1995 (24)",Belgium
+369,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/flavio-cristovao/profil/spieler/544789,Flávio Cristóvão,Defensive Midfield,€100Th. ,"May 23, 1997 (22)",Portugal
+370,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/terry-taylor/profil/spieler/463758,Terry Taylor,Defensive Midfield, ,"Jun 29, 2001 (18)",Wales
+371,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/owen-otasowie/profil/spieler/511815,Owen Otasowie,Defensive Midfield, ,"Jan 6, 2001 (18)",United States
+372,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/joao-moutinho/profil/spieler/29364,João Moutinho,Central Midfield,€8.00m ,"Sep 8, 1986 (32)",Portugal
+373,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/morgan-gibbs-white/profil/spieler/429014,Morgan Gibbs-White,Central Midfield,€7.20m ,"Jan 27, 2000 (19)",England
+374,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/bruno-jordao/profil/spieler/415646,Bruno Jordão,Central Midfield,€2.30m ,"Oct 12, 1998 (20)",Portugal
+375,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/connor-ronan/profil/spieler/337787,Connor Ronan,Central Midfield,€450Th. ,"Mar 6, 1998 (21)",Ireland
+376,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/ming-yang-yang/profil/spieler/184382,Ming-Yang Yang,Central Midfield,€250Th. ,"Jul 11, 1995 (23)",Switzerland
+377,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/taylor-perry/profil/spieler/502073,Taylor Perry,Central Midfield, ,"Jul 15, 2001 (17)",England
+378,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/luke-cundle/profil/spieler/532541,Luke Cundle,Central Midfield, ,"Apr 26, 2002 (17)",England
+379,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/ryan-giles/profil/spieler/504581,Ryan Giles,Left Midfield, ,"Jan 26, 2000 (19)",England
+380,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/meritan-shabani/profil/spieler/379980,Meritan Shabani,Attacking Midfield,€325Th. ,"Mar 15, 1999 (20)",Germany
+381,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/chem-campbell/profil/spieler/614603,Chem Campbell,Attacking Midfield, ,"Dec 30, 2002 (16)",Wales
+382,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/diogo-jota/profil/spieler/340950,Diogo Jota,Left Winger,€28.00m ,"Dec 4, 1996 (22)",Portugal
+383,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/pedro-neto/profil/spieler/487465,Pedro Neto,Left Winger,€11.50m ,"Mar 9, 2000 (19)",Portugal
+384,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/jordan-graham/profil/spieler/183283,Jordan Graham,Left Winger,€250Th. ,"Mar 5, 1995 (24)",England
+385,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/adama-traore/profil/spieler/204103,Adama Traoré,Right Winger,€25.50m ,"Jan 25, 1996 (23)",Spain
+386,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/daniel-podence/profil/spieler/256977,Daniel Podence,Right Winger,€12.00m ,"Oct 21, 1995 (23)",Portugal
+387,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/raul-jimenez/profil/spieler/206040,Raúl Jiménez,Centre-Forward,€40.00m ,"May 5, 1991 (28)",Mexico
+388,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/patrick-cutrone/profil/spieler/265078,Patrick Cutrone,Centre-Forward,€15.50m ,"Jan 3, 1998 (21)",Italy
+389,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/leonardo-campana/profil/spieler/606872,Leonardo Campana,Centre-Forward,€1.80m ,"Jul 24, 2000 (18)",Ecuador
+390,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/benny-ashley-seal/profil/spieler/322089,Benny Ashley-Seal,Centre-Forward,€150Th. ,"Nov 21, 1998 (20)",England
+391,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2019,/austin-samuels/profil/spieler/392762,Austin Samuels,Centre-Forward, ,"Nov 20, 2000 (18)",England
+392,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/martin-dubravka/profil/spieler/74960,Martin Dubravka,Goalkeeper,€5.50m ,"Jan 15, 1989 (30)",Slovakia
+393,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/karl-darlow/profil/spieler/99397,Karl Darlow,Goalkeeper,€2.40m ,"Oct 8, 1990 (28)",England
+394,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/rob-elliot/profil/spieler/39037,Rob Elliot,Goalkeeper,€600Th. ,"Apr 30, 1986 (33)",Ireland
+395,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/jamaal-lascelles/profil/spieler/183318,Jamaal Lascelles,Centre-Back,€14.50m ,"Nov 11, 1993 (25)",England
+396,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/fabian-schar/profil/spieler/135343,Fabian Schär,Centre-Back,€13.00m ,"Dec 20, 1991 (27)",Switzerland
+397,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/federico-fernandez/profil/spieler/85475,Federico Fernández,Centre-Back,€5.50m ,"Feb 21, 1989 (30)",Argentina
+398,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/ciaran-clark/profil/spieler/98240,Ciaran Clark,Centre-Back,€4.80m ,"Sep 26, 1989 (29)",Ireland
+399,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/florian-lejeune/profil/spieler/127108,Florian Lejeune,Centre-Back,€4.80m ,"May 20, 1991 (28)",France
+400,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/lewis-cass/profil/spieler/474382,Lewis Cass,Centre-Back, ,"Feb 27, 2000 (19)",England
+401,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/kelland-watts/profil/spieler/484389,Kelland Watts,Centre-Back, ,"Nov 3, 1999 (19)",England
+402,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/danny-rose/profil/spieler/50174,Danny Rose,Left-Back,€16.00m ,"Jul 2, 1990 (28)",England
+403,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/matt-ritchie/profil/spieler/92469,Matt Ritchie,Left-Back,€9.50m ,"Sep 10, 1989 (29)",Scotland
+404,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/paul-dummett/profil/spieler/170321,Paul Dummett,Left-Back,€5.50m ,"Sep 26, 1991 (27)",Wales
+405,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/jetro-willems/profil/spieler/146258,Jetro Willems,Left-Back,€5.50m ,"Mar 30, 1994 (25)",Netherlands
+406,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/liam-gibson/profil/spieler/312553,Liam Gibson,Left-Back, ,"Apr 25, 1997 (22)",England
+407,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/deandre-yedlin/profil/spieler/255916,DeAndre Yedlin,Right-Back,€6.50m ,"Jul 9, 1993 (25)",United States
+408,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/emil-krafth/profil/spieler/184528,Emil Krafth,Right-Back,€4.00m ,"Aug 2, 1994 (24)",Sweden
+409,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/javier-manquillo/profil/spieler/162029,Javier Manquillo,Right-Back,€4.00m ,"May 5, 1994 (25)",Spain
+410,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/jamie-sterry/profil/spieler/250431,Jamie Sterry,Right-Back,€75Th. ,"Nov 21, 1995 (23)",England
+411,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/isaac-hayden/profil/spieler/206225,Isaac Hayden,Defensive Midfield,€8.00m ,"Mar 22, 1995 (24)",England
+412,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/sung-yueng-ki/profil/spieler/81796,Sung-yueng Ki,Defensive Midfield,€2.40m ,"Jan 24, 1989 (30)","Korea, South"
+413,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/jack-colback/profil/spieler/61644,Jack Colback,Defensive Midfield,€1.60m ,"Oct 24, 1989 (29)",England
+414,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/sean-longstaff/profil/spieler/346707,Sean Longstaff,Central Midfield,€17.50m ,"Oct 30, 1997 (21)",England
+415,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/jonjo-shelvey/profil/spieler/71292,Jonjo Shelvey,Central Midfield,€14.50m ,"Feb 27, 1992 (27)",England
+416,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/nabil-bentaleb/profil/spieler/245537,Nabil Bentaleb,Central Midfield,€4.00m ,"Nov 24, 1994 (24)",Algeria
+417,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/matthew-longstaff/profil/spieler/484387,Matthew Longstaff,Central Midfield,€3.60m ,"Mar 21, 2000 (19)",England
+418,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/dan-barlaser/profil/spieler/256773,Dan Barlaser,Central Midfield, ,"Jan 18, 1997 (22)",England
+419,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/jack-young/profil/spieler/507235,Jack Young,Central Midfield, ,"Oct 21, 2000 (18)",England
+420,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/valentino-lazaro/profil/spieler/186368,Valentino Lazaro,Right Midfield,€15.00m ,"Mar 24, 1996 (23)",Austria
+421,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/miguel-almiron/profil/spieler/272999,Miguel Almirón,Attacking Midfield,€16.00m ,"Feb 10, 1994 (25)",Paraguay
+422,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/henri-saivet/profil/spieler/51540,Henri Saivet,Attacking Midfield,€800Th. ,"Oct 26, 1990 (28)",Senegal
+423,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/allan-saint-maximin/profil/spieler/272642,Allan Saint-Maximin,Left Winger,€20.00m ,"Mar 12, 1997 (22)",France
+424,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/christian-atsu/profil/spieler/186997,Christian Atsu,Left Winger,€4.80m ,"Jan 10, 1992 (27)",Ghana
+425,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/rolando-aarons/profil/spieler/258188,Rolando Aarons,Left Winger,€400Th. ,"Nov 16, 1995 (23)",England
+426,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/jacob-murphy/profil/spieler/199527,Jacob Murphy,Right Winger,€3.50m ,"Feb 24, 1995 (24)",England
+427,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/tom-allan/profil/spieler/484390,Tom Allan,Right Winger, ,"Sep 23, 1999 (19)",England
+428,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/joelinton/profil/spieler/333241,Joelinton,Centre-Forward,€20.00m ,"Aug 14, 1996 (22)",Brazil
+429,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/dwight-gayle/profil/spieler/196522,Dwight Gayle,Centre-Forward,€9.50m ,"Oct 17, 1989 (29)",England
+430,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/yoshinori-muto/profil/spieler/230541,Yoshinori Muto,Centre-Forward,€5.50m ,"Jul 15, 1992 (26)",Japan
+431,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/andy-carroll/profil/spieler/48066,Andy Carroll,Centre-Forward,€3.20m ,"Jan 6, 1989 (30)",England
+432,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2019,/elias-sorensen/profil/spieler/422930,Elias Sörensen,Centre-Forward, ,"Sep 18, 1999 (19)",Denmark
+433,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/aaron-ramsdale/profil/spieler/427568,Aaron Ramsdale,Goalkeeper,€12.50m ,"May 14, 1998 (21)",England
+434,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/artur-boruc/profil/spieler/15220,Artur Boruc,Goalkeeper,€400Th. ,"Feb 20, 1980 (39)",Poland
+435,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/mark-travers/profil/spieler/357658,Mark Travers,Goalkeeper,€250Th. ,"May 18, 1999 (20)",Ireland
+436,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/will-dennis/profil/spieler/582078,Will Dennis,Goalkeeper, ,"Jul 10, 2000 (18)",England
+437,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/nathan-ake/profil/spieler/177476,Nathan Aké,Centre-Back,€28.00m ,"Feb 18, 1995 (24)",Netherlands
+438,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/steve-cook/profil/spieler/90836,Steve Cook,Centre-Back,€9.50m ,"Apr 19, 1991 (28)",England
+439,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/lloyd-kelly/profil/spieler/480116,Lloyd Kelly,Centre-Back,€8.00m ,"Oct 6, 1998 (20)",England
+440,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/chris-mepham/profil/spieler/480987,Chris Mepham,Centre-Back,€8.00m ,"Nov 5, 1997 (21)",Wales
+441,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/jack-simpson/profil/spieler/419930,Jack Simpson,Centre-Back,€1.20m ,"Dec 18, 1996 (22)",England
+442,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/corey-jordan/profil/spieler/435765,Corey Jordan,Centre-Back, ,"Mar 4, 1999 (20)",England
+443,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/brennan-camp/profil/spieler/648699,Brennan Camp,Centre-Back, ,"Oct 12, 2000 (18)",Scotland
+444,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/diego-rico/profil/spieler/249513,Diego Rico,Left-Back,€8.00m ,"Feb 23, 1993 (26)",Spain
+445,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/charlie-daniels/profil/spieler/61819,Charlie Daniels,Left-Back,€1.60m ,"Sep 7, 1986 (32)",England
+446,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/adam-smith/profil/spieler/61841,Adam Smith,Right-Back,€7.00m ,"Apr 29, 1991 (28)",England
+447,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/jack-stacey/profil/spieler/249356,Jack Stacey,Right-Back,€3.20m ,"Apr 6, 1996 (23)",England
+448,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/simon-francis/profil/spieler/13573,Simon Francis,Right-Back,€800Th. ,"Feb 16, 1985 (34)",England
+449,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/brooklyn-genesini/profil/spieler/655173,Brooklyn Genesini,Right-Back, ,"Dec 12, 2001 (17)",England
+450,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/jefferson-lerma/profil/spieler/262980,Jefferson Lerma,Defensive Midfield,€20.00m ,"Oct 25, 1994 (24)",Colombia
+451,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/matt-butcher/profil/spieler/391132,Matt Butcher,Defensive Midfield,€75Th. ,"May 14, 1997 (22)",England
+452,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/lewis-cook/profil/spieler/249089,Lewis Cook,Central Midfield,€16.00m ,"Feb 3, 1997 (22)",England
+453,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/philip-billing/profil/spieler/320411,Philip Billing,Central Midfield,€14.50m ,"Jun 11, 1996 (23)",Denmark
+454,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/dan-gosling/profil/spieler/44983,Dan Gosling,Central Midfield,€2.00m ,"Feb 1, 1990 (29)",England
+455,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/andrew-surman/profil/spieler/29975,Andrew Surman,Central Midfield,€1.60m ,"Aug 20, 1986 (32)",England
+456,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/nnamdi-ofoborh/profil/spieler/611906,Nnamdi Ofoborh,Central Midfield,€150Th. ,"Nov 7, 1999 (19)",Nigeria
+457,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/gavin-kilkenny/profil/spieler/469064,Gavin Kilkenny,Central Midfield, ,"Feb 1, 2000 (19)",Ireland
+458,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/kyle-taylor/profil/spieler/562254,Kyle Taylor,Central Midfield, ,"Aug 28, 1999 (19)",England
+459,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/ryan-fraser/profil/spieler/146795,Ryan Fraser,Left Winger,€17.50m ,"Feb 24, 1994 (25)",Scotland
+460,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/arnaut-danjuma/profil/spieler/355861,Arnaut Danjuma,Left Winger,€9.50m ,"Jan 31, 1997 (22)",Netherlands
+461,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/junior-stanislas/profil/spieler/87672,Junior Stanislas,Left Winger,€2.00m ,"Nov 26, 1989 (29)",England
+462,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/alexandru-dobre/profil/spieler/365770,Alexandru Dobre,Left Winger,€50Th. ,"Aug 30, 1998 (20)",Romania
+463,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/david-brooks/profil/spieler/277033,David Brooks,Right Winger,€24.00m ,"Jul 8, 1997 (21)",Wales
+464,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/harry-wilson/profil/spieler/279455,Harry Wilson,Right Winger,€17.50m ,"Mar 22, 1997 (22)",Wales
+465,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/jordon-ibe/profil/spieler/195652,Jordon Ibe,Right Winger,€4.80m ,"Dec 8, 1995 (23)",England
+466,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/joshua-king/profil/spieler/91059,Joshua King,Second Striker,€16.00m ,"Jan 15, 1992 (27)",Norway
+467,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/callum-wilson/profil/spieler/123682,Callum Wilson,Centre-Forward,€24.00m ,"Feb 27, 1992 (27)",England
+468,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/dominic-solanke/profil/spieler/258889,Dominic Solanke,Centre-Forward,€12.00m ,"Sep 14, 1997 (21)",England
+469,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/jermain-defoe/profil/spieler/3875,Jermain Defoe,Centre-Forward,€1.40m ,"Oct 7, 1982 (36)",England
+470,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/sam-surridge/profil/spieler/398402,Sam Surridge,Centre-Forward,€450Th. ,"Jul 28, 1998 (20)",England
+471,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2019,/christian-saydee/profil/spieler/655835,Christian Saydee,Centre-Forward, ,"May 10, 2002 (17)",England
+472,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/ben-foster/profil/spieler/13572,Ben Foster,Goalkeeper,€1.20m ,"Apr 3, 1983 (36)",England
+473,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/pontus-dahlberg/profil/spieler/365544,Pontus Dahlberg,Goalkeeper,€900Th. ,"Jan 21, 1999 (20)",Sweden
+474,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/heurelho-gomes/profil/spieler/19059,Heurelho Gomes,Goalkeeper,€400Th. ,"Feb 15, 1981 (38)",Brazil
+475,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/daniel-bachmann/profil/spieler/120186,Daniel Bachmann,Goalkeeper,€400Th. ,"Jul 9, 1994 (24)",Austria
+476,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/adam-parkes/profil/spieler/412596,Adam Parkes,Goalkeeper, ,"Nov 30, 1999 (19)",England
+477,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/christian-kabasele/profil/spieler/81512,Christian Kabasele,Centre-Back,€6.50m ,"Feb 24, 1991 (28)",Belgium
+478,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/craig-dawson/profil/spieler/121477,Craig Dawson,Centre-Back,€4.80m ,"May 6, 1990 (29)",England
+479,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/daryl-janmaat/profil/spieler/60744,Daryl Janmaat,Centre-Back,€4.00m ,"Jul 22, 1989 (29)",Netherlands
+480,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/craig-cathcart/profil/spieler/59606,Craig Cathcart,Centre-Back,€4.00m ,"Feb 6, 1989 (30)",Northern Ireland
+481,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/adrian-mariappa/profil/spieler/38145,Adrian Mariappa,Centre-Back,€1.60m ,"Oct 3, 1986 (32)",Jamaica
+482,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/sebastian-prodl/profil/spieler/37981,Sebastian Prödl,Centre-Back,€1.20m ,"Jun 21, 1987 (32)",Austria
+483,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/mason-barrett/profil/spieler/504966,Mason Barrett,Centre-Back, ,"Sep 24, 1999 (19)",England
+484,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/bayli-spencer-adams/profil/spieler/533083,Bayli Spencer-Adams,Centre-Back, ,"Jun 26, 2001 (18)",Guyana
+485,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/adam-masina/profil/spieler/286949,Adam Masina,Left-Back,€5.50m ,"Jan 2, 1994 (25)",Morocco
+486,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/jose-cholevas/profil/spieler/41112,Jose Cholevas,Left-Back,€1.20m ,"Jun 27, 1984 (35)",Greece
+487,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/kiko-femenia/profil/spieler/76467,Kiko Femenía,Right-Back,€4.80m ,"Feb 2, 1991 (28)",Spain
+488,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/dimitri-foulquier/profil/spieler/170472,Dimitri Foulquier,Right-Back,€2.00m ,"Mar 23, 1993 (26)",Guadeloupe
+489,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/jamal-balogun/profil/spieler/503762,Jamal Balogun,Right-Back, ,"Jan 18, 2000 (19)",England
+490,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/andi-janjeva/profil/spieler/733495,Andi Janjeva,midfield, ,"Oct 11, 2002 (16)",Kosovo
+491,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/etienne-capoue/profil/spieler/63494,Étienne Capoue,Defensive Midfield,€5.20m ,"Jul 11, 1988 (30)",France
+492,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/nathaniel-chalobah/profil/spieler/128900,Nathaniel Chalobah,Defensive Midfield,€4.80m ,"Dec 12, 1994 (24)",England
+493,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/callum-whelan/profil/spieler/396165,Callum Whelan,Defensive Midfield, ,"Sep 24, 1998 (20)",England
+494,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/abdoulaye-doucoure/profil/spieler/127187,Abdoulaye Doucouré,Central Midfield,€20.00m ,"Jan 1, 1993 (26)",France
+495,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/will-hughes/profil/spieler/207014,Will Hughes,Central Midfield,€14.50m ,"Apr 17, 1995 (24)",England
+496,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/tom-cleverley/profil/spieler/73484,Tom Cleverley,Central Midfield,€4.80m ,"Aug 12, 1989 (29)",England
+497,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/domingos-quina/profil/spieler/391719,Domingos Quina,Central Midfield,€3.20m ,"Nov 18, 1999 (19)",Portugal
+498,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/tom-dele-bashiru/profil/spieler/346472,Tom Dele-Bashiru,Central Midfield,€450Th. ,"Sep 17, 1999 (19)",Nigeria
+499,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/henry-wise/profil/spieler/504542,Henry Wise,Central Midfield, ,"Jan 1, 2000 (19)",England
+500,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/ken-sema/profil/spieler/252345,Ken Sema,Left Midfield,€4.00m ,"Sep 30, 1993 (25)",Sweden
+501,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/roberto-pereyra/profil/spieler/112302,Roberto Pereyra,Attacking Midfield,€9.00m ,"Jan 7, 1991 (28)",Argentina
+502,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/gerard-deulofeu/profil/spieler/129476,Gerard Deulofeu,Left Winger,€20.00m ,"Mar 13, 1994 (25)",Spain
+503,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/jayden-bennetts/profil/spieler/646997,Jayden Bennetts,Left Winger, ,"Jun 26, 2001 (18)",England
+504,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/joseph-hungbo/profil/spieler/725703,Joseph Hungbo,Left Winger, ,"Jan 15, 2000 (19)",England
+505,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/ismaila-sarr/profil/spieler/410225,Ismaïla Sarr,Right Winger,€24.50m ,"Feb 25, 1998 (21)",Senegal
+506,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/ignacio-pussetto/profil/spieler/283528,Ignacio Pussetto,Right Winger,€6.50m ,"Dec 21, 1995 (23)",Argentina
+507,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/kaylen-hinds/profil/spieler/290788,Kaylen Hinds,Second Striker,€450Th. ,"Jan 28, 1998 (21)",England
+508,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/joao-pedro/profil/spieler/626724,João Pedro,Centre-Forward,€18.00m ,"Sep 26, 2001 (17)",Brazil
+509,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/andre-gray/profil/spieler/120565,Andre Gray,Centre-Forward,€9.50m ,"Jun 26, 1991 (28)",Jamaica
+510,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/troy-deeney/profil/spieler/65477,Troy Deeney,Centre-Forward,€6.50m ,"Jun 29, 1988 (31)",England
+511,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/danny-welbeck/profil/spieler/67063,Danny Welbeck,Centre-Forward,€5.50m ,"Nov 26, 1990 (28)",England
+512,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/isaac-success/profil/spieler/295331,Isaac Success,Centre-Forward,€3.20m ,"Jan 7, 1996 (23)",Nigeria
+513,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/adalberto-penaranda/profil/spieler/308801,Adalberto Peñaranda,Centre-Forward,€1.00m ,"May 31, 1997 (22)",Venezuela
+514,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2019,/sam-dalby/profil/spieler/470128,Sam Dalby,Centre-Forward, ,"Dec 7, 1999 (19)",England
+515,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/fraser-forster/profil/spieler/52570,Fraser Forster,Goalkeeper,€6.50m ,"Mar 17, 1988 (31)",England
+516,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/angus-gunn/profil/spieler/201574,Angus Gunn,Goalkeeper,€6.50m ,"Jan 22, 1996 (23)",England
+517,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/alex-mccarthy/profil/spieler/95976,Alex McCarthy,Goalkeeper,€4.00m ,"Dec 3, 1989 (29)",England
+518,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/harry-lewis/profil/spieler/341043,Harry Lewis,Goalkeeper,€200Th. ,"Dec 20, 1997 (21)",England
+519,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/jack-rose/profil/spieler/186923,Jack Rose,Goalkeeper,€100Th. ,"Jan 31, 1995 (24)",England
+520,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/jannik-vestergaard/profil/spieler/99331,Jannik Vestergaard,Centre-Back,€12.00m ,"Aug 3, 1992 (26)",Denmark
+521,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/jan-bednarek/profil/spieler/243028,Jan Bednarek,Centre-Back,€12.00m ,"Apr 12, 1996 (23)",Poland
+522,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/kevin-danso/profil/spieler/263236,Kevin Danso,Centre-Back,€6.30m ,"Sep 19, 1998 (20)",Austria
+523,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/jack-stephens/profil/spieler/163744,Jack Stephens,Centre-Back,€5.50m ,"Jan 27, 1994 (25)",England
+524,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/maya-yoshida/profil/spieler/81789,Maya Yoshida,Centre-Back,€4.00m ,"Aug 24, 1988 (30)",Japan
+525,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/ryan-bertrand/profil/spieler/40611,Ryan Bertrand,Left-Back,€10.50m ,"Aug 5, 1989 (29)",England
+526,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/sam-mcqueen/profil/spieler/226968,Sam McQueen,Left-Back,€800Th. ,"Feb 6, 1995 (24)",England
+527,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/jake-vokins/profil/spieler/421424,Jake Vokins,Left-Back, ,"Mar 17, 2000 (19)",England
+528,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/cedric-soares/profil/spieler/112988,Cédric Soares,Right-Back,€8.00m ,"Aug 31, 1991 (27)",Portugal
+529,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/kyle-walker-peters/profil/spieler/341051,Kyle Walker-Peters,Right-Back,€8.00m ,"Apr 13, 1997 (22)",England
+530,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/yan-valery/profil/spieler/406008,Yan Valery,Right-Back,€6.30m ,"Feb 22, 1999 (20)",France
+531,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/oriol-romeu/profil/spieler/66100,Oriol Romeu,Defensive Midfield,€8.00m ,"Sep 24, 1991 (27)",Spain
+532,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/james-ward-prowse/profil/spieler/181579,James Ward-Prowse,Central Midfield,€14.50m ,"Nov 1, 1994 (24)",England
+533,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/pierre-emile-hojbjerg/profil/spieler/167799,Pierre-Emile Höjbjerg,Central Midfield,€12.00m ,"Aug 5, 1995 (23)",Denmark
+534,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/stuart-armstrong/profil/spieler/130765,Stuart Armstrong,Central Midfield,€6.50m ,"Mar 30, 1992 (27)",Scotland
+535,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/callum-slattery/profil/spieler/332342,Callum Slattery,Central Midfield,€50Th. ,"Feb 8, 1999 (20)",England
+536,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/alexandre-jankewitz/profil/spieler/507472,Alexandre Jankewitz,Central Midfield, ,"Dec 25, 2001 (17)",Switzerland
+537,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/will-smallbone/profil/spieler/444211,Will Smallbone,Central Midfield, ,"Feb 21, 2000 (19)",Ireland
+538,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/jake-hesketh/profil/spieler/315185,Jake Hesketh,Attacking Midfield,€200Th. ,"Mar 27, 1996 (23)",England
+539,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/jacob-maddox/profil/spieler/314268,Jacob Maddox,Attacking Midfield, ,"Nov 3, 1998 (20)",England
+540,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/nathan-redmond/profil/spieler/129078,Nathan Redmond,Left Winger,€16.00m ,"Mar 6, 1994 (25)",England
+541,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/moussa-djenepo/profil/spieler/485424,Moussa Djenepo,Left Winger,€11.00m ,"Jun 15, 1998 (21)",Mali
+542,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/mohamed-elyounoussi/profil/spieler/186644,Mohamed Elyounoussi,Left Winger,€9.50m ,"Aug 4, 1994 (24)",Norway
+543,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/sofiane-boufal/profil/spieler/232271,Sofiane Boufal,Left Winger,€8.00m ,"Sep 17, 1993 (25)",Morocco
+544,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/will-ferry/profil/spieler/504856,Will Ferry,Left Winger, ,"Dec 7, 2000 (18)",Ireland
+545,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/nathan-tella/profil/spieler/340322,Nathan Tella,Right Winger, ,"Jul 5, 1999 (19)",England
+546,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/danny-ings/profil/spieler/134294,Danny Ings,Centre-Forward,€17.50m ,"Jul 23, 1992 (26)",England
+547,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/che-adams/profil/spieler/346779,Che Adams,Centre-Forward,€9.50m ,"Jul 13, 1996 (22)",Scotland
+548,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/michael-obafemi/profil/spieler/444208,Michael Obafemi,Centre-Forward,€4.50m ,"Jul 6, 2000 (18)",Ireland
+549,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/shane-long/profil/spieler/37304,Shane Long,Centre-Forward,€2.80m ,"Jan 22, 1987 (32)",Ireland
+550,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2019,/dan-nlundulu/profil/spieler/346482,Dan N'Lundulu,Centre-Forward, ,"Feb 5, 1999 (20)",England
+551,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/vicente-guaita/profil/spieler/64399,Vicente Guaita,Goalkeeper,€4.00m ,"Jan 10, 1987 (32)",Spain
+552,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/wayne-hennessey/profil/spieler/45494,Wayne Hennessey,Goalkeeper,€2.40m ,"Jan 24, 1987 (32)",Wales
+553,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/stephen-henderson/profil/spieler/52191,Stephen Henderson,Goalkeeper,€400Th. ,"May 2, 1988 (31)",Ireland
+554,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/mamadou-sakho/profil/spieler/47713,Mamadou Sakho,Centre-Back,€9.50m ,"Feb 13, 1990 (29)",France
+555,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/cheikhou-kouyate/profil/spieler/66934,Cheikhou Kouyaté,Centre-Back,€8.00m ,"Dec 21, 1989 (29)",Senegal
+556,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/james-tomkins/profil/spieler/61592,James Tomkins,Centre-Back,€4.00m ,"Mar 29, 1989 (30)",England
+557,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/gary-cahill/profil/spieler/27511,Gary Cahill,Centre-Back,€4.00m ,"Dec 19, 1985 (33)",England
+558,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/scott-dann/profil/spieler/62688,Scott Dann,Centre-Back,€2.80m ,"Feb 14, 1987 (32)",England
+559,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/ryan-inniss/profil/spieler/183284,Ryan Inniss,Centre-Back,€150Th. ,"Jun 5, 1995 (24)",England
+560,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/sam-woods/profil/spieler/611650,Sam Woods,Centre-Back,€75Th. ,"Sep 11, 1998 (20)",England
+561,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/nikola-tavares/profil/spieler/487428,Nikola Tavares,Centre-Back, ,"Jan 17, 1999 (20)",Croatia
+562,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/patrick-van-aanholt/profil/spieler/52119,Patrick van Aanholt,Left-Back,€9.50m ,"Aug 29, 1990 (28)",Netherlands
+563,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/tyrick-mitchell/profil/spieler/730893,Tyrick Mitchell,Left-Back, ,"Sep 1, 1999 (19)",England
+564,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/joel-ward/profil/spieler/92572,Joel Ward,Right-Back,€3.20m ,"Oct 29, 1989 (29)",England
+565,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/martin-kelly/profil/spieler/78959,Martin Kelly,Right-Back,€2.80m ,"Apr 27, 1990 (29)",England
+566,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/luka-milivojevic/profil/spieler/74300,Luka Milivojevic,Defensive Midfield,€20.00m ,"Apr 7, 1991 (28)",Serbia
+567,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/jairo-riedewald/profil/spieler/241481,Jairo Riedewald,Defensive Midfield,€3.20m ,"Sep 9, 1996 (22)",Netherlands
+568,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/james-mcarthur/profil/spieler/41416,James McArthur,Central Midfield,€4.80m ,"Oct 7, 1987 (31)",Scotland
+569,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/victor-camarasa/profil/spieler/263856,Víctor Camarasa,Central Midfield,€4.00m ,"May 28, 1994 (25)",Spain
+570,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/james-mccarthy/profil/spieler/45333,James McCarthy,Central Midfield,€2.80m ,"Nov 12, 1990 (28)",Ireland
+571,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/nya-kirby/profil/spieler/406633,Nya Kirby,Central Midfield, ,"Jan 31, 2000 (19)",England
+572,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/jeffrey-schlupp/profil/spieler/157506,Jeffrey Schlupp,Left Midfield,€9.50m ,"Dec 23, 1992 (26)",Ghana
+573,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/max-meyer/profil/spieler/146164,Max Meyer,Attacking Midfield,€8.00m ,"Sep 18, 1995 (23)",Germany
+574,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/giovanni-mcgregor/profil/spieler/611651,Giovanni McGregor,Attacking Midfield, ,"Jan 9, 1999 (20)",England
+575,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/wilfried-zaha/profil/spieler/145988,Wilfried Zaha,Left Winger,€44.00m ,"Nov 10, 1992 (26)",Cote d'Ivoire
+576,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/andros-townsend/profil/spieler/61842,Andros Townsend,Right Winger,€12.00m ,"Jul 16, 1991 (27)",England
+577,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/cenk-tosun/profil/spieler/45671,Cenk Tosun,Centre-Forward,€12.00m ,"Jun 7, 1991 (28)",Turkey
+578,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/christian-benteke/profil/spieler/50201,Christian Benteke,Centre-Forward,€10.50m ,"Dec 3, 1990 (28)",Belgium
+579,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/jordan-ayew/profil/spieler/108354,Jordan Ayew,Centre-Forward,€6.50m ,"Sep 11, 1991 (27)",Ghana
+580,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/connor-wickham/profil/spieler/95435,Connor Wickham,Centre-Forward,€1.20m ,"Mar 31, 1993 (26)",England
+581,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/james-daly/profil/spieler/577779,James Daly,Centre-Forward, ,"Jan 12, 2000 (19)",England
+582,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/brandon-pierrick/profil/spieler/703470,Brandon Pierrick,Centre-Forward, ,"Dec 10, 2001 (17)",England
+583,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2019,/john-kymani-gordon/profil/spieler/659331,John-Kymani Gordon,Centre-Forward, ,"Feb 13, 2003 (16)",England
+584,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/mathew-ryan/profil/spieler/128969,Mathew Ryan,Goalkeeper,€8.00m ,"Apr 8, 1992 (27)",Australia
+585,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/david-button/profil/spieler/61814,David Button,Goalkeeper,€1.20m ,"Feb 27, 1989 (30)",England
+586,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/jason-steele/profil/spieler/73564,Jason Steele,Goalkeeper,€600Th. ,"Aug 18, 1990 (28)",England
+587,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/lewis-dunk/profil/spieler/148153,Lewis Dunk,Centre-Back,€16.00m ,"Nov 21, 1991 (27)",England
+588,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/adam-webster/profil/spieler/212847,Adam Webster,Centre-Back,€12.00m ,"Jan 4, 1995 (24)",England
+589,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/shane-duffy/profil/spieler/119269,Shane Duffy,Centre-Back,€9.50m ,"Jan 1, 1992 (27)",Ireland
+590,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/dan-burn/profil/spieler/134270,Dan Burn,Centre-Back,€4.00m ,"May 9, 1992 (27)",England
+591,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/leon-balogun/profil/spieler/56100,Leon Balogun,Centre-Back,€800Th. ,"Jun 28, 1988 (31)",Nigeria
+592,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/warren-ohora/profil/spieler/449020,Warren O'Hora,Centre-Back, ,"Apr 19, 1999 (20)",Ireland
+593,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/haydon-roberts/profil/spieler/533523,Haydon Roberts,Centre-Back, ,"May 10, 2002 (17)",England
+594,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/bernardo/profil/spieler/364258,Bernardo,Left-Back,€4.80m ,"May 14, 1995 (24)",Brazil
+595,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/gaetan-bong/profil/spieler/36291,Gaëtan Bong,Left-Back,€800Th. ,"Apr 25, 1988 (31)",Cameroon
+596,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/alex-cochrane/profil/spieler/392773,Alex Cochrane,Left-Back, ,"Apr 21, 2000 (19)",England
+597,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/martin-montoya/profil/spieler/68645,Martín Montoya,Right-Back,€6.50m ,"Apr 14, 1991 (28)",Spain
+598,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/tariq-lamptey/profil/spieler/504148,Tariq Lamptey,Right-Back,€3.20m ,"Sep 30, 2000 (18)",England
+599,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/ezequiel-schelotto/profil/spieler/119164,Ezequiel Schelotto,Right-Back,€1.20m ,"May 23, 1989 (30)",Italy
+600,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/archie-davies/profil/spieler/386201,Archie Davies,Right-Back, ,"Oct 7, 1998 (20)",England
+601,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/romaric-yapi/profil/spieler/536521,Romaric Yapi,Right-Back, ,"Jul 13, 2000 (18)",France
+602,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/tudor-baluta/profil/spieler/433976,Tudor Baluta,Defensive Midfield,€3.60m ,"Mar 27, 1999 (20)",Romania
+603,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/davy-propper/profil/spieler/79027,Davy Pröpper,Central Midfield,€13.50m ,"Sep 2, 1991 (27)",Netherlands
+604,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/yves-bissouma/profil/spieler/410425,Yves Bissouma,Central Midfield,€9.50m ,"Aug 30, 1996 (22)",Mali
+605,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/pascal-gross/profil/spieler/82873,Pascal Groß,Central Midfield,€9.50m ,"Jun 15, 1991 (28)",Germany
+606,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/aaron-mooy/profil/spieler/123951,Aaron Mooy,Central Midfield,€9.50m ,"Sep 15, 1990 (28)",Australia
+607,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/dale-stephens/profil/spieler/49755,Dale Stephens,Central Midfield,€4.80m ,"Jun 12, 1989 (30)",England
+608,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/steven-alzate/profil/spieler/476237,Steven Alzate,Central Midfield,€2.30m ,"Sep 8, 1998 (20)",Colombia
+609,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/beram-kayal/profil/spieler/44741,Beram Kayal,Central Midfield,€1.20m ,"May 2, 1988 (31)",Israel
+610,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/max-sanders/profil/spieler/411495,Max Sanders,Central Midfield, ,"Jan 4, 1999 (20)",England
+611,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/jordan-davies/profil/spieler/427927,Jordan Davies,Central Midfield, ,"Aug 18, 1998 (20)",Wales
+612,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/taylor-richards/profil/spieler/484551,Taylor Richards,Central Midfield, ,"Dec 4, 2000 (18)",England
+613,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/jack-spong/profil/spieler/530916,Jack Spong,Central Midfield, ,"Feb 4, 2002 (17)",England
+614,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/solly-march/profil/spieler/209212,Solly March,Left Midfield,€6.50m ,"Jul 20, 1994 (24)",England
+615,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/alexis-mac-allister/profil/spieler/534033,Alexis Mac Allister,Attacking Midfield,€11.00m ,"Dec 24, 1998 (20)",Argentina
+616,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/soufyan-ahannach/profil/spieler/262895,Soufyan Ahannach,Attacking Midfield,€400Th. ,"Sep 9, 1995 (23)",Netherlands
+617,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/teddy-jenks/profil/spieler/530915,Teddy Jenks,Attacking Midfield, ,"Mar 12, 2002 (17)",England
+618,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/leandro-trossard/profil/spieler/144028,Leandro Trossard,Left Winger,€13.00m ,"Dec 4, 1994 (24)",Belgium
+619,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/jose-izquierdo/profil/spieler/147094,José Izquierdo,Left Winger,€6.50m ,"Jul 7, 1992 (26)",Colombia
+620,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/peter-gwargis/profil/spieler/430824,Peter Gwargis,Left Winger,€25Th. ,"Sep 4, 2000 (18)",Sweden
+621,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/alireza-jahanbakhsh/profil/spieler/213268,Alireza Jahanbakhsh,Right Winger,€6.50m ,"Aug 11, 1993 (25)",Iran
+622,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/ryan-longman/profil/spieler/512175,Ryan Longman,Right Winger, ,"Nov 6, 2000 (18)",England
+623,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/neal-maupay/profil/spieler/217115,Neal Maupay,Centre-Forward,€17.50m ,"Aug 14, 1996 (22)",France
+624,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/jurgen-locadia/profil/spieler/166240,Jürgen Locadia,Centre-Forward,€8.00m ,"Nov 7, 1993 (25)",Netherlands
+625,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/aaron-connolly/profil/spieler/434207,Aaron Connolly,Centre-Forward,€4.00m ,"Jan 28, 2000 (19)",Ireland
+626,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/florin-andone/profil/spieler/177065,Florin Andone,Centre-Forward,€3.20m ,"Apr 11, 1993 (26)",Romania
+627,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/glenn-murray/profil/spieler/45693,Glenn Murray,Centre-Forward,€1.60m ,"Sep 25, 1983 (35)",England
+628,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2019,/bojan-radulovic/profil/spieler/516407,Bojan Radulovic,Centre-Forward,€50Th. ,"Dec 29, 1999 (19)",Serbia
+629,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/nick-pope/profil/spieler/192080,Nick Pope,Goalkeeper,€9.50m ,"Apr 19, 1992 (27)",England
+630,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/joe-hart/profil/spieler/40204,Joe Hart,Goalkeeper,€2.40m ,"Apr 19, 1987 (32)",England
+631,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/bailey-peacock-farrell/profil/spieler/410436,Bailey Peacock-Farrell,Goalkeeper,€1.20m ,"Oct 29, 1996 (22)",Northern Ireland
+632,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/adam-legzdins/profil/spieler/43858,Adam Legzdins,Goalkeeper,€250Th. ,"Nov 28, 1986 (32)",England
+633,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/lukas-jensen/profil/spieler/581890,Lukas Jensen,Goalkeeper,€25Th. ,"Mar 18, 1999 (20)",Denmark
+634,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/james-tarkowski/profil/spieler/173504,James Tarkowski,Centre-Back,€20.00m ,"Nov 19, 1992 (26)",England
+635,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/ben-mee/profil/spieler/74810,Ben Mee,Centre-Back,€8.00m ,"Sep 21, 1989 (29)",England
+636,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/ben-gibson/profil/spieler/128904,Ben Gibson,Centre-Back,€6.50m ,"Jan 15, 1993 (26)",England
+637,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/kevin-long/profil/spieler/111114,Kevin Long,Centre-Back,€1.60m ,"Aug 18, 1990 (28)",Ireland
+638,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/jimmy-dunne/profil/spieler/396174,Jimmy Dunne,Centre-Back,€300Th. ,"Oct 19, 1997 (21)",Ireland
+639,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/bobby-thomas/profil/spieler/788283,Bobby Thomas,Centre-Back, ,"Jan 30, 2001 (18)",England
+640,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/charlie-taylor/profil/spieler/195633,Charlie Taylor,Left-Back,€4.00m ,"Sep 18, 1993 (25)",England
+641,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/erik-pieters/profil/spieler/43763,Erik Pieters,Left-Back,€4.00m ,"Aug 7, 1988 (30)",Netherlands
+642,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/anthony-driscoll-glennon/profil/spieler/503683,Anthony Driscoll-Glennon,Left-Back, ,"Nov 26, 1999 (19)",England
+643,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/ali-koiki/profil/spieler/641441,Ali Koiki,Left-Back, ,"Aug 22, 1999 (19)",England
+644,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/matthew-lowton/profil/spieler/102258,Matthew Lowton,Right-Back,€4.00m ,"Jun 9, 1989 (30)",England
+645,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/phil-bardsley/profil/spieler/15773,Phil Bardsley,Right-Back,€800Th. ,"Jun 28, 1985 (34)",Scotland
+646,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/jack-cork/profil/spieler/40613,Jack Cork,Defensive Midfield,€12.00m ,"Jun 25, 1989 (30)",England
+647,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/ashley-westwood/profil/spieler/91317,Ashley Westwood,Defensive Midfield,€5.50m ,"Apr 1, 1990 (29)",England
+648,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/jeff-hendrick/profil/spieler/148262,Jeff Hendrick,Central Midfield,€9.00m ,"Jan 31, 1992 (27)",Ireland
+649,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/josh-brownhill/profil/spieler/293569,Josh Brownhill,Central Midfield,€5.50m ,"Dec 19, 1995 (23)",England
+650,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/danny-drinkwater/profil/spieler/73491,Danny Drinkwater,Central Midfield,€4.80m ,"Mar 5, 1990 (29)",England
+651,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/mace-goodridge/profil/spieler/382552,Mace Goodridge,Central Midfield, ,"Sep 13, 1999 (19)",England
+652,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/josh-benson/profil/spieler/397102,Josh Benson,Central Midfield, ,"Dec 5, 1999 (19)",England
+653,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/robbie-brady/profil/spieler/128229,Robbie Brady,Left Midfield,€4.80m ,"Jan 14, 1992 (27)",Ireland
+654,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/dwight-mcneil/profil/spieler/584769,Dwight McNeil,Left Winger,€18.00m ,"Nov 22, 1999 (19)",England
+655,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/johann-berg-gudmundsson/profil/spieler/89231,Jóhann Berg Gudmundsson,Right Winger,€8.00m ,"Oct 27, 1990 (28)",Iceland
+656,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/aaron-lennon/profil/spieler/14221,Aaron Lennon,Right Winger,€2.40m ,"Apr 16, 1987 (32)",England
+657,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/chris-wood/profil/spieler/108725,Chris Wood,Centre-Forward,€14.50m ,"Dec 7, 1991 (27)",New Zealand
+658,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/ashley-barnes/profil/spieler/63200,Ashley Barnes,Centre-Forward,€8.00m ,"Oct 30, 1989 (29)",England
+659,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/jay-rodriguez/profil/spieler/53360,Jay Rodríguez,Centre-Forward,€4.80m ,"Jul 29, 1989 (29)",England
+660,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/matej-vydra/profil/spieler/101500,Matej Vydra,Centre-Forward,€4.00m ,"May 1, 1992 (27)",Czech Republic
+661,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/joel-mumbongo/profil/spieler/381156,Joel Mumbongo,Centre-Forward,- ,"Jan 9, 1999 (20)",Sweden
+662,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/max-thompson/profil/spieler/598958,Max Thompson,Centre-Forward, ,"Feb 9, 2002 (17)",England
+663,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2019,/lewis-richardson/profil/spieler/657863,Lewis Richardson,Centre-Forward, ,"Feb 7, 2003 (16)",England
+664,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/tom-heaton/profil/spieler/34130,Tom Heaton,Goalkeeper,€4.80m ,"Apr 15, 1986 (33)",England
+665,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/lovre-kalinic/profil/spieler/46405,Lovre Kalinic,Goalkeeper,€2.80m ,"Apr 3, 1990 (29)",Croatia
+666,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/jed-steer/profil/spieler/110867,Jed Steer,Goalkeeper,€1.20m ,"Sep 23, 1992 (26)",England
+667,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/orjan-nyland/profil/spieler/73517,Örjan Nyland,Goalkeeper,€1.20m ,"Sep 10, 1990 (28)",Norway
+668,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/pepe-reina/profil/spieler/7825,Pepe Reina,Goalkeeper,€650Th. ,"Aug 31, 1982 (36)",Spain
+669,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/matija-sarkic/profil/spieler/293257,Matija Sarkic,Goalkeeper,€100Th. ,"Jul 23, 1997 (21)",Montenegro
+670,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/tyrone-mings/profil/spieler/253677,Tyrone Mings,Centre-Back,€22.50m ,"Mar 13, 1993 (26)",England
+671,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/bjorn-engels/profil/spieler/193469,Björn Engels,Centre-Back,€9.50m ,"Sep 15, 1994 (24)",Belgium
+672,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/ezri-konsa/profil/spieler/413403,Ezri Konsa,Centre-Back,€6.50m ,"Oct 23, 1997 (21)",England
+673,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/kortney-hause/profil/spieler/233124,Kortney Hause,Centre-Back,€6.50m ,"Jul 16, 1995 (23)",England
+674,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/james-chester/profil/spieler/73482,James Chester,Centre-Back,€2.40m ,"Jan 23, 1989 (30)",Wales
+675,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/matt-targett/profil/spieler/250478,Matt Targett,Left-Back,€10.50m ,"Sep 18, 1995 (23)",England
+676,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/neil-taylor/profil/spieler/67416,Neil Taylor,Left-Back,€2.80m ,"Feb 7, 1989 (30)",Wales
+677,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/frederic-guilbert/profil/spieler/354352,Frédéric Guilbert,Right-Back,€7.00m ,"Dec 24, 1994 (24)",France
+678,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/ahmed-elmohamady/profil/spieler/66333,Ahmed Elmohamady,Right-Back,€2.00m ,"Sep 9, 1987 (31)",Egypt
+679,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/james-bree/profil/spieler/324223,James Bree,Right-Back,€1.20m ,"Dec 11, 1997 (21)",England
+680,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/kaine-kesler/profil/spieler/626888,Kaine Kesler,Right-Back, ,"Oct 23, 2002 (16)",England
+681,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/douglas-luiz/profil/spieler/447661,Douglas Luiz,Defensive Midfield,€18.00m ,"May 9, 1998 (21)",Brazil
+682,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/marvelous-nakamba/profil/spieler/324882,Marvelous Nakamba,Defensive Midfield,€8.00m ,"Jan 19, 1994 (25)",Zimbabwe
+683,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/john-mcginn/profil/spieler/193116,John McGinn,Central Midfield,€16.00m ,"Oct 18, 1994 (24)",Scotland
+684,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/conor-hourihane/profil/spieler/61653,Conor Hourihane,Central Midfield,€6.00m ,"Feb 2, 1991 (28)",Ireland
+685,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/danny-drinkwater/profil/spieler/73491,Danny Drinkwater,Central Midfield,€4.80m ,"Mar 5, 1990 (29)",England
+686,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/henri-lansbury/profil/spieler/44794,Henri Lansbury,Central Midfield,€1.20m ,"Oct 12, 1990 (28)",England
+687,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/aaron-tshibola/profil/spieler/243633,Aaron Tshibola,Central Midfield,€800Th. ,"Jan 2, 1995 (24)",DR Congo
+688,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/jacob-ramsey/profil/spieler/503749,Jacob Ramsey,Attacking Midfield, ,"May 28, 2001 (18)",England
+689,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/jack-grealish/profil/spieler/203460,Jack Grealish,Left Winger,€30.50m ,"Sep 10, 1995 (23)",England
+690,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/trezeguet/profil/spieler/234189,Trezeguet,Left Winger,€8.00m ,"Oct 1, 1994 (24)",Egypt
+691,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/andre-green/profil/spieler/309841,Andre Green,Left Winger,€1.80m ,"Jul 26, 1998 (20)",England
+692,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/indiana-vassilev/profil/spieler/469860,Indiana Vassilev,Left Winger,€250Th. ,"Feb 16, 2001 (18)",United States
+693,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/anwar-el-ghazi/profil/spieler/183720,Anwar El Ghazi,Right Winger,€8.00m ,"May 3, 1995 (24)",Netherlands
+694,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/jota-peleteiro/profil/spieler/176591,Jota Peleteiro,Right Winger,€3.50m ,"Jun 16, 1991 (28)",Spain
+695,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/wesley/profil/spieler/381362,Wesley,Centre-Forward,€24.00m ,"Nov 24, 1996 (22)",Brazil
+696,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/mbwana-samatta/profil/spieler/182201,Mbwana Samatta,Centre-Forward,€9.50m ,"Dec 23, 1992 (26)",Tanzania
+697,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/jonathan-kodjia/profil/spieler/88971,Jonathan Kodjia,Centre-Forward,€3.30m ,"Oct 22, 1989 (29)",Cote d'Ivoire
+698,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/borja-baston/profil/spieler/85324,Borja Bastón,Centre-Forward,€3.20m ,"Aug 25, 1992 (26)",Spain
+699,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/keinan-davis/profil/spieler/412660,Keinan Davis,Centre-Forward,€2.30m ,"Feb 13, 1998 (21)",England
+700,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/rushian-hepburn-murphy/profil/spieler/314237,Rushian Hepburn-Murphy,Centre-Forward,€900Th. ,"Aug 28, 1998 (20)",England
+701,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2019,/cameron-archer/profil/spieler/533662,Cameron Archer,Centre-Forward, ,"Jul 21, 2001 (17)",England
+702,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/tim-krul/profil/spieler/33027,Tim Krul,Goalkeeper,€4.00m ,"Apr 3, 1988 (31)",Netherlands
+703,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/ralf-fahrmann/profil/spieler/39015,Ralf Fährmann,Goalkeeper,€1.60m ,"Sep 27, 1988 (30)",Germany
+704,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/michael-mcgovern/profil/spieler/29391,Michael McGovern,Goalkeeper,€300Th. ,"Jul 12, 1984 (34)",Northern Ireland
+705,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/archie-mair/profil/spieler/447063,Archie Mair,Goalkeeper, ,"Feb 10, 2001 (18)",Scotland
+706,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/ben-godfrey/profil/spieler/343475,Ben Godfrey,Centre-Back,€11.50m ,"Jan 15, 1998 (21)",England
+707,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/christoph-zimmermann/profil/spieler/77812,Christoph Zimmermann,Centre-Back,€2.80m ,"Jan 12, 1993 (26)",Germany
+708,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/grant-hanley/profil/spieler/121385,Grant Hanley,Centre-Back,€2.00m ,"Nov 20, 1991 (27)",Scotland
+709,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/timm-klose/profil/spieler/65255,Timm Klose,Centre-Back,€2.00m ,"May 9, 1988 (31)",Switzerland
+710,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/sean-raggett/profil/spieler/226219,Sean Raggett,Centre-Back,€250Th. ,"Jan 25, 1994 (25)",England
+711,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/akin-famewo/profil/spieler/425713,Akin Famewo,Centre-Back,€25Th. ,"Nov 9, 1998 (20)",England
+712,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/jamal-lewis/profil/spieler/346018,Jamal Lewis,Left-Back,€11.00m ,"Jan 25, 1998 (21)",Northern Ireland
+713,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/philip-heise/profil/spieler/112617,Philip Heise,Left-Back,€550Th. ,"Jun 20, 1991 (28)",Germany
+714,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/sam-mccallum/profil/spieler/618901,Sam McCallum,Left-Back, ,"Sep 2, 2000 (18)",England
+715,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/max-aarons/profil/spieler/471690,Max Aarons,Right-Back,€20.00m ,"Jan 4, 2000 (19)",England
+716,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/sam-byram/profil/spieler/236953,Sam Byram,Right-Back,€2.80m ,"Sep 16, 1993 (25)",England
+717,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/jordan-thomas/profil/spieler/563306,Jordan Thomas,Right-Back, ,"Jan 2, 2001 (18)",England
+718,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/ibrahim-amadou/profil/spieler/205503,Ibrahim Amadou,Defensive Midfield,€5.50m ,"Apr 6, 1993 (26)",France
+719,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/tom-trybull/profil/spieler/93831,Tom Trybull,Defensive Midfield,€3.20m ,"Mar 9, 1993 (26)",Germany
+720,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/alexander-tettey/profil/spieler/12384,Alexander Tettey,Defensive Midfield,€1.60m ,"Apr 4, 1986 (33)",Norway
+721,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/louis-thompson/profil/spieler/207771,Louis Thompson,Defensive Midfield,€250Th. ,"Dec 19, 1994 (24)",Wales
+722,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/kenny-mclean/profil/spieler/126600,Kenny McLean,Central Midfield,€3.50m ,"Jan 8, 1992 (27)",Scotland
+723,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/lukas-rupp/profil/spieler/82863,Lukas Rupp,Central Midfield,€2.40m ,"Jan 8, 1991 (28)",Germany
+724,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/moritz-leitner/profil/spieler/82243,Moritz Leitner,Central Midfield,€2.40m ,"Dec 8, 1992 (26)",Germany
+725,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/mario-vrancic/profil/spieler/39372,Mario Vrancic,Central Midfield,€2.00m ,"May 23, 1989 (30)",Bosnia-Herzegovina
+726,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/daniel-adshead/profil/spieler/532464,Daniel Adshead,Central Midfield, ,"Sep 2, 2001 (17)",England
+727,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/todd-cantwell/profil/spieler/332341,Todd Cantwell,Left Midfield,€20.00m ,"Feb 27, 1998 (21)",England
+728,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/ondrej-duda/profil/spieler/232418,Ondrej Duda,Attacking Midfield,€10.50m ,"Dec 5, 1994 (24)",Slovakia
+729,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/marco-stiepermann/profil/spieler/45760,Marco Stiepermann,Attacking Midfield,€3.20m ,"Feb 9, 1991 (28)",Germany
+730,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/onel-hernandez/profil/spieler/109751,Onel Hernández,Left Winger,€3.20m ,"Feb 1, 1993 (26)",Cuba
+731,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/josh-martin/profil/spieler/547534,Josh Martin,Left Winger, ,"Sep 9, 2001 (17)",England
+732,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/emiliano-buendia/profil/spieler/321247,Emiliano Buendía,Right Winger,€14.50m ,"Dec 25, 1996 (22)",Argentina
+733,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/patrick-roberts/profil/spieler/225452,Patrick Roberts,Right Winger,€2.80m ,"Feb 5, 1997 (22)",England
+734,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/teemu-pukki/profil/spieler/46972,Teemu Pukki,Centre-Forward,€8.00m ,"Mar 29, 1990 (29)",Finland
+735,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/josip-drmic/profil/spieler/140579,Josip Drmic,Centre-Forward,€1.60m ,"Aug 8, 1992 (26)",Switzerland
+736,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/adam-idah/profil/spieler/434223,Adam Idah,Centre-Forward,€900Th. ,"Feb 11, 2001 (18)",Ireland
+737,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/dennis-srbeny/profil/spieler/159239,Dennis Srbeny,Centre-Forward,€800Th. ,"May 5, 1994 (25)",Germany
+738,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/carlton-morris/profil/spieler/246963,Carlton Morris,Centre-Forward,€150Th. ,"Dec 16, 1995 (23)",England
+739,https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2019,/mason-bloomfield/profil/spieler/339013,Mason Bloomfield,Centre-Forward,€75Th. ,"Nov 6, 1996 (22)",England
+740,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/dean-henderson/profil/spieler/258919,Dean Henderson,Goalkeeper,€14.50m ,"Mar 12, 1997 (22)",England
+741,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/michael-verrips/profil/spieler/288259,Michael Verrips,Goalkeeper,€800Th. ,"Dec 3, 1996 (22)",Netherlands
+742,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/simon-moore/profil/spieler/123536,Simon Moore,Goalkeeper,€400Th. ,"May 19, 1990 (29)",England
+743,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/jake-eastwood/profil/spieler/526873,Jake Eastwood,Goalkeeper,€100Th. ,"Oct 3, 1996 (22)",England
+744,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/jack-oconnell/profil/spieler/212829,Jack O'Connell,Centre-Back,€9.50m ,"Mar 29, 1994 (25)",England
+745,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/john-egan/profil/spieler/121324,John Egan,Centre-Back,€9.50m ,"Oct 20, 1992 (26)",Ireland
+746,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/panagiotis-retsos/profil/spieler/324351,Panagiotis Retsos,Centre-Back,€8.00m ,"Aug 9, 1998 (20)",Greece
+747,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/chris-basham/profil/spieler/52495,Chris Basham,Centre-Back,€2.40m ,"Jul 20, 1988 (30)",England
+748,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/richard-stearman/profil/spieler/34349,Richard Stearman,Centre-Back,€800Th. ,"Aug 19, 1987 (31)",England
+749,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/phil-jagielka/profil/spieler/13520,Phil Jagielka,Centre-Back,€800Th. ,"Aug 17, 1982 (36)",England
+750,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/ben-heneghan/profil/spieler/156939,Ben Heneghan,Centre-Back,€400Th. ,"Sep 19, 1993 (25)",England
+751,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/kean-bryan/profil/spieler/214928,Kean Bryan,Centre-Back,€250Th. ,"Nov 1, 1996 (22)",England
+752,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/enda-stevens/profil/spieler/85706,Enda Stevens,Left-Back,€5.50m ,"Jul 9, 1990 (28)",Ireland
+753,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/jack-robinson/profil/spieler/128909,Jack Robinson,Left-Back,€2.00m ,"Sep 1, 1993 (25)",England
+754,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/george-baldock/profil/spieler/146690,George Baldock,Right-Back,€4.80m ,"Mar 9, 1993 (26)",England
+755,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/kieron-freeman/profil/spieler/158703,Kieron Freeman,Right-Back,€1.20m ,"Mar 21, 1992 (27)",Wales
+756,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/sander-berge/profil/spieler/333014,Sander Berge,Defensive Midfield,€20.00m ,"Feb 14, 1998 (21)",Norway
+757,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/muhamed-besic/profil/spieler/93905,Muhamed Besic,Defensive Midfield,€2.40m ,"Sep 10, 1992 (26)",Bosnia-Herzegovina
+758,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/jack-rodwell/profil/spieler/57079,Jack Rodwell,Defensive Midfield,€1.20m ,"Mar 11, 1991 (28)",England
+759,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/john-lundstram/profil/spieler/156941,John Lundstram,Central Midfield,€8.00m ,"Feb 18, 1994 (25)",England
+760,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/john-fleck/profil/spieler/54383,John Fleck,Central Midfield,€6.50m ,"Aug 24, 1991 (27)",Scotland
+761,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/oliver-norwood/profil/spieler/73547,Oliver Norwood,Central Midfield,€6.50m ,"Apr 12, 1991 (28)",Northern Ireland
+762,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/ben-osborn/profil/spieler/218087,Ben Osborn,Left Midfield,€2.00m ,"Aug 5, 1994 (24)",England
+763,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/luke-freeman/profil/spieler/66923,Luke Freeman,Attacking Midfield,€2.80m ,"Mar 22, 1992 (27)",England
+764,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/ravel-morrison/profil/spieler/128907,Ravel Morrison,Attacking Midfield,€600Th. ,"Feb 2, 1993 (26)",Jamaica
+765,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/ricky-holmes/profil/spieler/156899,Ricky Holmes,Left Winger,€250Th. ,"Jun 20, 1987 (32)",England
+766,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/nathan-thomas/profil/spieler/222024,Nathan Thomas,Left Winger,€250Th. ,"Sep 27, 1994 (24)",England
+767,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/lys-mousset/profil/spieler/291422,Lys Mousset,Centre-Forward,€9.50m ,"Feb 8, 1996 (23)",France
+768,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/oliver-mcburnie/profil/spieler/298477,Oliver McBurnie,Centre-Forward,€8.00m ,"Jun 4, 1996 (23)",Scotland
+769,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/callum-robinson/profil/spieler/183299,Callum Robinson,Centre-Forward,€5.50m ,"Feb 2, 1995 (24)",Ireland
+770,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/billy-sharp/profil/spieler/49542,Billy Sharp,Centre-Forward,€1.60m ,"Feb 5, 1986 (33)",England
+771,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/david-mcgoldrick/profil/spieler/35416,David McGoldrick,Centre-Forward,€1.60m ,"Nov 29, 1987 (31)",Ireland
+772,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/richairo-zivkovic/profil/spieler/252755,Richairo Zivkovic,Centre-Forward,€650Th. ,"Sep 5, 1996 (22)",Netherlands
+773,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2019,/leon-clarke/profil/spieler/36859,Leon Clarke,Centre-Forward,€300Th. ,"Feb 10, 1985 (34)",England

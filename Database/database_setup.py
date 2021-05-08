@@ -22,7 +22,8 @@ sqlite_create_table_clubs = ''' CREATE TABLE IF NOT EXISTS clubs (
                                             club_name text NOT NULL,
                                             url text NOT NULL,
                                             number_of_footballers integer NOT NULL,
-                                            club_value text NOT NULL
+                                            club_value text NOT NULL,
+                                            season integer NOT NULL
                                         ); '''
 
 sqlite_create_table_values = ''' CREATE TABLE IF NOT EXISTS player_values (
@@ -31,6 +32,7 @@ sqlite_create_table_values = ''' CREATE TABLE IF NOT EXISTS player_values (
                                             date_stamp timestamp  integer NOT NULL,
                                             player_value integer NOT NULL,
                                             player_club text NOT NULL,
+                                            player_url text NOT NULL,
                                             FOREIGN KEY (transfermarkt_player_id) REFERENCES players_transfermarkt (id) ON DELETE CASCADE
                                         ); '''
 
@@ -42,7 +44,8 @@ sqlite_create_table_players_transfermarkt = ''' CREATE TABLE IF NOT EXISTS playe
                                             nationality text NOT NULL,
                                             current_value integer NOT NULL,
                                             url text NOT NULL,
-                                            current_club_id NOT NULL,
+                                            current_club_id integer NOT NULL,
+                                            season integer NOT NULL,
                                             FOREIGN KEY (current_club_id) REFERENCES clubs (id) ON DELETE CASCADE
                                        
                                         ); '''
@@ -59,51 +62,58 @@ sqlite_create_table_players_transfermarkt_fpl = ''' CREATE TABLE IF NOT EXISTS p
 
 
 def insert_into_clubs():
-    filename = os.path.join("csv_transfermarkt", "Clubs.csv")
-    df = pd.read_csv(filename)
+    seasons = ['2015', '2016', '2017', '2018', '2019', '2020']
+    for season in seasons:
+        filename = os.path.join("csv_transfermarkt", "Clubs_" + season + ".csv")
+        df = pd.read_csv(filename)
 
-    for index, row in df.iterrows():
-        try:
-            sqlite_connection = sqlite3.connect("fpa-database.db")
-            cursor = sqlite_connection.cursor()
+        for index, row in df.iterrows():
+            try:
+                sqlite_connection = sqlite3.connect("fpa-database.db")
+                cursor = sqlite_connection.cursor()
 
-            sql_insert_into_clubs = '''INSERT INTO clubs
-                                          (  club_name, url,number_of_footballers, club_value)
-                                           VALUES
-                                          (?, ?, ?,?)'''
-            data_tuple = (row['club_name'], row['reference'], row['number_of_footballers'], row['total_value'])
-            cursor.execute(sql_insert_into_clubs, data_tuple)
-            sqlite_connection.commit()
-        except sqlite3.Error as error:
-            print("Error while creating a sqlite table", error)
-        finally:
-            if (sqlite_connection):
-                sqlite_connection.close()
+                sql_insert_into_clubs = '''INSERT INTO clubs
+                                              (  club_name, url,number_of_footballers, club_value, season)
+                                               VALUES
+                                              (?, ?, ?,?,?)'''
+                data_tuple = (
+                row['club_name'], row['reference'], row['number_of_footballers'], row['total_value'], int(season))
+                cursor.execute(sql_insert_into_clubs, data_tuple)
+                sqlite_connection.commit()
+            except sqlite3.Error as error:
+                print("Error while creating a sqlite table", error)
+            finally:
+                if (sqlite_connection):
+                    sqlite_connection.close()
 
 
 def insert_into_players_transfermarkt():
-    filename = os.path.join("csv_transfermarkt", "Players.csv")
-    df = pd.read_csv(filename)
-    for index, row in df.iterrows():
-        try:
-            sqlite_connection = sqlite3.connect("fpa-database.db")
-            cursor = sqlite_connection.cursor()
+    seasons = ['2015', '2016', '2017', '2018', '2019', '2020']
+    for season in seasons:
+        filename = os.path.join("csv_transfermarkt", "Players_" + season + ".csv")
+        df = pd.read_csv(filename)
+        for index, row in df.iterrows():
+            try:
+                sqlite_connection = sqlite3.connect("fpa-database.db")
+                cursor = sqlite_connection.cursor()
 
-            sql_insert_into_clubs = '''INSERT INTO players_transfermarkt
-                                          (player_name, date_of_birth,  player_position, nationality, current_value , url, current_club_id)
-                                           VALUES
-                                          (?, ?, ?,?, ?, ?, ?)'''
-            club_id = select_club_id_from_clubs_by_url(row['club_reference'].split("https://www.transfermarkt.com")[1])
-            data_tuple = (
-                row['name_and_surname'], row['date_of_birth'], row['position'], row['country'], row['market_value'],
-                row['href'], club_id)
-            cursor.execute(sql_insert_into_clubs, data_tuple)
-            sqlite_connection.commit()
-        except sqlite3.Error as error:
-            print("Error while creating a sqlite table", error)
-        finally:
-            if (sqlite_connection):
-                sqlite_connection.close()
+                sql_insert_into_clubs = '''INSERT INTO players_transfermarkt
+                                              (player_name, date_of_birth,  player_position, nationality, current_value , url, current_club_id, season)
+                                               VALUES
+                                              (?, ?, ?,?, ?, ?, ?, ?)'''
+                club_id = select_club_id_from_clubs_by_url(
+                    row['club_reference'].split("https://www.transfermarkt.com")[1])
+
+                data_tuple = (
+                    row['name_and_surname'], row['date_of_birth'], row['position'], row['country'], row['market_value'],
+                    row['href'], club_id, int(season))
+                cursor.execute(sql_insert_into_clubs, data_tuple)
+                sqlite_connection.commit()
+            except sqlite3.Error as error:
+                print("Error while creating a sqlite table", error)
+            finally:
+                if (sqlite_connection):
+                    sqlite_connection.close()
 
 
 def insert_into_player_values():
@@ -115,12 +125,13 @@ def insert_into_player_values():
             cursor = sqlite_connection.cursor()
 
             sql_insert_into_clubs = '''INSERT INTO player_values
-                                          (transfermarkt_player_id,date_stamp,player_value,player_club)
+                                          (transfermarkt_player_id,date_stamp,player_value,player_club, player_url)
                                            VALUES
-                                          (?, ?, ?,?)'''
+                                          (?, ?, ?,?, ?)'''
             player_id = select_player_id_from_players_transfermarkt_by_url(
                 row['player_reference'].split("https://www.transfermarkt.com")[1])
-            data_tuple = (player_id, row['date'], row['value'], row['club'])
+            player_url = row['player_reference'].split("https://www.transfermarkt.com")[1]
+            data_tuple = (player_id, row['date'], row['value'], row['club'], player_url)
             cursor.execute(sql_insert_into_clubs, data_tuple)
             sqlite_connection.commit()
         except sqlite3.Error as error:
@@ -147,6 +158,8 @@ def select_club_id_from_clubs_by_url(url):
     for row in rows:
         return row[0]
     sqlite_connection.close()
+
+
 
 
 def select_player_id_from_players_transfermarkt_by_url(url):
@@ -208,6 +221,6 @@ insert_into_players_transfermarkt()
 connection.commit()
 insert_into_player_values()
 connection.commit()
-insert_into_players_transfermarkt_fpl()
+#insert_into_players_transfermarkt_fpl()
 
 connection.close()

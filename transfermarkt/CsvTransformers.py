@@ -34,21 +34,21 @@ class CsvTransformers:
             euros_decimal = Decimal(string_number) * number_factor
         else:
             euros_decimal = Decimal(-1)
-        #print(string_value + "|" +string_number + "|" +factor +"|"+ str(number_factor) + "|"+ str(euros_decimal) )
+        # print(string_value + "|" +string_number + "|" +factor +"|"+ str(number_factor) + "|"+ str(euros_decimal) )
         # jeśli nie ma ceny to przyjmujemy cenę równą -1 na danych wejściowych
         return euros_decimal
 
-    def transform_clubs(self):
+    def transform_clubs(self, file_name="Clubs.csv"):
         # csvTransformers = CsvTransformers()
         # euros_decimal = csvTransformers.get_string_monetary_value_as_decimal("€1.03bn")
         # print(euros_decimal)
 
-        filename = os.path.join("csv", "Clubs.csv")
+        filename = os.path.join("csv", file_name)
         df = pd.read_csv(filename)
         for i, row in df.iterrows():
             df.at[i, 'total_value'] = self.get_string_monetary_value_as_decimal(df.at[i, 'total_value'])
         df.drop('Unnamed: 0', axis=1, inplace=True)
-        filename = os.path.join("csv_transform", "Clubs.csv")
+        filename = os.path.join("csv_transform", file_name)
         df.to_csv(filename, index=False)
 
     def get_player_birthdate(self, string_value):
@@ -64,14 +64,14 @@ class CsvTransformers:
             print(string_value)
         return date_time_obj
 
-    def transform_players(self):
-        filename = os.path.join("csv", "Players.csv")
+    def transform_players(self, file_name="Players.csv"):
+        filename = os.path.join("csv", file_name)
         df = pd.read_csv(filename)
         for i, row in df.iterrows():
             df.at[i, 'date_of_birth'] = self.get_player_birthdate(df.at[i, 'date_of_birth'])
             df.at[i, 'market_value'] = self.get_string_monetary_value_as_decimal(df.at[i, 'market_value'])
         df.drop('Unnamed: 0', axis=1, inplace=True)
-        filename = os.path.join("csv_transform", "Players.csv")
+        filename = os.path.join("csv_transform", file_name)
         df.to_csv(filename, index=False)
 
     def transform_values(self):
@@ -87,10 +87,16 @@ class CsvTransformers:
 
 
 helper = CsvTransformers()
-helper.transform_players()
+
+seasons = ['2015', '2016', '2017', '2018', '2019', '2020']
+
+for season in seasons:
+    helper.transform_clubs("Clubs_" + season + ".csv")
+    helper.transform_players("Players_" + season + ".csv")
+
+# helper.transform_players()
 # helper.transform_values()
 
 
-
-euros = helper.get_string_monetary_value_as_decimal("€56.00m")
-print(euros)
+# euros = helper.get_string_monetary_value_as_decimal("€56.00m")
+# print(euros)

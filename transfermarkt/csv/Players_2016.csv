@@ -1,0 +1,792 @@
+,club_reference,href,name_and_surname,position,market_value,date_of_birth,country
+0,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/joe-hart/profil/spieler/40204,Joe Hart,Goalkeeper,€13.00m ,"Apr 19, 1987 (29)",England
+1,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/claudio-bravo/profil/spieler/40423,Claudio Bravo,Goalkeeper,€8.00m ,"Apr 13, 1983 (33)",Chile
+2,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/willy-caballero/profil/spieler/19948,Willy Caballero,Goalkeeper,€1.50m ,"Sep 28, 1981 (34)",Argentina
+3,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/angus-gunn/profil/spieler/201574,Angus Gunn,Goalkeeper,€250Th. ,"Jan 22, 1996 (20)",England
+4,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/john-stones/profil/spieler/186590,John Stones,Centre-Back,€35.00m ,"May 28, 1994 (22)",England
+5,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/nicolas-otamendi/profil/spieler/54781,Nicolás Otamendi,Centre-Back,€30.00m ,"Feb 12, 1988 (28)",Argentina
+6,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/vincent-kompany/profil/spieler/9594,Vincent Kompany,Centre-Back,€22.00m ,"Apr 10, 1986 (30)",Belgium
+7,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/eliaquim-mangala/profil/spieler/90681,Eliaquim Mangala,Centre-Back,€15.00m ,"Feb 13, 1991 (25)",France
+8,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/jason-denayer/profil/spieler/277114,Jason Denayer,Centre-Back,€4.00m ,"Jun 28, 1995 (21)",Belgium
+9,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/pablo-mari/profil/spieler/210178,Pablo Marí,Centre-Back,€400Th. ,"Aug 31, 1993 (22)",Spain
+10,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/tosin-adarabioyo/profil/spieler/258878,Tosin Adarabioyo,Centre-Back,€250Th. ,"Sep 24, 1997 (18)",England
+11,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/aleksandar-kolarov/profil/spieler/46156,Aleksandar Kolarov,Left-Back,€10.00m ,"Nov 10, 1985 (30)",Serbia
+12,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/gael-clichy/profil/spieler/7449,Gaël Clichy,Left-Back,€7.00m ,"Jul 26, 1985 (30)",France
+13,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/oleksandr-zinchenko/profil/spieler/203853,Oleksandr Zinchenko,Left-Back,€4.50m ,"Dec 15, 1996 (19)",Ukraine
+14,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/jesus-navas/profil/spieler/15956,Jesús Navas,Right-Back,€12.00m ,"Nov 21, 1985 (30)",Spain
+15,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/pablo-zabaleta/profil/spieler/20007,Pablo Zabaleta,Right-Back,€7.00m ,"Jan 16, 1985 (31)",Argentina
+16,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/bacary-sagna/profil/spieler/26764,Bacary Sagna,Right-Back,€4.00m ,"Feb 14, 1983 (33)",France
+17,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/pablo-maffeo/profil/spieler/251876,Pablo Maffeo,Right-Back,€500Th. ,"Jul 12, 1997 (18)",Spain
+18,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/fernandinho/profil/spieler/26267,Fernandinho,Defensive Midfield,€18.00m ,"May 4, 1985 (31)",Brazil
+19,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/fernando-reges/profil/spieler/51174,Fernando Reges,Defensive Midfield,€10.00m ,"Jul 25, 1987 (28)",Brazil
+20,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/bruno-zuculini/profil/spieler/115507,Bruno Zuculini,Defensive Midfield,€1.20m ,"Apr 2, 1993 (23)",Argentina
+21,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/luke-brattan/profil/spieler/114365,Luke Brattan,Defensive Midfield,€600Th. ,"Mar 8, 1990 (26)",Australia
+22,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/ilkay-gundogan/profil/spieler/53622,Ilkay Gündogan,Central Midfield,€30.00m ,"Oct 24, 1990 (25)",Germany
+23,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/fabian-delph/profil/spieler/50362,Fabian Delph,Central Midfield,€8.00m ,"Nov 21, 1989 (26)",England
+24,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/yaya-toure/profil/spieler/13091,Yaya Touré,Central Midfield,€8.00m ,"May 13, 1983 (33)",Cote d'Ivoire
+25,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/aaron-mooy/profil/spieler/123951,Aaron Mooy,Central Midfield,€5.00m ,"Sep 15, 1990 (25)",Australia
+26,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/aleix-garcia/profil/spieler/261504,Aleix García,Central Midfield,€1.00m ,"Jun 28, 1997 (19)",Spain
+27,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/phil-foden/profil/spieler/406635,Phil Foden,Central Midfield, ,"May 28, 2000 (16)",England
+28,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/angelino/profil/spieler/277179,Angeliño,Left Midfield,€500Th. ,"Jan 4, 1997 (19)",Spain
+29,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/kevin-de-bruyne/profil/spieler/88755,Kevin De Bruyne,Attacking Midfield,€65.00m ,"Jun 28, 1991 (25)",Belgium
+30,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/david-silva/profil/spieler/35518,David Silva,Attacking Midfield,€30.00m ,"Jan 8, 1986 (30)",Spain
+31,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/samir-nasri/profil/spieler/18935,Samir Nasri,Attacking Midfield,€16.00m ,"Jun 26, 1987 (29)",France
+32,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/brahim-diaz/profil/spieler/314678,Brahim Díaz,Attacking Midfield, ,"Aug 3, 1999 (16)",Spain
+33,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/raheem-sterling/profil/spieler/134425,Raheem Sterling,Left Winger,€45.00m ,"Dec 8, 1994 (21)",England
+34,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/nolito/profil/spieler/70934,Nolito,Left Winger,€12.00m ,"Oct 15, 1986 (29)",Spain
+35,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/leroy-sane/profil/spieler/192565,Leroy Sané,Right Winger,€35.00m ,"Jan 11, 1996 (20)",Germany
+36,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/patrick-roberts/profil/spieler/225452,Patrick Roberts,Right Winger,€7.50m ,"Feb 5, 1997 (19)",England
+37,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/marlos-moreno/profil/spieler/345654,Marlos Moreno,Right Winger,€1.00m ,"Sep 20, 1996 (19)",Colombia
+38,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/sergio-aguero/profil/spieler/26399,Sergio Agüero,Centre-Forward,€65.00m ,"Jun 2, 1988 (28)",Argentina
+39,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/gabriel-jesus/profil/spieler/363205,Gabriel Jesus,Centre-Forward,€30.00m ,"Apr 3, 1997 (19)",Brazil
+40,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/wilfried-bony/profil/spieler/81808,Wilfried Bony,Centre-Forward,€18.00m ,"Dec 10, 1988 (27)",Cote d'Ivoire
+41,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/kelechi-iheanacho/profil/spieler/295330,Kelechi Iheanacho,Centre-Forward,€15.00m ,"Oct 3, 1996 (19)",Nigeria
+42,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/enes-unal/profil/spieler/251106,Enes Ünal,Centre-Forward,€10.00m ,"May 10, 1997 (19)",Turkey
+43,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2016,/ruben-sobrino/profil/spieler/85383,Rubén Sobrino,Centre-Forward,€500Th. ,"Jun 1, 1992 (24)",Spain
+44,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/thibaut-courtois/profil/spieler/108390,Thibaut Courtois,Goalkeeper,€40.00m ,"May 11, 1992 (24)",Belgium
+45,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/asmir-begovic/profil/spieler/33873,Asmir Begovic,Goalkeeper,€8.00m ,"Jun 20, 1987 (29)",Bosnia-Herzegovina
+46,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/eduardo/profil/spieler/34159,Eduardo,Goalkeeper,€1.50m ,"Sep 19, 1982 (33)",Portugal
+47,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/matej-delac/profil/spieler/60220,Matej Delac,Goalkeeper,€900Th. ,"Aug 20, 1992 (23)",Croatia
+48,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/jamal-blackman/profil/spieler/128898,Jamal Blackman,Goalkeeper,€250Th. ,"Oct 27, 1993 (22)",England
+49,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/david-luiz/profil/spieler/46741,David Luiz,Centre-Back,€30.00m ,"Apr 22, 1987 (29)",Brazil
+50,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/andreas-christensen/profil/spieler/196948,Andreas Christensen,Centre-Back,€18.00m ,"Apr 10, 1996 (20)",Denmark
+51,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/gary-cahill/profil/spieler/27511,Gary Cahill,Centre-Back,€16.00m ,"Dec 19, 1985 (30)",England
+52,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/kurt-zouma/profil/spieler/157509,Kurt Zouma,Centre-Back,€15.00m ,"Oct 27, 1994 (21)",France
+53,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/nathan-ake/profil/spieler/177476,Nathan Aké,Centre-Back,€8.00m ,"Feb 18, 1995 (21)",Netherlands
+54,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/branislav-ivanovic/profil/spieler/36827,Branislav Ivanovic,Centre-Back,€5.00m ,"Feb 22, 1984 (32)",Serbia
+55,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/tomas-kalas/profil/spieler/148657,Tomas Kalas,Centre-Back,€4.00m ,"May 15, 1993 (23)",Czech Republic
+56,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/michael-hector/profil/spieler/157490,Michael Hector,Centre-Back,€3.00m ,"Jul 19, 1992 (23)",Jamaica
+57,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/kenneth-omeruo/profil/spieler/131708,Kenneth Omeruo,Centre-Back,€2.00m ,"Oct 17, 1993 (22)",Nigeria
+58,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/matt-miazga/profil/spieler/245893,Matt Miazga,Centre-Back,€2.00m ,"Jul 19, 1995 (20)",United States
+59,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/john-terry/profil/spieler/3160,John Terry,Centre-Back,€1.00m ,"Dec 7, 1980 (35)",England
+60,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/marcos-alonso/profil/spieler/112515,Marcos Alonso,Left-Back,€25.00m ,"Dec 28, 1990 (25)",Spain
+61,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/abdul-rahman-baba/profil/spieler/224884,Abdul Rahman Baba,Left-Back,€8.00m ,"Jul 2, 1994 (21)",Ghana
+62,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/cristian-cuevas/profil/spieler/186863,Cristian Cuevas,Left-Back,€900Th. ,"Apr 2, 1995 (21)",Chile
+63,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/cesar-azpilicueta/profil/spieler/57500,César Azpilicueta,Right-Back,€30.00m ,"Aug 28, 1989 (26)",Spain
+64,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/juan-cuadrado/profil/spieler/91970,Juan Cuadrado,Right-Back,€25.00m ,"May 26, 1988 (28)",Colombia
+65,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/todd-kane/profil/spieler/154287,Todd Kane,Right-Back,€1.50m ,"Sep 17, 1993 (22)",England
+66,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/wallace-oliveira/profil/spieler/181779,Wallace Oliveira,Right-Back,€1.00m ,"May 1, 1994 (22)",Brazil
+67,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/ola-aina/profil/spieler/236490,Ola Aina,Right-Back,€1.00m ,"Oct 8, 1996 (19)",Nigeria
+68,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/nemanja-matic/profil/spieler/74683,Nemanja Matic,Defensive Midfield,€35.00m ,"Aug 1, 1988 (27)",Serbia
+69,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/nathaniel-chalobah/profil/spieler/128900,Nathaniel Chalobah,Defensive Midfield,€5.00m ,"Dec 12, 1994 (21)",England
+70,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/ngolo-kante/profil/spieler/225083,N'Golo Kanté,Central Midfield,€50.00m ,"Mar 29, 1991 (25)",France
+71,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/cesc-fabregas/profil/spieler/8806,Cesc Fàbregas,Central Midfield,€35.00m ,"May 4, 1987 (29)",Spain
+72,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/mario-pasalic/profil/spieler/205938,Mario Pasalic,Central Midfield,€8.00m ,"Feb 9, 1995 (21)",Croatia
+73,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/marco-van-ginkel/profil/spieler/147034,Marco van Ginkel,Central Midfield,€7.50m ,"Dec 1, 1992 (23)",Netherlands
+74,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/lewis-baker/profil/spieler/198589,Lewis Baker,Central Midfield,€5.50m ,"Apr 25, 1995 (21)",England
+75,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/ruben-loftus-cheek/profil/spieler/202886,Ruben Loftus-Cheek,Central Midfield,€5.00m ,"Jan 23, 1996 (20)",England
+76,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/victorien-angban/profil/spieler/178314,Victorien Angban,Central Midfield,€1.00m ,"Sep 29, 1996 (19)",Cote d'Ivoire
+77,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/victor-moses/profil/spieler/59866,Victor Moses,Right Midfield,€18.00m ,"Dec 12, 1990 (25)",Nigeria
+78,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/oscar/profil/spieler/85314,Oscar,Attacking Midfield,€22.00m ,"Sep 9, 1991 (24)",Brazil
+79,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/nathan/profil/spieler/294798,Nathan,Attacking Midfield,€1.25m ,"Mar 13, 1996 (20)",Brazil
+80,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/danilo-pantic/profil/spieler/222830,Danilo Pantic,Attacking Midfield,€400Th. ,"Oct 26, 1996 (19)",Serbia
+81,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/eden-hazard/profil/spieler/50202,Eden Hazard,Left Winger,€75.00m ,"Jan 7, 1991 (25)",Belgium
+82,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/kenedy/profil/spieler/281404,Kenedy,Left Winger,€7.00m ,"Feb 8, 1996 (20)",Brazil
+83,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/christian-atsu/profil/spieler/186997,Christian Atsu,Left Winger,€5.00m ,"Jan 10, 1992 (24)",Ghana
+84,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/jeremie-boga/profil/spieler/216569,Jérémie Boga,Left Winger,€2.50m ,"Jan 3, 1997 (19)",Cote d'Ivoire
+85,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/willian/profil/spieler/52769,Willian,Right Winger,€32.00m ,"Aug 9, 1988 (27)",Brazil
+86,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/pedro/profil/spieler/65278,Pedro,Right Winger,€28.00m ,"Jul 28, 1987 (28)",Spain
+87,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/bertrand-traore/profil/spieler/131996,Bertrand Traoré,Right Winger,€8.00m ,"Sep 6, 1995 (20)",Burkina Faso
+88,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/lucas-piazon/profil/spieler/176485,Lucas Piazon,Right Winger,€2.50m ,"Jan 20, 1994 (22)",Brazil
+89,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/diego-costa/profil/spieler/44779,Diego Costa,Centre-Forward,€50.00m ,"Oct 7, 1988 (27)",Spain
+90,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/michy-batshuayi/profil/spieler/179184,Michy Batshuayi,Centre-Forward,€25.00m ,"Oct 2, 1993 (22)",Belgium
+91,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/loic-remy/profil/spieler/45121,Loïc Rémy,Centre-Forward,€9.00m ,"Jan 2, 1987 (29)",France
+92,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2016,/dominic-solanke/profil/spieler/258889,Dominic Solanke,Centre-Forward,€2.00m ,"Sep 14, 1997 (18)",England
+93,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/david-de-gea/profil/spieler/59377,David de Gea,Goalkeeper,€40.00m ,"Nov 7, 1990 (25)",Spain
+94,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/sergio-romero/profil/spieler/30690,Sergio Romero,Goalkeeper,€6.00m ,"Feb 22, 1987 (29)",Argentina
+95,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/sam-johnstone/profil/spieler/110864,Sam Johnstone,Goalkeeper,€1.00m ,"Mar 25, 1993 (23)",England
+96,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/joel-pereira/profil/spieler/192611,Joel Pereira,Goalkeeper,€100Th. ,"Jun 28, 1996 (20)",Portugal
+97,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/dean-henderson/profil/spieler/258919,Dean Henderson,Goalkeeper,€100Th. ,"Mar 12, 1997 (19)",England
+98,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/kieran-ohara/profil/spieler/289791,Kieran O'Hara,Goalkeeper, ,"Apr 22, 1996 (20)",Ireland
+99,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/eric-bailly/profil/spieler/286384,Eric Bailly,Centre-Back,€30.00m ,"Apr 12, 1994 (22)",Cote d'Ivoire
+100,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/daley-blind/profil/spieler/12282,Daley Blind,Centre-Back,€22.00m ,"Mar 9, 1990 (26)",Netherlands
+101,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/marcos-rojo/profil/spieler/93176,Marcos Rojo,Centre-Back,€18.00m ,"Mar 20, 1990 (26)",Argentina
+102,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/chris-smalling/profil/spieler/103427,Chris Smalling,Centre-Back,€18.00m ,"Nov 22, 1989 (26)",England
+103,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/phil-jones/profil/spieler/117996,Phil Jones,Centre-Back,€14.00m ,"Feb 21, 1992 (24)",England
+104,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/axel-tuanzebe/profil/spieler/342046,Axel Tuanzebe,Centre-Back,€1.00m ,"Nov 14, 1997 (18)",England
+105,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/luke-shaw/profil/spieler/183288,Luke Shaw,Left-Back,€20.00m ,"Jul 12, 1995 (20)",England
+106,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/cameron-borthwick-jackson/profil/spieler/258879,Cameron Borthwick-Jackson,Left-Back,€3.00m ,"Feb 2, 1997 (19)",England
+107,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/demetri-mitchell/profil/spieler/258886,Demetri Mitchell,Left-Back, ,"Jan 11, 1997 (19)",England
+108,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/matteo-darmian/profil/spieler/54906,Matteo Darmian,Right-Back,€12.00m ,"Dec 2, 1989 (26)",Italy
+109,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/antonio-valencia/profil/spieler/33544,Antonio Valencia,Right-Back,€10.00m ,"Aug 4, 1985 (30)",Ecuador
+110,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/timothy-fosu-mensah/profil/spieler/315131,Timothy Fosu-Mensah,Right-Back,€2.50m ,"Jan 2, 1998 (18)",Netherlands
+111,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/guillermo-varela/profil/spieler/188862,Guillermo Varela,Right-Back,€750Th. ,"Mar 24, 1993 (23)",Uruguay
+112,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/morgan-schneiderlin/profil/spieler/56818,Morgan Schneiderlin,Defensive Midfield,€22.00m ,"Nov 8, 1989 (26)",France
+113,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/michael-carrick/profil/spieler/3878,Michael Carrick,Defensive Midfield,€1.50m ,"Jul 28, 1981 (34)",England
+114,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/paul-pogba/profil/spieler/122153,Paul Pogba,Central Midfield,€75.00m ,"Mar 15, 1993 (23)",France
+115,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/ander-herrera/profil/spieler/99343,Ander Herrera,Central Midfield,€30.00m ,"Aug 14, 1989 (26)",Spain
+116,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/marouane-fellaini/profil/spieler/39679,Marouane Fellaini,Central Midfield,€12.00m ,"Nov 22, 1987 (28)",Belgium
+117,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/bastian-schweinsteiger/profil/spieler/2514,Bastian Schweinsteiger,Central Midfield,€4.50m ,"Aug 1, 1984 (31)",Germany
+118,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/matty-willock/profil/spieler/289845,Matty Willock,Central Midfield, ,"Aug 20, 1996 (19)",England
+119,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/scott-mctominay/profil/spieler/315969,Scott McTominay,Central Midfield, ,"Dec 8, 1996 (19)",Scotland
+120,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/ashley-young/profil/spieler/14086,Ashley Young,Left Midfield,€5.00m ,"Jul 9, 1985 (30)",England
+121,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/henrikh-mkhitaryan/profil/spieler/55735,Henrikh Mkhitaryan,Attacking Midfield,€35.00m ,"Jan 21, 1989 (27)",Armenia
+122,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/juan-mata/profil/spieler/44068,Juan Mata,Attacking Midfield,€30.00m ,"Apr 28, 1988 (28)",Spain
+123,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/jesse-lingard/profil/spieler/141660,Jesse Lingard,Attacking Midfield,€12.00m ,"Dec 15, 1992 (23)",England
+124,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/andreas-pereira/profil/spieler/203394,Andreas Pereira,Attacking Midfield,€5.00m ,"Jan 1, 1996 (20)",Brazil
+125,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/josh-harrop/profil/spieler/289844,Josh Harrop,Attacking Midfield, ,"Dec 15, 1995 (20)",England
+126,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/angel-gomes/profil/spieler/392770,Angel Gomes,Attacking Midfield, ,"Aug 31, 2000 (15)",England
+127,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/marcus-rashford/profil/spieler/258923,Marcus Rashford,Left Winger,€18.00m ,"Oct 31, 1997 (18)",England
+128,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/adnan-januzaj/profil/spieler/177847,Adnan Januzaj,Right Winger,€7.00m ,"Feb 5, 1995 (21)",Belgium
+129,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/zak-dearnley/profil/spieler/396284,Zak Dearnley,Right Winger, ,"Sep 28, 1998 (17)",England
+130,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/anthony-martial/profil/spieler/182877,Anthony Martial,Centre-Forward,€30.00m ,"Dec 5, 1995 (20)",France
+131,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/memphis-depay/profil/spieler/167850,Memphis Depay,Centre-Forward,€19.00m ,"Feb 13, 1994 (22)",Netherlands
+132,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/wayne-rooney/profil/spieler/3332,Wayne Rooney,Centre-Forward,€15.00m ,"Oct 24, 1985 (30)",England
+133,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/zlatan-ibrahimovic/profil/spieler/3455,Zlatan Ibrahimovic,Centre-Forward,€10.00m ,"Oct 3, 1981 (34)",Sweden
+134,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2016,/james-wilson/profil/spieler/214104,James Wilson,Centre-Forward,€2.00m ,"Dec 1, 1995 (20)",England
+135,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/wojciech-szczesny/profil/spieler/44058,Wojciech Szczesny,Goalkeeper,€17.00m ,"Apr 18, 1990 (26)",Poland
+136,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/david-ospina/profil/spieler/73396,David Ospina,Goalkeeper,€7.00m ,"Aug 31, 1988 (27)",Colombia
+137,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/petr-cech/profil/spieler/5658,Petr Cech,Goalkeeper,€7.00m ,"May 20, 1982 (34)",Czech Republic
+138,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/emiliano-martinez/profil/spieler/111873,Emiliano Martínez,Goalkeeper,€1.00m ,"Sep 2, 1992 (23)",Argentina
+139,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/matt-macey/profil/spieler/220491,Matt Macey,Goalkeeper,€500Th. ,"Sep 9, 1994 (21)",England
+140,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/shkodran-mustafi/profil/spieler/88590,Shkodran Mustafi,Centre-Back,€30.00m ,"Apr 17, 1992 (24)",Germany
+141,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/laurent-koscielny/profil/spieler/76277,Laurent Koscielny,Centre-Back,€22.00m ,"Sep 10, 1985 (30)",France
+142,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/calum-chambers/profil/spieler/215118,Calum Chambers,Centre-Back,€14.00m ,"Jan 20, 1995 (21)",England
+143,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/gabriel-paulista/profil/spieler/149498,Gabriel Paulista,Centre-Back,€13.00m ,"Nov 26, 1990 (25)",Brazil
+144,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/rob-holding/profil/spieler/253341,Rob Holding,Centre-Back,€7.00m ,"Sep 20, 1995 (20)",England
+145,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/per-mertesacker/profil/spieler/6710,Per Mertesacker,Centre-Back,€6.00m ,"Sep 29, 1984 (31)",Germany
+146,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/nacho-monreal/profil/spieler/43003,Nacho Monreal,Left-Back,€13.00m ,"Feb 26, 1986 (30)",Spain
+147,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/kieran-gibbs/profil/spieler/44792,Kieran Gibbs,Left-Back,€10.00m ,"Sep 26, 1989 (26)",England
+148,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/marc-bola/profil/spieler/340310,Marc Bola,Left-Back, ,"Dec 9, 1997 (18)",England
+149,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/hector-bellerin/profil/spieler/191217,Héctor Bellerín,Right-Back,€30.00m ,"Mar 19, 1995 (21)",Spain
+150,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/carl-jenkinson/profil/spieler/126321,Carl Jenkinson,Right-Back,€5.00m ,"Feb 8, 1992 (24)",England
+151,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/mathieu-debuchy/profil/spieler/27306,Mathieu Debuchy,Right-Back,€3.50m ,"Jul 28, 1985 (30)",France
+152,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/granit-xhaka/profil/spieler/111455,Granit Xhaka,Defensive Midfield,€35.00m ,"Sep 27, 1992 (23)",Switzerland
+153,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/francis-coquelin/profil/spieler/74869,Francis Coquelin,Defensive Midfield,€15.00m ,"May 13, 1991 (25)",France
+154,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/mohamed-elneny/profil/spieler/160438,Mohamed Elneny,Defensive Midfield,€10.00m ,"Jul 11, 1992 (23)",Egypt
+155,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/krystian-bielik/profil/spieler/287247,Krystian Bielik,Defensive Midfield,€2.00m ,"Jan 4, 1998 (18)",Poland
+156,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/ben-sheaf/profil/spieler/314384,Ben Sheaf,Defensive Midfield, ,"Feb 5, 1998 (18)",England
+157,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/aaron-ramsey/profil/spieler/50057,Aaron Ramsey,Central Midfield,€35.00m ,"Dec 26, 1990 (25)",Wales
+158,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/alex-oxlade-chamberlain/profil/spieler/143424,Alex Oxlade-Chamberlain,Central Midfield,€22.00m ,"Aug 15, 1993 (22)",England
+159,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/jack-wilshere/profil/spieler/74223,Jack Wilshere,Central Midfield,€18.00m ,"Jan 1, 1992 (24)",England
+160,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/santi-cazorla/profil/spieler/15799,Santi Cazorla,Central Midfield,€12.00m ,"Dec 13, 1984 (31)",Spain
+161,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/gedion-zelalem/profil/spieler/228370,Gedion Zelalem,Central Midfield,€250Th. ,"Jan 26, 1997 (19)",United States
+162,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/josh-dasilva/profil/spieler/340321,Josh Dasilva,Central Midfield, ,"Oct 23, 1998 (17)",England
+163,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/ainsley-maitland-niles/profil/spieler/285845,Ainsley Maitland-Niles,Right Midfield,€750Th. ,"Aug 29, 1997 (18)",England
+164,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/mesut-ozil/profil/spieler/35664,Mesut Özil,Attacking Midfield,€50.00m ,"Oct 15, 1988 (27)",Germany
+165,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/jeff-reine-adelaide/profil/spieler/326300,Jeff Reine-Adélaïde,Attacking Midfield,€1.00m ,"Jan 17, 1998 (18)",France
+166,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/alex-iwobi/profil/spieler/242631,Alex Iwobi,Left Winger,€10.00m ,"May 3, 1996 (20)",Nigeria
+167,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/chris-willock/profil/spieler/314341,Chris Willock,Left Winger, ,"Jan 31, 1998 (18)",England
+168,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/theo-walcott/profil/spieler/33713,Theo Walcott,Right Winger,€20.00m ,"Mar 16, 1989 (27)",England
+169,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/alexis-sanchez/profil/spieler/40433,Alexis Sánchez,Centre-Forward,€65.00m ,"Dec 19, 1988 (27)",Chile
+170,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/olivier-giroud/profil/spieler/82442,Olivier Giroud,Centre-Forward,€22.00m ,"Sep 30, 1986 (29)",France
+171,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/lucas-perez/profil/spieler/73185,Lucas Pérez,Centre-Forward,€15.00m ,"Sep 10, 1988 (27)",Spain
+172,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/danny-welbeck/profil/spieler/67063,Danny Welbeck,Centre-Forward,€15.00m ,"Nov 26, 1990 (25)",England
+173,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/joel-campbell/profil/spieler/131248,Joel Campbell,Centre-Forward,€6.00m ,"Jun 26, 1992 (24)",Costa Rica
+174,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/chuba-akpom/profil/spieler/197642,Chuba Akpom,Centre-Forward,€1.00m ,"Oct 9, 1995 (20)",England
+175,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/yaya-sanogo/profil/spieler/127194,Yaya Sanogo,Centre-Forward,€1.00m ,"Jan 27, 1993 (23)",France
+176,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2016,/stephy-mavididi/profil/spieler/340328,Stephy Mavididi,Centre-Forward, ,"May 31, 1998 (18)",England
+177,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/simon-mignolet/profil/spieler/50219,Simon Mignolet,Goalkeeper,€12.00m ,"Mar 6, 1988 (28)",Belgium
+178,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/loris-karius/profil/spieler/85864,Loris Karius,Goalkeeper,€8.00m ,"Jun 22, 1993 (23)",Germany
+179,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/danny-ward/profil/spieler/203026,Danny Ward,Goalkeeper,€2.50m ,"Jun 22, 1993 (23)",Wales
+180,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/adam-bogdan/profil/spieler/55247,Ádám Bogdán,Goalkeeper,€1.00m ,"Sep 27, 1987 (28)",Hungary
+181,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/alexander-manninger/profil/spieler/5278,Alexander Manninger,Goalkeeper,€200Th. ,"Jun 4, 1977 (39)",Austria
+182,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/joel-matip/profil/spieler/82105,Joel Matip,Centre-Back,€25.00m ,"Aug 8, 1991 (24)",Cameroon
+183,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/dejan-lovren/profil/spieler/37838,Dejan Lovren,Centre-Back,€17.00m ,"Jul 5, 1989 (26)",Croatia
+184,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/mamadou-sakho/profil/spieler/47713,Mamadou Sakho,Centre-Back,€15.00m ,"Feb 13, 1990 (26)",France
+185,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/emre-can/profil/spieler/119296,Emre Can,Centre-Back,€15.00m ,"Jan 12, 1994 (22)",Germany
+186,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/joe-gomez/profil/spieler/256178,Joe Gomez,Centre-Back,€4.00m ,"May 23, 1997 (19)",England
+187,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/ragnar-klavan/profil/spieler/26669,Ragnar Klavan,Centre-Back,€3.50m ,"Oct 30, 1985 (30)",Estonia
+188,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/alberto-moreno/profil/spieler/207917,Alberto Moreno,Left-Back,€10.00m ,"Jul 5, 1992 (23)",Spain
+189,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/nathaniel-clyne/profil/spieler/85177,Nathaniel Clyne,Right-Back,€21.00m ,"Apr 5, 1991 (25)",England
+190,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/jon-flanagan/profil/spieler/145922,Jon Flanagan,Right-Back,€3.50m ,"Jan 1, 1993 (23)",England
+191,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/andre-wisdom/profil/spieler/128912,Andre Wisdom,Right-Back,€2.75m ,"May 9, 1993 (23)",England
+192,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/trent-alexander-arnold/profil/spieler/314353,Trent Alexander-Arnold,Right-Back,€1.50m ,"Oct 7, 1998 (17)",England
+193,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/connor-randall/profil/spieler/262545,Connor Randall,Right-Back,€500Th. ,"Oct 21, 1995 (20)",England
+194,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/lucas-leiva/profil/spieler/41414,Lucas Leiva,Defensive Midfield,€7.00m ,"Jan 9, 1987 (29)",Brazil
+195,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/marko-grujic/profil/spieler/222813,Marko Grujic,Defensive Midfield,€5.00m ,"Apr 13, 1996 (20)",Serbia
+196,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/kevin-stewart/profil/spieler/200782,Kevin Stewart,Defensive Midfield,€1.00m ,"Sep 7, 1993 (22)",England
+197,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/mj-williams/profil/spieler/279454,MJ Williams,Defensive Midfield,€100Th. ,"Nov 6, 1995 (20)",Wales
+198,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/georginio-wijnaldum/profil/spieler/49499,Georginio Wijnaldum,Central Midfield,€28.00m ,"Nov 11, 1990 (25)",Netherlands
+199,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/jordan-henderson/profil/spieler/61651,Jordan Henderson,Central Midfield,€28.00m ,"Jun 17, 1990 (26)",England
+200,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/james-milner/profil/spieler/3333,James Milner,Central Midfield,€12.00m ,"Jan 4, 1986 (30)",England
+201,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/ovie-ejaria/profil/spieler/337284,Ovie Ejaria,Central Midfield,€500Th. ,"Nov 18, 1997 (18)",England
+202,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/philippe-coutinho/profil/spieler/80444,Philippe Coutinho,Attacking Midfield,€45.00m ,"Jun 12, 1992 (24)",Brazil
+203,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/adam-lallana/profil/spieler/43530,Adam Lallana,Attacking Midfield,€25.00m ,"May 10, 1988 (28)",England
+204,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/ben-woodburn/profil/spieler/344015,Ben Woodburn,Attacking Midfield,€1.50m ,"Oct 15, 1999 (16)",Wales
+205,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/paulinho/profil/spieler/372670,Paulinho,Attacking Midfield, ,"Dec 25, 1997 (18)",Portugal
+206,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/sadio-mane/profil/spieler/200512,Sadio Mané,Left Winger,€40.00m ,"Apr 10, 1992 (24)",Senegal
+207,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/lazar-markovic/profil/spieler/144303,Lazar Markovic,Right Winger,€10.00m ,"Mar 2, 1994 (22)",Serbia
+208,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/sheyi-ojo/profil/spieler/236510,Sheyi Ojo,Right Winger,€2.00m ,"Jun 19, 1997 (19)",England
+209,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/harry-wilson/profil/spieler/279455,Harry Wilson,Right Winger,€100Th. ,"Mar 22, 1997 (19)",Wales
+210,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/roberto-firmino/profil/spieler/131789,Roberto Firmino,Centre-Forward,€38.00m ,"Oct 2, 1991 (24)",Brazil
+211,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/daniel-sturridge/profil/spieler/47082,Daniel Sturridge,Centre-Forward,€20.00m ,"Sep 1, 1989 (26)",England
+212,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/divock-origi/profil/spieler/148368,Divock Origi,Centre-Forward,€12.00m ,"Apr 18, 1995 (21)",Belgium
+213,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/danny-ings/profil/spieler/134294,Danny Ings,Centre-Forward,€8.00m ,"Jul 23, 1992 (23)",England
+214,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2016,/rhian-brewster/profil/spieler/406560,Rhian Brewster,Centre-Forward, ,"Apr 1, 2000 (16)",England
+215,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/hugo-lloris/profil/spieler/17965,Hugo Lloris,Goalkeeper,€24.00m ,"Dec 26, 1986 (29)",France
+216,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/michel-vorm/profil/spieler/26276,Michel Vorm,Goalkeeper,€4.00m ,"Oct 20, 1983 (32)",Netherlands
+217,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/pau-lopez/profil/spieler/286415,Pau López,Goalkeeper,€1.50m ,"Dec 13, 1994 (21)",Spain
+218,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/luke-mcgee/profil/spieler/183301,Luke McGee,Goalkeeper,€100Th. ,"Sep 2, 1995 (20)",England
+219,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/alfie-whiteman/profil/spieler/282823,Alfie Whiteman,Goalkeeper, ,"Oct 2, 1998 (17)",England
+220,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/toby-alderweireld/profil/spieler/42710,Toby Alderweireld,Centre-Back,€35.00m ,"Mar 2, 1989 (27)",Belgium
+221,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/jan-vertonghen/profil/spieler/43250,Jan Vertonghen,Centre-Back,€28.00m ,"Apr 24, 1987 (29)",Belgium
+222,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/eric-dier/profil/spieler/175722,Eric Dier,Centre-Back,€25.00m ,"Jan 15, 1994 (22)",England
+223,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/federico-fazio/profil/spieler/45314,Federico Fazio,Centre-Back,€9.00m ,"Mar 17, 1987 (29)",Argentina
+224,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/kevin-wimmer/profil/spieler/122675,Kevin Wimmer,Centre-Back,€7.00m ,"Nov 15, 1992 (23)",Austria
+225,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/cameron-carter-vickers/profil/spieler/341049,Cameron Carter-Vickers,Centre-Back,€500Th. ,"Dec 31, 1997 (18)",United States
+226,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/danny-rose/profil/spieler/50174,Danny Rose,Left-Back,€28.00m ,"Jul 2, 1990 (25)",England
+227,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/ben-davies/profil/spieler/192765,Ben Davies,Left-Back,€12.00m ,"Apr 24, 1993 (23)",Wales
+228,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/kyle-walker/profil/spieler/95424,Kyle Walker,Right-Back,€30.00m ,"May 28, 1990 (26)",England
+229,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/kieran-trippier/profil/spieler/95810,Kieran Trippier,Right-Back,€10.00m ,"Sep 19, 1990 (25)",England
+230,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/kyle-walker-peters/profil/spieler/341051,Kyle Walker-Peters,Right-Back,€250Th. ,"Apr 13, 1997 (19)",England
+231,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/anton-walkes/profil/spieler/307763,Anton Walkes,Right-Back,€100Th. ,"Feb 8, 1997 (19)",England
+232,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/victor-wanyama/profil/spieler/77760,Victor Wanyama,Defensive Midfield,€25.00m ,"Jun 25, 1991 (25)",Kenya
+233,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/harry-winks/profil/spieler/249126,Harry Winks,Defensive Midfield,€4.00m ,"Feb 2, 1996 (20)",England
+234,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/filip-lesniak/profil/spieler/186383,Filip Lesniak,Defensive Midfield,€100Th. ,"May 14, 1996 (20)",Slovakia
+235,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/luke-amos/profil/spieler/258912,Luke Amos,Defensive Midfield,€100Th. ,"Feb 23, 1997 (19)",England
+236,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/moussa-sissoko/profil/spieler/46001,Moussa Sissoko,Central Midfield,€20.00m ,"Aug 16, 1989 (26)",France
+237,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/nabil-bentaleb/profil/spieler/245537,Nabil Bentaleb,Central Midfield,€18.00m ,"Nov 24, 1994 (21)",Algeria
+238,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/mousa-dembele/profil/spieler/19368,Mousa Dembélé,Central Midfield,€18.00m ,"Jul 16, 1987 (28)",Belgium
+239,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/ryan-mason/profil/spieler/61834,Ryan Mason,Central Midfield,€8.50m ,"Jun 13, 1991 (25)",England
+240,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/tom-carroll/profil/spieler/121279,Tom Carroll,Central Midfield,€6.00m ,"May 28, 1992 (24)",England
+241,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/dele-alli/profil/spieler/207929,Dele Alli,Attacking Midfield,€45.00m ,"Apr 11, 1996 (20)",England
+242,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/christian-eriksen/profil/spieler/69633,Christian Eriksen,Attacking Midfield,€40.00m ,"Feb 14, 1992 (24)",Denmark
+243,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/josh-onomah/profil/spieler/243589,Josh Onomah,Attacking Midfield,€2.50m ,"Apr 27, 1997 (19)",England
+244,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/heung-min-son/profil/spieler/91845,Heung-min Son,Left Winger,€30.00m ,"Jul 8, 1992 (23)","Korea, South"
+245,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/georges-kevin-nkoudou/profil/spieler/215679,Georges-Kevin N'Koudou,Left Winger,€7.00m ,"Feb 13, 1995 (21)",France
+246,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/samuel-shashoua/profil/spieler/387313,Samuel Shashoua,Left Winger, ,"May 13, 1999 (17)",England
+247,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/erik-lamela/profil/spieler/111630,Erik Lamela,Right Winger,€25.00m ,"Mar 4, 1992 (24)",Argentina
+248,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/clinton-njie/profil/spieler/241119,Clinton N'Jie,Right Winger,€7.00m ,"Aug 15, 1993 (22)",Cameroon
+249,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/marcus-edwards/profil/spieler/314367,Marcus Edwards,Right Winger, ,"Dec 3, 1998 (17)",England
+250,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/harry-kane/profil/spieler/132098,Harry Kane,Centre-Forward,€60.00m ,"Jul 28, 1993 (22)",England
+251,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/vincent-janssen/profil/spieler/207015,Vincent Janssen,Centre-Forward,€13.00m ,"Jun 15, 1994 (22)",Netherlands
+252,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2016,/shayon-harrison/profil/spieler/345739,Shayon Harrison,Centre-Forward, ,"Jul 13, 1997 (18)",England
+253,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/joel-robles/profil/spieler/101118,Joel Robles,Goalkeeper,€5.00m ,"Jun 17, 1990 (26)",Spain
+254,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/maarten-stekelenburg/profil/spieler/4311,Maarten Stekelenburg,Goalkeeper,€2.00m ,"Sep 22, 1982 (33)",Netherlands
+255,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/mateusz-hewelt/profil/spieler/318547,Mateusz Hewelt,Goalkeeper, ,"Sep 23, 1996 (19)",Poland
+256,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/ramiro-funes-mori/profil/spieler/11111,Ramiro Funes Mori,Centre-Back,€12.00m ,"Mar 5, 1991 (25)",Argentina
+257,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/ashley-williams/profil/spieler/67355,Ashley Williams,Centre-Back,€8.00m ,"Aug 23, 1984 (31)",Wales
+258,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/mason-holgate/profil/spieler/348623,Mason Holgate,Centre-Back,€5.00m ,"Oct 22, 1996 (19)",England
+259,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/phil-jagielka/profil/spieler/13520,Phil Jagielka,Centre-Back,€2.00m ,"Aug 17, 1982 (33)",England
+260,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/tyias-browning/profil/spieler/156934,Tyias Browning,Centre-Back,€1.00m ,"May 27, 1994 (22)",England
+261,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/matthew-pennington/profil/spieler/220755,Matthew Pennington,Centre-Back,€500Th. ,"Oct 6, 1994 (21)",England
+262,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/leighton-baines/profil/spieler/13507,Leighton Baines,Left-Back,€12.00m ,"Dec 11, 1984 (31)",England
+263,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/brendan-galloway/profil/spieler/208244,Brendan Galloway,Left-Back,€3.00m ,"Mar 17, 1996 (20)",England
+264,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/bryan-oviedo/profil/spieler/124983,Bryan Oviedo,Left-Back,€2.50m ,"Feb 18, 1990 (26)",Costa Rica
+265,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/luke-garbutt/profil/spieler/110860,Luke Garbutt,Left-Back,€1.00m ,"May 21, 1993 (23)",England
+266,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/seamus-coleman/profil/spieler/68390,Seamus Coleman,Right-Back,€17.00m ,"Oct 11, 1988 (27)",Ireland
+267,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/jonjoe-kenny/profil/spieler/258883,Jonjoe Kenny,Right-Back,€250Th. ,"Mar 15, 1997 (19)",England
+268,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/morgan-schneiderlin/profil/spieler/56818,Morgan Schneiderlin,Defensive Midfield,€22.00m ,"Nov 8, 1989 (26)",France
+269,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/idrissa-gueye/profil/spieler/126665,Idrissa Gueye,Defensive Midfield,€18.00m ,"Sep 26, 1989 (26)",Senegal
+270,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/muhamed-besic/profil/spieler/93905,Muhamed Besic,Defensive Midfield,€5.00m ,"Sep 10, 1992 (23)",Bosnia-Herzegovina
+271,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/gareth-barry/profil/spieler/3291,Gareth Barry,Defensive Midfield,€1.50m ,"Feb 23, 1981 (35)",England
+272,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/ross-barkley/profil/spieler/131978,Ross Barkley,Central Midfield,€25.00m ,"Dec 5, 1993 (22)",England
+273,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/james-mccarthy/profil/spieler/45333,James McCarthy,Central Midfield,€15.00m ,"Nov 12, 1990 (25)",Ireland
+274,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/tom-cleverley/profil/spieler/73484,Tom Cleverley,Central Midfield,€8.00m ,"Aug 12, 1989 (26)",England
+275,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/tom-davies/profil/spieler/314210,Tom Davies,Central Midfield,€8.00m ,"Jun 30, 1998 (18)",England
+276,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/darron-gibson/profil/spieler/42413,Darron Gibson,Central Midfield,€1.50m ,"Oct 25, 1987 (28)",Ireland
+277,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/joe-williams/profil/spieler/268185,Joe Williams,Central Midfield, ,"Dec 8, 1996 (19)",England
+278,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/yannick-bolasie/profil/spieler/75471,Yannick Bolasie,Left Winger,€20.00m ,"May 24, 1989 (27)",DR Congo
+279,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/gerard-deulofeu/profil/spieler/129476,Gerard Deulofeu,Left Winger,€12.00m ,"Mar 13, 1994 (22)",Spain
+280,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/ademola-lookman/profil/spieler/406040,Ademola Lookman,Left Winger,€5.00m ,"Oct 20, 1997 (18)",England
+281,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/aiden-mcgeady/profil/spieler/21333,Aiden McGeady,Left Winger,€3.50m ,"Apr 4, 1986 (30)",Ireland
+282,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/kevin-mirallas/profil/spieler/33639,Kevin Mirallas,Right Winger,€13.00m ,"Oct 5, 1987 (28)",Belgium
+283,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/aaron-lennon/profil/spieler/14221,Aaron Lennon,Right Winger,€5.00m ,"Apr 16, 1987 (29)",England
+284,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/shani-tarashaj/profil/spieler/184381,Shani Tarashaj,Second Striker,€2.00m ,"Feb 7, 1995 (21)",Switzerland
+285,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/romelu-lukaku/profil/spieler/96341,Romelu Lukaku,Centre-Forward,€50.00m ,"May 13, 1993 (23)",Belgium
+286,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/enner-valencia/profil/spieler/139503,Enner Valencia,Centre-Forward,€10.00m ,"Nov 4, 1989 (26)",Ecuador
+287,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/oumar-niasse/profil/spieler/209781,Oumar Niasse,Centre-Forward,€9.00m ,"Apr 18, 1990 (26)",Senegal
+288,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/dominic-calvert-lewin/profil/spieler/306024,Dominic Calvert-Lewin,Centre-Forward,€3.50m ,"Mar 16, 1997 (19)",England
+289,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/arouna-kone/profil/spieler/8552,Arouna Koné,Centre-Forward,€1.50m ,"Nov 11, 1983 (32)",Cote d'Ivoire
+290,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/leandro-rodriguez/profil/spieler/238988,Leandro Rodríguez,Centre-Forward,€1.00m ,"Nov 19, 1992 (23)",Uruguay
+291,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2016,/conor-mcaleny/profil/spieler/121260,Conor McAleny,Centre-Forward,€500Th. ,"Aug 12, 1992 (23)",England
+292,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/adrian/profil/spieler/71271,Adrián,Goalkeeper,€8.00m ,"Jan 3, 1987 (29)",Spain
+293,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/darren-randolph/profil/spieler/51321,Darren Randolph,Goalkeeper,€2.50m ,"May 12, 1987 (29)",Ireland
+294,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/raphael-spiegel/profil/spieler/111428,Raphael Spiegel,Goalkeeper,€500Th. ,"Dec 19, 1992 (23)",Switzerland
+295,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/cheikhou-kouyate/profil/spieler/66934,Cheikhou Kouyaté,Centre-Back,€12.00m ,"Dec 21, 1989 (26)",Senegal
+296,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/winston-reid/profil/spieler/37526,Winston Reid,Centre-Back,€10.00m ,"Jul 3, 1988 (27)",New Zealand
+297,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/angelo-ogbonna/profil/spieler/48002,Angelo Ogbonna,Centre-Back,€9.00m ,"May 23, 1988 (28)",Italy
+298,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/jose-fonte/profil/spieler/33829,José Fonte,Centre-Back,€7.00m ,"Dec 22, 1983 (32)",Portugal
+299,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/havard-nordtveit/profil/spieler/42234,Havard Nordtveit,Centre-Back,€5.00m ,"Jun 21, 1990 (26)",Norway
+300,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/reece-oxford/profil/spieler/314295,Reece Oxford,Centre-Back,€5.00m ,"Dec 16, 1998 (17)",England
+301,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/james-collins/profil/spieler/12691,James Collins,Centre-Back,€2.00m ,"Aug 23, 1983 (32)",Wales
+302,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/reece-burke/profil/spieler/264220,Reece Burke,Centre-Back,€1.00m ,"Sep 2, 1996 (19)",England
+303,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/doneil-henry/profil/spieler/157907,Doneil Henry,Centre-Back,€400Th. ,"Apr 20, 1993 (23)",Canada
+304,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/aaron-cresswell/profil/spieler/92571,Aaron Cresswell,Left-Back,€12.00m ,"Dec 15, 1989 (26)",England
+305,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/arthur-masuaku/profil/spieler/181380,Arthur Masuaku,Left-Back,€7.00m ,"Nov 7, 1993 (22)",DR Congo
+306,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/stephen-hendrie/profil/spieler/186269,Stephen Hendrie,Left-Back,€750Th. ,"Jan 8, 1995 (21)",Scotland
+307,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/lewis-page/profil/spieler/242652,Lewis Page,Left-Back,€100Th. ,"May 20, 1996 (20)",England
+308,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/sam-byram/profil/spieler/236953,Sam Byram,Right-Back,€4.50m ,"Sep 16, 1993 (22)",England
+309,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/alvaro-arbeloa/profil/spieler/28260,Álvaro Arbeloa,Right-Back,€1.50m ,"Jan 17, 1983 (33)",Spain
+310,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/sam-westley/profil/spieler/258311,Sam Westley,Right-Back,€50Th. ,"Feb 4, 1994 (22)",England
+311,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/alex-pike/profil/spieler/345960,Alex Pike,Right-Back, ,"Feb 8, 1997 (19)",England
+312,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/declan-rice/profil/spieler/357662,Declan Rice,Defensive Midfield, ,"Jan 14, 1999 (17)",England
+313,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/pedro-obiang/profil/spieler/101213,Pedro Obiang,Central Midfield,€9.00m ,"Mar 27, 1992 (24)",Equatorial Guinea
+314,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/mark-noble/profil/spieler/31835,Mark Noble,Central Midfield,€7.00m ,"May 8, 1987 (29)",England
+315,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/edimilson-fernandes/profil/spieler/247555,Edimilson Fernandes,Central Midfield,€5.00m ,"Apr 15, 1996 (20)",Switzerland
+316,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/josh-cullen/profil/spieler/242606,Josh Cullen,Central Midfield,€500Th. ,"Apr 7, 1996 (20)",Ireland
+317,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/moses-makasi/profil/spieler/242644,Moses Makasi,Central Midfield, ,"Sep 22, 1995 (20)",England
+318,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/domingos-quina/profil/spieler/391719,Domingos Quina,Central Midfield, ,"Nov 18, 1999 (16)",Portugal
+319,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/manuel-lanzini/profil/spieler/135853,Manuel Lanzini,Attacking Midfield,€15.00m ,"Feb 15, 1993 (23)",Argentina
+320,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/marcus-browne/profil/spieler/391470,Marcus Browne,Attacking Midfield,€250Th. ,"Dec 18, 1997 (18)",England
+321,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/dimitri-payet/profil/spieler/37647,Dimitri Payet,Left Winger,€26.00m ,"Mar 29, 1987 (29)",France
+322,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/nathan-holland/profil/spieler/337321,Nathan Holland,Left Winger, ,"Jun 19, 1998 (18)",England
+323,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/grady-diangana/profil/spieler/342048,Grady Diangana,Left Winger, ,"Apr 19, 1998 (18)",England
+324,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/gokhan-tore/profil/spieler/82130,Gökhan Töre,Right Winger,€12.00m ,"Jan 20, 1992 (24)",Turkey
+325,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/sofiane-feghouli/profil/spieler/57162,Sofiane Feghouli,Right Winger,€12.00m ,"Dec 26, 1989 (26)",Algeria
+326,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/robert-snodgrass/profil/spieler/22614,Robert Snodgrass,Right Winger,€8.00m ,"Sep 7, 1987 (28)",Scotland
+327,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/dan-kemp/profil/spieler/396857,Dan Kemp,Right Winger, ,"Jan 11, 1999 (17)",England
+328,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/andre-ayew/profil/spieler/45403,André Ayew,Centre-Forward,€18.00m ,"Dec 17, 1989 (26)",Ghana
+329,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/michail-antonio/profil/spieler/104124,Michail Antonio,Centre-Forward,€18.00m ,"Mar 28, 1990 (26)",Jamaica
+330,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/simone-zaza/profil/spieler/96828,Simone Zaza,Centre-Forward,€15.00m ,"Jun 25, 1991 (25)",Italy
+331,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/enner-valencia/profil/spieler/139503,Enner Valencia,Centre-Forward,€10.00m ,"Nov 4, 1989 (26)",Ecuador
+332,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/andy-carroll/profil/spieler/48066,Andy Carroll,Centre-Forward,€10.00m ,"Jan 6, 1989 (27)",England
+333,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/diafra-sakho/profil/spieler/120610,Diafra Sakho,Centre-Forward,€10.00m ,"Dec 24, 1989 (26)",Senegal
+334,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/jonathan-calleri/profil/spieler/284727,Jonathan Calleri,Centre-Forward,€8.00m ,"Sep 23, 1993 (22)",Argentina
+335,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2016,/ashley-fletcher/profil/spieler/289846,Ashley Fletcher,Centre-Forward,€1.00m ,"Oct 2, 1995 (20)",England
+336,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/steve-mandanda/profil/spieler/23951,Steve Mandanda,Goalkeeper,€8.00m ,"Mar 28, 1985 (31)",France
+337,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/wayne-hennessey/profil/spieler/45494,Wayne Hennessey,Goalkeeper,€4.00m ,"Jan 24, 1987 (29)",Wales
+338,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/julian-speroni/profil/spieler/12814,Julián Speroni,Goalkeeper,€250Th. ,"May 18, 1979 (37)",Argentina
+339,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/kleton-perntreou/profil/spieler/295073,Kleton Perntreou,Goalkeeper, ,"Jan 8, 1995 (21)",Albania
+340,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/mamadou-sakho/profil/spieler/47713,Mamadou Sakho,Centre-Back,€15.00m ,"Feb 13, 1990 (26)",France
+341,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/james-tomkins/profil/spieler/61592,James Tomkins,Centre-Back,€7.00m ,"Mar 29, 1989 (27)",England
+342,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/scott-dann/profil/spieler/62688,Scott Dann,Centre-Back,€5.00m ,"Feb 14, 1987 (29)",England
+343,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/damien-delaney/profil/spieler/36861,Damien Delaney,Centre-Back,€1.00m ,"Jul 20, 1981 (34)",Ireland
+344,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/ryan-inniss/profil/spieler/183284,Ryan Inniss,Centre-Back,€75Th. ,"Jun 5, 1995 (21)",England
+345,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/luke-croll/profil/spieler/244309,Luke Croll,Centre-Back, ,"Jan 10, 1995 (21)",England
+346,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/patrick-van-aanholt/profil/spieler/52119,Patrick van Aanholt,Left-Back,€9.00m ,"Aug 29, 1990 (25)",Netherlands
+347,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/pape-souare/profil/spieler/125868,Pape Souaré,Left-Back,€6.00m ,"Jun 6, 1990 (26)",Senegal
+348,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/zeki-fryers/profil/spieler/141655,Zeki Fryers,Left-Back,€1.50m ,"Sep 9, 1992 (23)",England
+349,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/joel-ward/profil/spieler/92572,Joel Ward,Right-Back,€5.00m ,"Oct 29, 1989 (26)",England
+350,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/martin-kelly/profil/spieler/78959,Martin Kelly,Right-Back,€3.00m ,"Apr 27, 1990 (26)",England
+351,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/ben-wynter/profil/spieler/464738,Ben Wynter,Right-Back, ,"Dec 11, 1997 (18)",England
+352,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/aaron-wan-bissaka/profil/spieler/477758,Aaron Wan-Bissaka,Right-Back, ,"Nov 26, 1997 (18)",England
+353,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/luka-milivojevic/profil/spieler/74300,Luka Milivojevic,Defensive Midfield,€10.00m ,"Apr 7, 1991 (25)",Serbia
+354,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/mile-jedinak/profil/spieler/28336,Mile Jedinak,Defensive Midfield,€4.50m ,"Aug 3, 1984 (31)",Australia
+355,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/mathieu-flamini/profil/spieler/17396,Mathieu Flamini,Defensive Midfield,€2.00m ,"Mar 7, 1984 (32)",France
+356,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/michael-phillips/profil/spieler/378629,Michael Phillips,Defensive Midfield, ,"Sep 22, 1997 (18)",England
+357,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/yohan-cabaye/profil/spieler/29434,Yohan Cabaye,Central Midfield,€15.00m ,"Jan 14, 1986 (30)",France
+358,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/james-mcarthur/profil/spieler/41416,James McArthur,Central Midfield,€7.00m ,"Oct 7, 1987 (28)",Scotland
+359,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/joe-ledley/profil/spieler/34409,Joe Ledley,Central Midfield,€3.50m ,"Jan 23, 1987 (29)",Wales
+360,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/jordon-mutch/profil/spieler/57207,Jordon Mutch,Central Midfield,€3.00m ,"Dec 2, 1991 (24)",England
+361,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/hiram-boateng/profil/spieler/244125,Hiram Boateng,Central Midfield,€500Th. ,"Jan 8, 1996 (20)",England
+362,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/noor-husin/profil/spieler/320220,Noor Husin,Central Midfield, ,"Mar 3, 1997 (19)",Afghanistan
+363,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/luke-dreher/profil/spieler/432293,Luke Dreher,Central Midfield, ,"Nov 27, 1998 (17)",England
+364,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/jeffrey-schlupp/profil/spieler/157506,Jeffrey Schlupp,Left Midfield,€8.00m ,"Dec 23, 1992 (23)",Ghana
+365,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/jason-puncheon/profil/spieler/47995,Jason Puncheon,Attacking Midfield,€5.50m ,"Jun 18, 1986 (30)",England
+366,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/jonathan-williams/profil/spieler/170322,Jonathan Williams,Attacking Midfield,€1.00m ,"Oct 9, 1993 (22)",Wales
+367,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/yannick-bolasie/profil/spieler/75471,Yannick Bolasie,Left Winger,€20.00m ,"May 24, 1989 (27)",DR Congo
+368,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/wilfried-zaha/profil/spieler/145988,Wilfried Zaha,Left Winger,€18.00m ,"Nov 10, 1992 (23)",Cote d'Ivoire
+369,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/bakary-sako/profil/spieler/46791,Bakary Sako,Left Winger,€6.00m ,"Apr 26, 1988 (28)",Mali
+370,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/sullay-kaikai/profil/spieler/244130,Sullay Kaikai,Left Winger,€250Th. ,"Aug 26, 1995 (20)",England
+371,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/keshi-anderson/profil/spieler/353674,Keshi Anderson,Left Winger,€100Th. ,"Apr 6, 1995 (21)",England
+372,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/andros-townsend/profil/spieler/61842,Andros Townsend,Right Winger,€12.00m ,"Jul 16, 1991 (24)",England
+373,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/chung-yong-lee/profil/spieler/81801,Chung-yong Lee,Right Winger,€1.50m ,"Jul 2, 1988 (27)","Korea, South"
+374,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/christian-benteke/profil/spieler/50201,Christian Benteke,Centre-Forward,€28.00m ,"Dec 3, 1990 (25)",Belgium
+375,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/loic-remy/profil/spieler/45121,Loïc Rémy,Centre-Forward,€9.00m ,"Jan 2, 1987 (29)",France
+376,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/connor-wickham/profil/spieler/95435,Connor Wickham,Centre-Forward,€6.00m ,"Mar 31, 1993 (23)",England
+377,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/fraizer-campbell/profil/spieler/42411,Fraizer Campbell,Centre-Forward,€2.00m ,"Sep 13, 1987 (28)",England
+378,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/jonathan-benteke/profil/spieler/273773,Jonathan Benteke,Centre-Forward,€400Th. ,"Apr 28, 1995 (21)",Belgium
+379,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/kwesi-appiah/profil/spieler/121223,Kwesi Appiah,Centre-Forward,€250Th. ,"Aug 12, 1990 (25)",Ghana
+380,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2016,/freddie-ladapo/profil/spieler/233998,Freddie Ladapo,Centre-Forward,€100Th. ,"Feb 1, 1993 (23)",England
+381,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/fraser-forster/profil/spieler/52570,Fraser Forster,Goalkeeper,€15.00m ,"Mar 17, 1988 (28)",England
+382,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/alex-mccarthy/profil/spieler/95976,Alex McCarthy,Goalkeeper,€3.00m ,"Dec 3, 1989 (26)",England
+383,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/paulo-gazzaniga/profil/spieler/195488,Paulo Gazzaniga,Goalkeeper,€1.00m ,"Jan 2, 1992 (24)",Argentina
+384,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/mouez-hassen/profil/spieler/215677,Mouez Hassen,Goalkeeper,€1.00m ,"Mar 5, 1995 (21)",Tunisia
+385,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/stuart-taylor/profil/spieler/3190,Stuart Taylor,Goalkeeper,€250Th. ,"Nov 28, 1980 (35)",England
+386,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/harry-lewis/profil/spieler/341043,Harry Lewis,Goalkeeper, ,"Dec 20, 1997 (18)",England
+387,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/virgil-van-dijk/profil/spieler/139208,Virgil van Dijk,Centre-Back,€30.00m ,"Jul 8, 1991 (24)",Netherlands
+388,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/jose-fonte/profil/spieler/33829,José Fonte,Centre-Back,€7.00m ,"Dec 22, 1983 (32)",Portugal
+389,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/maya-yoshida/profil/spieler/81789,Maya Yoshida,Centre-Back,€5.00m ,"Aug 24, 1988 (27)",Japan
+390,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/martin-caceres/profil/spieler/54935,Martín Cáceres,Centre-Back,€4.00m ,"Apr 7, 1987 (29)",Uruguay
+391,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/jack-stephens/profil/spieler/163744,Jack Stephens,Centre-Back,€3.50m ,"Jan 27, 1994 (22)",England
+392,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/florin-gardos/profil/spieler/57423,Florin Gardos,Centre-Back,€2.50m ,"Oct 29, 1988 (27)",Romania
+393,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/ryan-bertrand/profil/spieler/40611,Ryan Bertrand,Left-Back,€20.00m ,"Aug 5, 1989 (26)",England
+394,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/matt-targett/profil/spieler/250478,Matt Targett,Left-Back,€3.00m ,"Sep 18, 1995 (20)",England
+395,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/sam-mcqueen/profil/spieler/226968,Sam McQueen,Left-Back,€750Th. ,"Feb 6, 1995 (21)",England
+396,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/cedric-soares/profil/spieler/112988,Cédric Soares,Right-Back,€15.00m ,"Aug 31, 1991 (24)",Portugal
+397,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/jeremy-pied/profil/spieler/60583,Jérémy Pied,Right-Back,€3.50m ,"Feb 23, 1989 (27)",France
+398,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/cuco-martina/profil/spieler/91251,Cuco Martina,Right-Back,€2.00m ,"Sep 25, 1989 (26)",Curacao
+399,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/jordy-clasie/profil/spieler/104223,Jordy Clasie,Defensive Midfield,€10.00m ,"Jun 27, 1991 (25)",Netherlands
+400,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/oriol-romeu/profil/spieler/66100,Oriol Romeu,Defensive Midfield,€10.00m ,"Sep 24, 1991 (24)",Spain
+401,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/james-ward-prowse/profil/spieler/181579,James Ward-Prowse,Central Midfield,€15.00m ,"Nov 1, 1994 (21)",England
+402,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/pierre-emile-hojbjerg/profil/spieler/167799,Pierre-Emile Höjbjerg,Central Midfield,€8.00m ,"Aug 5, 1995 (20)",Denmark
+403,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/steven-davis/profil/spieler/28973,Steven Davis,Central Midfield,€6.00m ,"Jan 1, 1985 (31)",Northern Ireland
+404,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/harrison-reed/profil/spieler/226973,Harrison Reed,Central Midfield,€1.00m ,"Jan 27, 1995 (21)",England
+405,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/jake-hesketh/profil/spieler/315185,Jake Hesketh,Attacking Midfield, ,"Mar 27, 1996 (20)",England
+406,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/dusan-tadic/profil/spieler/36139,Dusan Tadic,Left Winger,€17.00m ,"Nov 20, 1988 (27)",Serbia
+407,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/sofiane-boufal/profil/spieler/232271,Sofiane Boufal,Left Winger,€15.00m ,"Sep 17, 1993 (22)",Morocco
+408,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/nathan-redmond/profil/spieler/129078,Nathan Redmond,Left Winger,€15.00m ,"Mar 6, 1994 (22)",England
+409,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/lloyd-isgrove/profil/spieler/226965,Lloyd Isgrove,Left Winger,€250Th. ,"Jan 12, 1993 (23)",Wales
+410,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/josh-sims/profil/spieler/286919,Josh Sims,Right Winger,€500Th. ,"Mar 28, 1997 (19)",England
+411,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/manolo-gabbiadini/profil/spieler/112343,Manolo Gabbiadini,Centre-Forward,€15.00m ,"Nov 26, 1991 (24)",Italy
+412,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/charlie-austin/profil/spieler/129627,Charlie Austin,Centre-Forward,€13.00m ,"Jul 5, 1989 (26)",England
+413,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/jay-rodriguez/profil/spieler/53360,Jay Rodríguez,Centre-Forward,€10.00m ,"Jul 29, 1989 (26)",England
+414,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/shane-long/profil/spieler/37304,Shane Long,Centre-Forward,€9.00m ,"Jan 22, 1987 (29)",Ireland
+415,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/sam-gallagher/profil/spieler/227183,Sam Gallagher,Centre-Forward,€2.50m ,"Sep 15, 1995 (20)",England
+416,https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2016,/olufela-olomola/profil/spieler/356569,Olufela Olomola,Centre-Forward, ,"Sep 5, 1997 (18)",England
+417,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/jack-butland/profil/spieler/128899,Jack Butland,Goalkeeper,€15.00m ,"Mar 10, 1993 (23)",England
+418,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/lee-grant/profil/spieler/13460,Lee Grant,Goalkeeper,€1.00m ,"Jan 27, 1983 (33)",England
+419,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/jakob-haugaard/profil/spieler/138335,Jakob Haugaard,Goalkeeper,€750Th. ,"May 1, 1992 (24)",Denmark
+420,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/shay-given/profil/spieler/3146,Shay Given,Goalkeeper,€250Th. ,"Apr 20, 1976 (40)",Ireland
+421,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/daniel-bachmann/profil/spieler/120186,Daniel Bachmann,Goalkeeper,€250Th. ,"Jul 9, 1994 (21)",Austria
+422,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/bruno-martins-indi/profil/spieler/112052,Bruno Martins Indi,Centre-Back,€11.00m ,"Feb 8, 1992 (24)",Netherlands
+423,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/ryan-shawcross/profil/spieler/45861,Ryan Shawcross,Centre-Back,€11.00m ,"Oct 4, 1987 (28)",England
+424,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/marc-muniesa/profil/spieler/74228,Marc Muniesa,Centre-Back,€3.00m ,"Mar 27, 1992 (24)",Spain
+425,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/philipp-wollscheid/profil/spieler/53173,Philipp Wollscheid,Centre-Back,€2.50m ,"Mar 6, 1989 (27)",Germany
+426,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/ryan-sweeney/profil/spieler/347666,Ryan Sweeney,Centre-Back,€250Th. ,"Apr 15, 1997 (19)",Ireland
+427,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/erik-pieters/profil/spieler/43763,Erik Pieters,Left-Back,€7.00m ,"Aug 7, 1988 (27)",Netherlands
+428,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/joel-taylor/profil/spieler/258310,Joel Taylor,Left-Back, ,"Mar 24, 1996 (20)",England
+429,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/glen-johnson/profil/spieler/3881,Glen Johnson,Right-Back,€5.00m ,"Aug 23, 1984 (31)",England
+430,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/phil-bardsley/profil/spieler/15773,Phil Bardsley,Right-Back,€1.50m ,"Jun 28, 1985 (31)",Scotland
+431,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/tom-edwards/profil/spieler/430788,Tom Edwards,Right-Back, ,"Jan 22, 1999 (17)",England
+432,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/giannelli-imbula/profil/spieler/130756,Giannelli Imbula,Defensive Midfield,€12.00m ,"Sep 12, 1992 (23)",DR Congo
+433,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/geoff-cameron/profil/spieler/31642,Geoff Cameron,Defensive Midfield,€3.00m ,"Jul 11, 1985 (30)",United States
+434,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/glenn-whelan/profil/spieler/12124,Glenn Whelan,Defensive Midfield,€2.50m ,"Jan 13, 1984 (32)",Ireland
+435,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/joe-allen/profil/spieler/51452,Joe Allen,Central Midfield,€15.00m ,"Mar 14, 1990 (26)",Wales
+436,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/charlie-adam/profil/spieler/28990,Charlie Adam,Central Midfield,€3.50m ,"Dec 10, 1985 (30)",Scotland
+437,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/ibrahim-afellay/profil/spieler/15760,Ibrahim Afellay,Left Midfield,€3.00m ,"Apr 2, 1986 (30)",Netherlands
+438,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/stephen-ireland/profil/spieler/34838,Stephen Ireland,Attacking Midfield,€1.00m ,"Aug 22, 1986 (29)",Ireland
+439,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/ramadan-sobhi/profil/spieler/312017,Ramadan Sobhi,Left Winger,€5.00m ,"Jan 23, 1997 (19)",Egypt
+440,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/xherdan-shaqiri/profil/spieler/86792,Xherdan Shaqiri,Right Winger,€15.00m ,"Oct 10, 1991 (24)",Switzerland
+441,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/jonathan-walters/profil/spieler/3306,Jonathan Walters,Right Winger,€2.50m ,"Sep 20, 1983 (32)",Ireland
+442,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/thibaud-verlinden/profil/spieler/338673,Thibaud Verlinden,Right Winger, ,"Jul 9, 1999 (16)",Belgium
+443,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/bojan-krkic/profil/spieler/44675,Bojan Krkic,Second Striker,€5.00m ,"Aug 28, 1990 (25)",Spain
+444,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/wilfried-bony/profil/spieler/81808,Wilfried Bony,Centre-Forward,€18.00m ,"Dec 10, 1988 (27)",Cote d'Ivoire
+445,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/saido-berahino/profil/spieler/128897,Saido Berahino,Centre-Forward,€15.00m ,"Aug 4, 1993 (22)",Burundi
+446,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/marko-arnautovic/profil/spieler/41384,Marko Arnautovic,Centre-Forward,€15.00m ,"Apr 19, 1989 (27)",Austria
+447,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/mame-diouf/profil/spieler/62049,Mame Diouf,Centre-Forward,€7.00m ,"Dec 16, 1987 (28)",Senegal
+448,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/joselu/profil/spieler/81999,Joselu,Centre-Forward,€3.50m ,"Mar 27, 1990 (26)",Spain
+449,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/peter-crouch/profil/spieler/4072,Peter Crouch,Centre-Forward,€1.50m ,"Jan 30, 1981 (35)",England
+450,https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2016,/julien-ngoy/profil/spieler/286005,Julien Ngoy,Centre-Forward, ,"Nov 2, 1997 (18)",Belgium
+451,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/costel-pantilimon/profil/spieler/47659,Costel Pantilimon,Goalkeeper,€3.00m ,"Feb 1, 1987 (29)",Romania
+452,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/heurelho-gomes/profil/spieler/19059,Heurelho Gomes,Goalkeeper,€1.00m ,"Feb 15, 1981 (35)",Brazil
+453,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/giedrius-arlauskis/profil/spieler/69001,Giedrius Arlauskis,Goalkeeper,€1.00m ,"Dec 1, 1987 (28)",Lithuania
+454,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/rene-gilmartin/profil/spieler/66518,Rene Gilmartin,Goalkeeper,€250Th. ,"May 31, 1987 (29)",Ireland
+455,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/daryl-janmaat/profil/spieler/60744,Daryl Janmaat,Centre-Back,€7.00m ,"Jul 22, 1989 (26)",Netherlands
+456,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/christian-kabasele/profil/spieler/81512,Christian Kabasele,Centre-Back,€5.50m ,"Feb 24, 1991 (25)",Belgium
+457,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/sebastian-prodl/profil/spieler/37981,Sebastian Prödl,Centre-Back,€4.00m ,"Jun 21, 1987 (29)",Austria
+458,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/craig-cathcart/profil/spieler/59606,Craig Cathcart,Centre-Back,€4.00m ,"Feb 6, 1989 (27)",Northern Ireland
+459,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/miguel-britos/profil/spieler/76799,Miguel Britos,Centre-Back,€3.50m ,"Jul 17, 1985 (30)",Uruguay
+460,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/younes-kaboul/profil/spieler/27114,Younès Kaboul,Centre-Back,€2.50m ,"Jan 4, 1986 (30)",France
+461,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/adrian-mariappa/profil/spieler/38145,Adrian Mariappa,Centre-Back,€1.00m ,"Oct 3, 1986 (29)",Jamaica
+462,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/tommie-hoban/profil/spieler/183161,Tommie Hoban,Centre-Back,€750Th. ,"Jan 24, 1994 (22)",Ireland
+463,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/charlie-rowan/profil/spieler/479944,Charlie Rowan,Centre-Back, ,"Dec 14, 1997 (18)",England
+464,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/jose-cholevas/profil/spieler/41112,Jose Cholevas,Left-Back,€2.00m ,"Jun 27, 1984 (32)",Greece
+465,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/brandon-mason/profil/spieler/479942,Brandon Mason,Left-Back, ,"Sep 30, 1997 (18)",England
+466,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/allan-nyom/profil/spieler/111508,Allan Nyom,Right-Back,€4.50m ,"May 10, 1988 (28)",Cameroon
+467,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/juan-carlos-paredes/profil/spieler/100507,Juan Carlos Paredes,Right-Back,€1.75m ,"Jul 8, 1987 (28)",Ecuador
+468,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/camilo-zuniga/profil/spieler/37941,Camilo Zúñiga,Right-Back,€1.50m ,"Dec 14, 1985 (30)",Colombia
+469,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/andrew-eleftheriou/profil/spieler/476532,Andrew Eleftheriou,Right-Back, ,"Nov 8, 1997 (18)",England
+470,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/etienne-capoue/profil/spieler/63494,Étienne Capoue,Defensive Midfield,€9.00m ,"Jul 11, 1988 (27)",France
+471,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/mario-suarez/profil/spieler/37337,Mario Suárez,Defensive Midfield,€6.00m ,"Feb 24, 1987 (29)",Spain
+472,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/brice-dja-djedje/profil/spieler/93690,Brice Dja Djedje,Defensive Midfield,€3.00m ,"Dec 23, 1990 (25)",Cote d'Ivoire
+473,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/valon-behrami/profil/spieler/21905,Valon Behrami,Defensive Midfield,€2.50m ,"Apr 19, 1985 (31)",Switzerland
+474,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/tom-cleverley/profil/spieler/73484,Tom Cleverley,Central Midfield,€8.00m ,"Aug 12, 1989 (26)",England
+475,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/abdoulaye-doucoure/profil/spieler/127187,Abdoulaye Doucouré,Central Midfield,€6.00m ,"Jan 1, 1993 (23)",France
+476,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/sven-kums/profil/spieler/42735,Sven Kums,Central Midfield,€5.00m ,"Feb 26, 1988 (28)",Belgium
+477,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/adlene-guedioura/profil/spieler/74768,Adlène Guédioura,Central Midfield,€1.00m ,"Nov 12, 1985 (30)",Algeria
+478,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/ben-watson/profil/spieler/14081,Ben Watson,Central Midfield,€1.00m ,"Jul 9, 1985 (30)",England
+479,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/carl-stewart/profil/spieler/479945,Carl Stewart,Central Midfield, ,"May 2, 1997 (19)",England
+480,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/ikechi-anya/profil/spieler/107427,Ikechi Anya,Left Midfield,€4.00m ,"Jan 3, 1988 (28)",Scotland
+481,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/roberto-pereyra/profil/spieler/112302,Roberto Pereyra,Attacking Midfield,€15.00m ,"Jan 7, 1991 (25)",Argentina
+482,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/kenedy/profil/spieler/281404,Kenedy,Left Winger,€7.00m ,"Feb 8, 1996 (20)",Brazil
+483,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/dion-pereira/profil/spieler/499604,Dion Pereira,Left Winger, ,"Mar 25, 1999 (17)",England
+484,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/steven-berghuis/profil/spieler/129554,Steven Berghuis,Right Winger,€5.50m ,"Dec 19, 1991 (24)",Netherlands
+485,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/nordin-amrabat/profil/spieler/55619,Nordin Amrabat,Right Winger,€4.50m ,"Mar 31, 1987 (29)",Morocco
+486,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/mauro-zarate/profil/spieler/26456,Mauro Zárate,Second Striker,€2.00m ,"Mar 18, 1987 (29)",Argentina
+487,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/mbaye-niang/profil/spieler/157501,M'Baye Niang,Centre-Forward,€15.00m ,"Dec 19, 1994 (21)",Senegal
+488,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/troy-deeney/profil/spieler/65477,Troy Deeney,Centre-Forward,€11.00m ,"Jun 29, 1988 (28)",England
+489,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/odion-ighalo/profil/spieler/62121,Odion Ighalo,Centre-Forward,€7.00m ,"Jun 16, 1989 (27)",Nigeria
+490,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/matej-vydra/profil/spieler/101500,Matej Vydra,Centre-Forward,€6.00m ,"May 1, 1992 (24)",Czech Republic
+491,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/stefano-okaka/profil/spieler/35249,Stefano Okaka,Centre-Forward,€6.00m ,"Aug 9, 1989 (26)",Italy
+492,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/isaac-success/profil/spieler/295331,Isaac Success,Centre-Forward,€4.00m ,"Jan 7, 1996 (20)",Nigeria
+493,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/obbi-oulare/profil/spieler/314959,Obbi Oulare,Centre-Forward,€2.00m ,"Jan 8, 1996 (20)",Belgium
+494,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/jerome-sinclair/profil/spieler/236513,Jerome Sinclair,Centre-Forward,€1.50m ,"Sep 20, 1996 (19)",England
+495,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/mathias-ranegie/profil/spieler/46477,Mathias Ranégie,Centre-Forward,€400Th. ,"Jun 14, 1984 (32)",Sweden
+496,https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2016,/michael-folivi/profil/spieler/479939,Michael Folivi,Centre-Forward, ,"Feb 25, 1998 (18)",England
+497,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/kasper-schmeichel/profil/spieler/16911,Kasper Schmeichel,Goalkeeper,€10.00m ,"Nov 5, 1986 (29)",Denmark
+498,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/ron-robert-zieler/profil/spieler/21327,Ron-Robert Zieler,Goalkeeper,€7.00m ,"Feb 12, 1989 (27)",Germany
+499,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/ben-hamer/profil/spieler/67283,Ben Hamer,Goalkeeper,€500Th. ,"Nov 20, 1987 (28)",England
+500,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/robert-huth/profil/spieler/2998,Robert Huth,Centre-Back,€5.00m ,"Aug 18, 1984 (31)",Germany
+501,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/daniel-amartey/profil/spieler/214056,Daniel Amartey,Centre-Back,€5.00m ,"Dec 21, 1994 (21)",Ghana
+502,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/luis-hernandez/profil/spieler/62945,Luis Hernández,Centre-Back,€3.00m ,"Apr 14, 1989 (27)",Spain
+503,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/wes-morgan/profil/spieler/10003,Wes Morgan,Centre-Back,€3.00m ,"Jan 21, 1984 (32)",Jamaica
+504,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/molla-wague/profil/spieler/129893,Molla Wagué,Centre-Back,€1.50m ,"Feb 21, 1991 (25)",Mali
+505,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/yohan-benalouane/profil/spieler/50477,Yohan Benalouane,Centre-Back,€1.00m ,"Mar 28, 1987 (29)",Tunisia
+506,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/marcin-wasilewski/profil/spieler/16947,Marcin Wasilewski,Centre-Back,€50Th. ,"Jun 9, 1980 (36)",Poland
+507,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/elliott-moore/profil/spieler/341993,Elliott Moore,Centre-Back, ,"Mar 16, 1997 (19)",England
+508,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/christian-fuchs/profil/spieler/6636,Christian Fuchs,Left-Back,€6.00m ,"Apr 7, 1986 (30)",Austria
+509,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/ben-chilwell/profil/spieler/316125,Ben Chilwell,Left-Back,€2.50m ,"Dec 21, 1996 (19)",England
+510,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/danny-simpson/profil/spieler/37442,Danny Simpson,Right-Back,€5.00m ,"Jan 4, 1987 (29)",England
+511,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/wilfred-ndidi/profil/spieler/274839,Wilfred Ndidi,Defensive Midfield,€14.00m ,"Dec 16, 1996 (19)",Nigeria
+512,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/nampalys-mendy/profil/spieler/111051,Nampalys Mendy,Defensive Midfield,€10.00m ,"Jun 23, 1992 (24)",Senegal
+513,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/danny-drinkwater/profil/spieler/73491,Danny Drinkwater,Central Midfield,€9.00m ,"Mar 5, 1990 (26)",England
+514,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/andy-king/profil/spieler/56872,Andy King,Central Midfield,€3.00m ,"Oct 29, 1988 (27)",Wales
+515,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/matty-james/profil/spieler/73522,Matty James,Central Midfield,€1.50m ,"Jul 22, 1991 (24)",England
+516,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/marc-albrighton/profil/spieler/61560,Marc Albrighton,Right Midfield,€6.00m ,"Nov 18, 1989 (26)",England
+517,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/jeffrey-schlupp/profil/spieler/157506,Jeffrey Schlupp,Left Midfield,€8.00m ,"Dec 23, 1992 (23)",Ghana
+518,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/harvey-barnes/profil/spieler/398065,Harvey Barnes,Left Midfield,€100Th. ,"Dec 9, 1997 (18)",England
+519,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/bartosz-kapustka/profil/spieler/246579,Bartosz Kapustka,Attacking Midfield,€6.00m ,"Dec 23, 1996 (19)",Poland
+520,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/ahmed-musa/profil/spieler/168337,Ahmed Musa,Left Winger,€17.00m ,"Oct 14, 1992 (23)",Nigeria
+521,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/demarai-gray/profil/spieler/292417,Demarai Gray,Left Winger,€9.00m ,"Jun 28, 1996 (20)",England
+522,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/tom-lawrence/profil/spieler/229970,Tom Lawrence,Left Winger,€2.50m ,"Jan 13, 1994 (22)",Wales
+523,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/riyad-mahrez/profil/spieler/171424,Riyad Mahrez,Right Winger,€30.00m ,"Feb 21, 1991 (25)",Algeria
+524,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/islam-slimani/profil/spieler/174915,Islam Slimani,Centre-Forward,€25.00m ,"Jun 18, 1988 (28)",Algeria
+525,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/jamie-vardy/profil/spieler/197838,Jamie Vardy,Centre-Forward,€15.00m ,"Jan 11, 1987 (29)",England
+526,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/shinji-okazaki/profil/spieler/79642,Shinji Okazaki,Centre-Forward,€7.00m ,"Apr 16, 1986 (30)",Japan
+527,https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2016,/leonardo-ulloa/profil/spieler/54890,Leonardo Ulloa,Centre-Forward,€6.00m ,"Jul 26, 1986 (29)",Argentina
+528,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/lukasz-fabianski/profil/spieler/29692,Lukasz Fabianski,Goalkeeper,€9.00m ,"Apr 18, 1985 (31)",Poland
+529,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/kristoffer-nordfeldt/profil/spieler/75890,Kristoffer Nordfeldt,Goalkeeper,€1.50m ,"Jun 23, 1989 (27)",Sweden
+530,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/mark-birighitti/profil/spieler/80702,Mark Birighitti,Goalkeeper,€1.00m ,"Apr 17, 1991 (25)",Australia
+531,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/gerhard-tremmel/profil/spieler/488,Gerhard Tremmel,Goalkeeper,€250Th. ,"Nov 16, 1978 (37)",Germany
+532,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/federico-fernandez/profil/spieler/85475,Federico Fernández,Centre-Back,€9.00m ,"Feb 21, 1989 (27)",Argentina
+533,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/alfie-mawson/profil/spieler/287431,Alfie Mawson,Centre-Back,€6.00m ,"Jan 19, 1994 (22)",England
+534,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/kyle-bartley/profil/spieler/67421,Kyle Bartley,Centre-Back,€3.50m ,"May 22, 1991 (25)",England
+535,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/jordi-amat/profil/spieler/85289,Jordi Amat,Centre-Back,€2.50m ,"Mar 21, 1992 (24)",Spain
+536,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/mike-van-der-hoorn/profil/spieler/187105,Mike van der Hoorn,Centre-Back,€2.00m ,"Oct 15, 1992 (23)",Netherlands
+537,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/neil-taylor/profil/spieler/67416,Neil Taylor,Left-Back,€6.00m ,"Feb 7, 1989 (27)",Wales
+538,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/martin-olsson/profil/spieler/38073,Martin Olsson,Left-Back,€5.00m ,"May 17, 1988 (28)",Sweden
+539,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/franck-tabanou/profil/spieler/66413,Franck Tabanou,Left-Back,€2.00m ,"Jan 30, 1989 (27)",France
+540,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/stephen-kingsley/profil/spieler/184398,Stephen Kingsley,Left-Back,€750Th. ,"Jul 23, 1994 (21)",Scotland
+541,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/kyle-naughton/profil/spieler/66219,Kyle Naughton,Right-Back,€5.00m ,"Nov 17, 1988 (27)",England
+542,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/angel-rangel/profil/spieler/66550,Ángel Rangel,Right-Back,€1.00m ,"Nov 28, 1982 (33)",Spain
+543,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/connor-roberts/profil/spieler/214666,Connor Roberts,Right-Back,€250Th. ,"Sep 23, 1995 (20)",Wales
+544,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/leroy-fer/profil/spieler/63342,Leroy Fer,Defensive Midfield,€8.00m ,"Jan 5, 1990 (26)",Netherlands
+545,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/sung-yueng-ki/profil/spieler/81796,Sung-yueng Ki,Defensive Midfield,€7.00m ,"Jan 24, 1989 (27)","Korea, South"
+546,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/jack-cork/profil/spieler/40613,Jack Cork,Defensive Midfield,€5.00m ,"Jun 25, 1989 (27)",England
+547,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/tom-carroll/profil/spieler/121279,Tom Carroll,Central Midfield,€6.00m ,"May 28, 1992 (24)",England
+548,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/matt-grimes/profil/spieler/265471,Matt Grimes,Central Midfield,€1.50m ,"Jul 15, 1995 (20)",England
+549,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/leon-britton/profil/spieler/40043,Leon Britton,Central Midfield,€1.00m ,"Sep 16, 1982 (33)",England
+550,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/jay-fulton/profil/spieler/171260,Jay Fulton,Central Midfield,€500Th. ,"Apr 4, 1994 (22)",Scotland
+551,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/kenji-gorre/profil/spieler/374889,Kenji Gorré,Right Midfield,€100Th. ,"Sep 29, 1994 (21)",Curacao
+552,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/gylfi-sigurdsson/profil/spieler/90466,Gylfi Sigurdsson,Attacking Midfield,€25.00m ,"Sep 8, 1989 (26)",Iceland
+553,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/jefferson-montero/profil/spieler/77932,Jefferson Montero,Left Winger,€4.50m ,"Sep 1, 1989 (26)",Ecuador
+554,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/modou-barrow/profil/spieler/189070,Modou Barrow,Left Winger,€3.00m ,"Oct 13, 1992 (23)",The Gambia
+555,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/wayne-routledge/profil/spieler/14066,Wayne Routledge,Left Winger,€2.50m ,"Jan 7, 1985 (31)",England
+556,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/daniel-james/profil/spieler/319301,Daniel James,Left Winger, ,"Nov 10, 1997 (18)",Wales
+557,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/luciano-narsingh/profil/spieler/72462,Luciano Narsingh,Right Winger,€5.00m ,"Sep 13, 1990 (25)",Netherlands
+558,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/nathan-dyer/profil/spieler/37011,Nathan Dyer,Right Winger,€3.50m ,"Nov 29, 1987 (28)",England
+559,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/borja-baston/profil/spieler/85324,Borja Bastón,Centre-Forward,€10.00m ,"Aug 25, 1992 (23)",Spain
+560,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/jordan-ayew/profil/spieler/108354,Jordan Ayew,Centre-Forward,€7.50m ,"Sep 11, 1991 (24)",Ghana
+561,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/fernando-llorente/profil/spieler/35564,Fernando Llorente,Centre-Forward,€6.00m ,"Feb 26, 1985 (31)",Spain
+562,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/bafetimbi-gomis/profil/spieler/22388,Bafétimbi Gomis,Centre-Forward,€5.00m ,"Aug 6, 1985 (30)",France
+563,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/marvin-emnes/profil/spieler/37787,Marvin Emnes,Centre-Forward,€1.00m ,"May 27, 1988 (28)",Netherlands
+564,https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2016,/oliver-mcburnie/profil/spieler/298477,Oliver McBurnie,Centre-Forward,€250Th. ,"Jun 4, 1996 (20)",Scotland
+565,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/david-marshall/profil/spieler/9500,David Marshall,Goalkeeper,€3.00m ,"Mar 5, 1985 (31)",Scotland
+566,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/allan-mcgregor/profil/spieler/9422,Allan McGregor,Goalkeeper,€1.00m ,"Jan 31, 1982 (34)",Scotland
+567,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/dusan-kuciak/profil/spieler/31886,Dusan Kuciak,Goalkeeper,€1.00m ,"May 21, 1985 (31)",Slovakia
+568,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/eldin-jakupovic/profil/spieler/2857,Eldin Jakupovic,Goalkeeper,€1.00m ,"Oct 2, 1984 (31)",Switzerland
+569,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/will-mannion/profil/spieler/456111,Will Mannion,Goalkeeper, ,"May 5, 1998 (18)",England
+570,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/harry-maguire/profil/spieler/177907,Harry Maguire,Centre-Back,€8.00m ,"Mar 5, 1993 (23)",England
+571,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/andrea-ranocchia/profil/spieler/44327,Andrea Ranocchia,Centre-Back,€5.00m ,"Feb 16, 1988 (28)",Italy
+572,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/curtis-davies/profil/spieler/18227,Curtis Davies,Centre-Back,€2.50m ,"Mar 15, 1985 (31)",England
+573,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/michael-dawson/profil/spieler/9988,Michael Dawson,Centre-Back,€2.50m ,"Nov 18, 1983 (32)",England
+574,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/alex-bruce/profil/spieler/37957,Alex Bruce,Centre-Back,€750Th. ,"Sep 28, 1984 (31)",Northern Ireland
+575,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/andrew-robertson/profil/spieler/234803,Andrew Robertson,Left-Back,€7.00m ,"Mar 11, 1994 (22)",Scotland
+576,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/josh-tymon/profil/spieler/419929,Josh Tymon,Left-Back,€1.00m ,"May 22, 1999 (17)",England
+577,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/omar-elabdellaoui/profil/spieler/121404,Omar Elabdellaoui,Right-Back,€5.00m ,"Dec 5, 1991 (24)",Norway
+578,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/moses-odubajo/profil/spieler/163738,Moses Odubajo,Right-Back,€5.00m ,"Jul 28, 1993 (22)",England
+579,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/ahmed-elmohamady/profil/spieler/66333,Ahmed Elmohamady,Right-Back,€4.00m ,"Sep 9, 1987 (28)",Egypt
+580,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/brian-lenihan/profil/spieler/241916,Brian Lenihan,Right-Back,€100Th. ,"Jun 8, 1994 (22)",Ireland
+581,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/josh-clackstone/profil/spieler/453306,Josh Clackstone,Right-Back, ,"Sep 18, 1996 (19)",England
+582,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/harvey-rodgers/profil/spieler/459873,Harvey Rodgers,Right-Back, ,"Oct 20, 1996 (19)",England
+583,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/ben-hinchliffe/profil/spieler/457129,Ben Hinchliffe,midfield, ,"Sep 25, 1997 (18)",England
+584,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/jake-livermore/profil/spieler/61832,Jake Livermore,Defensive Midfield,€7.00m ,"Nov 14, 1989 (26)",England
+585,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/alfred-ndiaye/profil/spieler/77737,Alfred N'Diaye,Defensive Midfield,€5.00m ,"Mar 6, 1990 (26)",Senegal
+586,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/tom-huddlestone/profil/spieler/13465,Tom Huddlestone,Defensive Midfield,€5.00m ,"Dec 28, 1986 (29)",England
+587,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/ryan-mason/profil/spieler/61834,Ryan Mason,Central Midfield,€8.50m ,"Jun 13, 1991 (25)",England
+588,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/markus-henriksen/profil/spieler/122011,Markus Henriksen,Central Midfield,€5.00m ,"Jul 25, 1992 (23)",Norway
+589,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/sam-clucas/profil/spieler/122223,Sam Clucas,Central Midfield,€2.50m ,"Sep 25, 1990 (25)",England
+590,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/david-meyler/profil/spieler/68183,David Meyler,Central Midfield,€2.00m ,"May 29, 1989 (27)",Ireland
+591,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/james-weir/profil/spieler/251058,James Weir,Central Midfield,€500Th. ,"Aug 4, 1995 (20)",England
+592,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/daniel-batty/profil/spieler/509268,Daniel Batty,Central Midfield, ,"Dec 10, 1997 (18)",England
+593,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/evandro/profil/spieler/53359,Evandro,Attacking Midfield,€2.00m ,"Aug 23, 1986 (29)",Brazil
+594,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/shaun-maloney/profil/spieler/9508,Shaun Maloney,Attacking Midfield,€1.00m ,"Jan 24, 1983 (33)",Scotland
+595,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/greg-olley/profil/spieler/257533,Greg Olley,Attacking Midfield, ,"Feb 2, 1996 (20)",England
+596,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/adama-diomande/profil/spieler/93145,Adama Diomande,attack,€1.50m ,"Feb 14, 1990 (26)",Norway
+597,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/kamil-grosicki/profil/spieler/37920,Kamil Grosicki,Left Winger,€7.00m ,"Jun 8, 1988 (28)",Poland
+598,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/lazar-markovic/profil/spieler/144303,Lazar Markovic,Right Winger,€10.00m ,"Mar 2, 1994 (22)",Serbia
+599,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/robert-snodgrass/profil/spieler/22614,Robert Snodgrass,Right Winger,€8.00m ,"Sep 7, 1987 (28)",Scotland
+600,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/jarrod-bowen/profil/spieler/314875,Jarrod Bowen,Right Winger,€250Th. ,"Dec 20, 1996 (19)",England
+601,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/oumar-niasse/profil/spieler/209781,Oumar Niasse,Centre-Forward,€9.00m ,"Apr 18, 1990 (26)",Senegal
+602,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/abel-hernandez/profil/spieler/76608,Abel Hernández,Centre-Forward,€8.00m ,"Aug 8, 1990 (25)",Uruguay
+603,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/dieumerci-mbokani/profil/spieler/44624,Dieumerci Mbokani,Centre-Forward,€5.00m ,"Nov 22, 1985 (30)",DR Congo
+604,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/will-keane/profil/spieler/118535,Will Keane,Centre-Forward,€1.50m ,"Jan 11, 1993 (23)",England
+605,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/greg-luer/profil/spieler/356195,Greg Luer,Centre-Forward,€250Th. ,"Dec 6, 1994 (21)",England
+606,https://www.transfermarkt.com/hull-city/startseite/verein/3008/saison_id/2016,/johan-ter-horst/profil/spieler/318224,Johan Ter Horst,Centre-Forward, ,"Apr 6, 1995 (21)",England
+607,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/victor-valdes/profil/spieler/7589,Víctor Valdés,Goalkeeper,€2.00m ,"Jan 14, 1982 (34)",Spain
+608,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/brad-guzan/profil/spieler/39471,Brad Guzan,Goalkeeper,€1.00m ,"Sep 9, 1984 (31)",United States
+609,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/tomas-mejias/profil/spieler/62947,Tomas Mejias,Goalkeeper,€300Th. ,"Jan 30, 1989 (27)",Spain
+610,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/connor-ripley/profil/spieler/163531,Connor Ripley,Goalkeeper,€250Th. ,"Feb 13, 1993 (23)",England
+611,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/dimitrios-konstantopoulos/profil/spieler/50552,Dimitrios Konstantopoulos,Goalkeeper,€250Th. ,"Nov 29, 1978 (37)",Greece
+612,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/calum-chambers/profil/spieler/215118,Calum Chambers,Centre-Back,€14.00m ,"Jan 20, 1995 (21)",England
+613,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/ben-gibson/profil/spieler/128904,Ben Gibson,Centre-Back,€8.00m ,"Jan 15, 1993 (23)",England
+614,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/bernardo-espinosa/profil/spieler/64598,Bernardo Espinosa,Centre-Back,€2.50m ,"Jul 11, 1989 (26)",Colombia
+615,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/daniel-ayala/profil/spieler/78966,Daniel Ayala,Centre-Back,€2.00m ,"Nov 7, 1990 (25)",Spain
+616,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/alex-baptiste/profil/spieler/16660,Alex Baptiste,Centre-Back,€1.00m ,"Jan 31, 1986 (30)",England
+617,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/dael-fry/profil/spieler/314140,Dael Fry,Centre-Back,€250Th. ,"Aug 30, 1997 (18)",England
+618,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/george-friend/profil/spieler/77544,George Friend,Left-Back,€1.50m ,"Oct 19, 1987 (28)",England
+619,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/james-husband/profil/spieler/167393,James Husband,Left-Back,€500Th. ,"Jan 3, 1994 (22)",England
+620,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/antonio-barragan/profil/spieler/32522,Antonio Barragán,Right-Back,€3.00m ,"Jun 12, 1987 (29)",Spain
+621,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/fabio/profil/spieler/61891,Fábio,Right-Back,€2.00m ,"Jul 9, 1990 (25)",Brazil
+622,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/emilio-nsue/profil/spieler/59558,Emilio Nsue,Right-Back,€1.75m ,"Sep 30, 1989 (26)",Equatorial Guinea
+623,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/marten-de-roon/profil/spieler/133179,Marten de Roon,Defensive Midfield,€10.00m ,"Mar 29, 1991 (25)",Netherlands
+624,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/julien-de-sart/profil/spieler/129592,Julien de Sart,Defensive Midfield,€2.00m ,"Dec 23, 1994 (21)",Belgium
+625,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/adam-clayton/profil/spieler/73067,Adam Clayton,Central Midfield,€3.00m ,"Jan 14, 1989 (27)",England
+626,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/adam-forshaw/profil/spieler/121257,Adam Forshaw,Central Midfield,€3.00m ,"Oct 8, 1991 (24)",England
+627,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/grant-leadbitter/profil/spieler/13796,Grant Leadbitter,Central Midfield,€2.00m ,"Jan 7, 1986 (30)",England
+628,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/adlene-guedioura/profil/spieler/74768,Adlène Guédioura,Central Midfield,€1.00m ,"Nov 12, 1985 (30)",Algeria
+629,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/adam-reach/profil/spieler/163530,Adam Reach,Left Midfield,€4.50m ,"Feb 3, 1993 (23)",England
+630,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/stewart-downing/profil/spieler/4063,Stewart Downing,Left Midfield,€3.50m ,"Jul 22, 1984 (31)",England
+631,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/gaston-ramirez/profil/spieler/123742,Gastón Ramírez,Attacking Midfield,€6.00m ,"Dec 2, 1990 (25)",Uruguay
+632,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/viktor-fischer/profil/spieler/95755,Viktor Fischer,Left Winger,€5.00m ,"Jun 9, 1994 (22)",Denmark
+633,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/carlos-de-pena/profil/spieler/257740,Carlos de Pena,Left Winger,€2.00m ,"Mar 11, 1992 (24)",Uruguay
+634,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/adama-traore/profil/spieler/204103,Adama Traoré,Right Winger,€8.00m ,"Jan 25, 1996 (20)",Spain
+635,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/albert-adomah/profil/spieler/83430,Albert Adomah,Right Winger,€2.50m ,"Dec 13, 1987 (28)",Ghana
+636,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/jordan-rhodes/profil/spieler/48950,Jordan Rhodes,Centre-Forward,€10.00m ,"Feb 5, 1990 (26)",Scotland
+637,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/alvaro-negredo/profil/spieler/18644,Álvaro Negredo,Centre-Forward,€7.50m ,"Aug 20, 1985 (30)",Spain
+638,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/rudy-gestede/profil/spieler/39908,Rudy Gestede,Centre-Forward,€7.00m ,"Oct 10, 1988 (27)",Benin
+639,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/patrick-bamford/profil/spieler/183334,Patrick Bamford,Centre-Forward,€5.00m ,"Sep 5, 1993 (22)",England
+640,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/cristhian-stuani/profil/spieler/59323,Cristhian Stuani,Centre-Forward,€3.50m ,"Oct 12, 1986 (29)",Uruguay
+641,https://www.transfermarkt.com/fc-middlesbrough/startseite/verein/641/saison_id/2016,/david-nugent/profil/spieler/33963,David Nugent,Centre-Forward,€3.00m ,"May 2, 1985 (31)",England
+642,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/ben-foster/profil/spieler/13572,Ben Foster,Goalkeeper,€4.00m ,"Apr 3, 1983 (33)",England
+643,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/boaz-myhill/profil/spieler/3838,Boaz Myhill,Goalkeeper,€1.50m ,"Nov 9, 1982 (33)",Wales
+644,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/jack-rose/profil/spieler/186923,Jack Rose,Goalkeeper,€100Th. ,"Jan 31, 1995 (21)",England
+645,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/alex-palmer/profil/spieler/245625,Alex Palmer,Goalkeeper, ,"Aug 10, 1996 (19)",England
+646,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/jonny-evans/profil/spieler/42412,Jonny Evans,Centre-Back,€7.00m ,"Jan 3, 1988 (28)",Northern Ireland
+647,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/craig-dawson/profil/spieler/121477,Craig Dawson,Centre-Back,€6.00m ,"May 6, 1990 (26)",England
+648,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/marc-wilson/profil/spieler/30456,Marc Wilson,Centre-Back,€2.50m ,"Aug 17, 1987 (28)",Ireland
+649,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/jonas-olsson/profil/spieler/25248,Jonas Olsson,Centre-Back,€1.10m ,"Mar 10, 1983 (33)",Sweden
+650,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/gareth-mcauley/profil/spieler/40567,Gareth McAuley,Centre-Back,€1.00m ,"Dec 5, 1979 (36)",Northern Ireland
+651,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/brendan-galloway/profil/spieler/208244,Brendan Galloway,Left-Back,€3.00m ,"Mar 17, 1996 (20)",England
+652,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/sebastien-pocognoli/profil/spieler/17804,Sébastien Pocognoli,Left-Back,€750Th. ,"Aug 1, 1987 (28)",Belgium
+653,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/allan-nyom/profil/spieler/111508,Allan Nyom,Right-Back,€4.50m ,"May 10, 1988 (28)",Cameroon
+654,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/kane-wilson/profil/spieler/392774,Kane Wilson,Right-Back, ,"Mar 11, 2000 (16)",England
+655,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/jake-livermore/profil/spieler/61832,Jake Livermore,Defensive Midfield,€7.00m ,"Nov 14, 1989 (26)",England
+656,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/claudio-yacob/profil/spieler/45330,Claudio Yacob,Defensive Midfield,€4.00m ,"Jul 18, 1987 (28)",Argentina
+657,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/james-morrison/profil/spieler/27614,James Morrison,Central Midfield,€5.00m ,"May 25, 1986 (30)",Scotland
+658,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/chris-brunt/profil/spieler/36814,Chris Brunt,Central Midfield,€4.00m ,"Dec 14, 1984 (31)",Northern Ireland
+659,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/craig-gardner/profil/spieler/37171,Craig Gardner,Central Midfield,€3.50m ,"Nov 25, 1986 (29)",England
+660,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/darren-fletcher/profil/spieler/3547,Darren Fletcher,Central Midfield,€2.00m ,"Feb 1, 1984 (32)",Scotland
+661,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/sam-field/profil/spieler/387331,Sam Field,Central Midfield,€250Th. ,"May 8, 1998 (18)",England
+662,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/rekeem-harper/profil/spieler/456877,Rekeem Harper,Central Midfield, ,"Mar 8, 2000 (16)",England
+663,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/james-mcclean/profil/spieler/85935,James McClean,Left Midfield,€3.00m ,"Apr 22, 1989 (27)",Ireland
+664,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/nacer-chadli/profil/spieler/59631,Nacer Chadli,Left Winger,€15.00m ,"Aug 2, 1989 (26)",Belgium
+665,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/matt-phillips/profil/spieler/77274,Matt Phillips,Right Winger,€9.00m ,"Mar 13, 1991 (25)",Scotland
+666,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/callum-mcmanaman/profil/spieler/61711,Callum McManaman,Right Winger,€3.50m ,"Apr 25, 1991 (25)",England
+667,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/jonathan-leko/profil/spieler/314266,Jonathan Leko,Right Winger,€1.50m ,"Apr 24, 1999 (17)",England
+668,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/saido-berahino/profil/spieler/128897,Saido Berahino,Centre-Forward,€15.00m ,"Aug 4, 1993 (22)",Burundi
+669,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/salomon-rondon/profil/spieler/80197,Salomón Rondón,Centre-Forward,€15.00m ,"Sep 16, 1989 (26)",Venezuela
+670,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/hal-robson-kanu/profil/spieler/65976,Hal Robson-Kanu,Centre-Forward,€2.50m ,"May 21, 1989 (27)",Wales
+671,https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2016,/rickie-lambert/profil/spieler/49655,Rickie Lambert,Centre-Forward,€1.50m ,"Feb 16, 1982 (34)",England
+672,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/jordan-pickford/profil/spieler/130164,Jordan Pickford,Goalkeeper,€15.00m ,"Mar 7, 1994 (22)",England
+673,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/vito-mannone/profil/spieler/33781,Vito Mannone,Goalkeeper,€2.50m ,"Mar 2, 1988 (28)",Italy
+674,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/mika/profil/spieler/138285,Mika,Goalkeeper,€2.00m ,"Mar 8, 1991 (25)",Portugal
+675,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/max-stryjek/profil/spieler/240457,Max Stryjek,Goalkeeper, ,"Jul 18, 1996 (19)",Poland
+676,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/lamine-kone/profil/spieler/57420,Lamine Koné,Centre-Back,€7.00m ,"Feb 1, 1989 (27)",Cote d'Ivoire
+677,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/papy-djilobodji/profil/spieler/136610,Papy Djilobodji,Centre-Back,€5.00m ,"Dec 1, 1988 (27)",Senegal
+678,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/jason-denayer/profil/spieler/277114,Jason Denayer,Centre-Back,€4.00m ,"Jun 28, 1995 (21)",Belgium
+679,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/paddy-mcnair/profil/spieler/167268,Paddy McNair,Centre-Back,€4.00m ,"Apr 27, 1995 (21)",Northern Ireland
+680,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/jan-kirchhoff/profil/spieler/49734,Jan Kirchhoff,Centre-Back,€3.00m ,"Oct 1, 1990 (25)",Germany
+681,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/younes-kaboul/profil/spieler/27114,Younès Kaboul,Centre-Back,€2.50m ,"Jan 4, 1986 (30)",France
+682,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/joleon-lescott/profil/spieler/4241,Joleon Lescott,Centre-Back,€1.00m ,"Aug 16, 1982 (33)",England
+683,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/john-oshea/profil/spieler/3540,John O'Shea,Centre-Back,€1.00m ,"Apr 30, 1981 (35)",Ireland
+684,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/michael-ledger/profil/spieler/320228,Michael Ledger,Centre-Back, ,"Aug 15, 1997 (18)",England
+685,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/patrick-van-aanholt/profil/spieler/52119,Patrick van Aanholt,Left-Back,€9.00m ,"Aug 29, 1990 (25)",Netherlands
+686,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/bryan-oviedo/profil/spieler/124983,Bryan Oviedo,Left-Back,€2.50m ,"Feb 18, 1990 (26)",Costa Rica
+687,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/tommy-robson/profil/spieler/257968,Tommy Robson,Left-Back, ,"Sep 11, 1995 (20)",England
+688,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/javier-manquillo/profil/spieler/162029,Javier Manquillo,Right-Back,€4.00m ,"May 5, 1994 (22)",Spain
+689,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/adam-matthews/profil/spieler/108878,Adam Matthews,Right-Back,€1.50m ,"Jan 13, 1992 (24)",Wales
+690,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/billy-jones/profil/spieler/36866,Billy Jones,Right-Back,€1.50m ,"Mar 24, 1987 (29)",England
+691,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/donald-love/profil/spieler/179451,Donald Love,Right-Back,€1.00m ,"Dec 2, 1994 (21)",Scotland
+692,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/josh-robson/profil/spieler/357958,Josh Robson,Right-Back, ,"Feb 3, 1998 (18)",England
+693,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/jack-rodwell/profil/spieler/57079,Jack Rodwell,Defensive Midfield,€5.00m ,"Mar 11, 1991 (25)",England
+694,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/lee-cattermole/profil/spieler/37363,Lee Cattermole,Defensive Midfield,€3.00m ,"Mar 21, 1988 (28)",England
+695,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/didier-ndong/profil/spieler/210081,Didier Ndong,Central Midfield,€10.00m ,"Jun 17, 1994 (22)",Gabon
+696,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/sebastian-larsson/profil/spieler/31720,Sebastian Larsson,Central Midfield,€2.50m ,"Jun 6, 1985 (31)",Sweden
+697,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/darron-gibson/profil/spieler/42413,Darron Gibson,Central Midfield,€1.50m ,"Oct 25, 1987 (28)",Ireland
+698,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/ethan-robson/profil/spieler/258199,Ethan Robson,Central Midfield, ,"Oct 25, 1996 (19)",England
+699,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/elliot-embleton/profil/spieler/364828,Elliot Embleton,Central Midfield, ,"Apr 2, 1999 (17)",England
+700,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/george-honeyman/profil/spieler/218140,George Honeyman,Attacking Midfield,€250Th. ,"Sep 8, 1994 (21)",England
+701,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/rees-greenwood/profil/spieler/320213,Rees Greenwood,Attacking Midfield, ,"Dec 10, 1996 (19)",England
+702,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/fabio-borini/profil/spieler/96754,Fabio Borini,Left Winger,€5.00m ,"Mar 29, 1991 (25)",Italy
+703,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/steven-pienaar/profil/spieler/4321,Steven Pienaar,Left Winger,€1.00m ,"Mar 17, 1982 (34)",South Africa
+704,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/jeremain-lens/profil/spieler/38497,Jeremain Lens,Right Winger,€11.00m ,"Nov 24, 1987 (28)",Netherlands
+705,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/adnan-januzaj/profil/spieler/177847,Adnan Januzaj,Right Winger,€7.00m ,"Feb 5, 1995 (21)",Belgium
+706,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/duncan-watmore/profil/spieler/248045,Duncan Watmore,Right Winger,€3.00m ,"Mar 8, 1994 (22)",England
+707,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/will-buckley/profil/spieler/77329,Will Buckley,Right Winger,€2.00m ,"Nov 21, 1989 (26)",England
+708,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/lynden-gooch/profil/spieler/307781,Lynden Gooch,Right Winger,€750Th. ,"Dec 24, 1995 (20)",United States
+709,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/wahbi-khazri/profil/spieler/103565,Wahbi Khazri,Centre-Forward,€7.00m ,"Feb 8, 1991 (25)",Tunisia
+710,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/jermain-defoe/profil/spieler/3875,Jermain Defoe,Centre-Forward,€5.00m ,"Oct 7, 1982 (33)",England
+711,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/victor-anichebe/profil/spieler/39532,Victor Anichebe,Centre-Forward,€1.50m ,"Apr 23, 1988 (28)",Nigeria
+712,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/joel-asoro/profil/spieler/375391,Joel Asoro,Centre-Forward, ,"Apr 27, 1999 (17)",Sweden
+713,https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2016,/josh-maja/profil/spieler/453824,Josh Maja,Centre-Forward, ,"Dec 27, 1998 (17)",Nigeria
+714,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/artur-boruc/profil/spieler/15220,Artur Boruc,Goalkeeper,€1.00m ,"Feb 20, 1980 (36)",Poland
+715,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/adam-federici/profil/spieler/4233,Adam Federici,Goalkeeper,€1.00m ,"Jan 31, 1985 (31)",Australia
+716,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/aaron-ramsdale/profil/spieler/427568,Aaron Ramsdale,Goalkeeper,€500Th. ,"May 14, 1998 (18)",England
+717,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/ryan-allsop/profil/spieler/111073,Ryan Allsop,Goalkeeper,€250Th. ,"Jun 17, 1992 (24)",England
+718,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/jordan-holmes/profil/spieler/399158,Jordan Holmes,Goalkeeper, ,"May 8, 1997 (19)",Australia
+719,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/nathan-ake/profil/spieler/177476,Nathan Aké,Centre-Back,€8.00m ,"Feb 18, 1995 (21)",Netherlands
+720,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/steve-cook/profil/spieler/90836,Steve Cook,Centre-Back,€5.00m ,"Apr 19, 1991 (25)",England
+721,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/tyrone-mings/profil/spieler/253677,Tyrone Mings,Centre-Back,€5.00m ,"Mar 13, 1993 (23)",England
+722,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/marc-wilson/profil/spieler/30456,Marc Wilson,Centre-Back,€2.50m ,"Aug 17, 1987 (28)",Ireland
+723,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/baily-cargill/profil/spieler/293450,Baily Cargill,Centre-Back,€250Th. ,"Jul 5, 1995 (20)",England
+724,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/jack-simpson/profil/spieler/419930,Jack Simpson,Centre-Back, ,"Dec 18, 1996 (19)",England
+725,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/corey-jordan/profil/spieler/435765,Corey Jordan,Centre-Back, ,"Mar 4, 1999 (17)",England
+726,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/charlie-daniels/profil/spieler/61819,Charlie Daniels,Left-Back,€3.00m ,"Sep 7, 1986 (29)",England
+727,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/brad-smith/profil/spieler/175745,Brad Smith,Left-Back,€2.00m ,"Apr 9, 1994 (22)",Australia
+728,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/rhoys-wiggins/profil/spieler/42298,Rhoys Wiggins,Left-Back,€500Th. ,"Nov 4, 1987 (28)",Wales
+729,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/callum-buckley/profil/spieler/398398,Callum Buckley,Left-Back, ,"Jan 12, 1996 (20)",England
+730,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/adam-smith/profil/spieler/61841,Adam Smith,Right-Back,€5.00m ,"Apr 29, 1991 (25)",England
+731,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/simon-francis/profil/spieler/13573,Simon Francis,Right-Back,€2.50m ,"Feb 16, 1985 (31)",England
+732,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/jordan-lee/profil/spieler/416621,Jordan Lee,Right-Back, ,"Dec 31, 1996 (19)",England
+733,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/jack-wilshere/profil/spieler/74223,Jack Wilshere,Central Midfield,€18.00m ,"Jan 1, 1992 (24)",England
+734,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/lewis-cook/profil/spieler/249089,Lewis Cook,Central Midfield,€6.00m ,"Feb 3, 1997 (19)",England
+735,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/dan-gosling/profil/spieler/44983,Dan Gosling,Central Midfield,€3.00m ,"Feb 1, 1990 (26)",England
+736,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/harry-arter/profil/spieler/55742,Harry Arter,Central Midfield,€2.50m ,"Dec 28, 1989 (26)",Ireland
+737,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/andrew-surman/profil/spieler/29975,Andrew Surman,Central Midfield,€2.00m ,"Aug 20, 1986 (29)",England
+738,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/emerson-hyndman/profil/spieler/223047,Emerson Hyndman,Central Midfield,€1.00m ,"Apr 9, 1996 (20)",United States
+739,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/eunan-okane/profil/spieler/61583,Eunan O'Kane,Central Midfield,€1.00m ,"Jul 10, 1990 (25)",Ireland
+740,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/matt-worthington/profil/spieler/493607,Matt Worthington,Central Midfield, ,"Dec 18, 1997 (18)",England
+741,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/keelan-oconnell/profil/spieler/463695,Keelan O'Connell,Right Midfield, ,"Nov 30, 1999 (16)",England
+742,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/ollie-harfield/profil/spieler/463694,Ollie Harfield,Left Midfield, ,"Jan 9, 1998 (18)",England
+743,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/max-gradel/profil/spieler/28140,Max Gradel,Left Winger,€7.00m ,"Nov 30, 1987 (28)",Cote d'Ivoire
+744,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/ryan-fraser/profil/spieler/146795,Ryan Fraser,Left Winger,€5.00m ,"Feb 24, 1994 (22)",Scotland
+745,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/junior-stanislas/profil/spieler/87672,Junior Stanislas,Left Winger,€4.50m ,"Nov 26, 1989 (26)",England
+746,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/marc-pugh/profil/spieler/36939,Marc Pugh,Left Winger,€2.00m ,"Apr 2, 1987 (29)",England
+747,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/jordon-ibe/profil/spieler/195652,Jordon Ibe,Right Winger,€8.00m ,"Dec 8, 1995 (20)",England
+748,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/harry-cornick/profil/spieler/255703,Harry Cornick,Right Winger,€100Th. ,"Apr 9, 1995 (21)",England
+749,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/joshua-king/profil/spieler/91059,Joshua King,Second Striker,€8.00m ,"Jan 15, 1992 (24)",Norway
+750,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/benik-afobe/profil/spieler/110858,Benik Afobe,Centre-Forward,€10.00m ,"Feb 12, 1993 (23)",DR Congo
+751,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/callum-wilson/profil/spieler/123682,Callum Wilson,Centre-Forward,€10.00m ,"Feb 27, 1992 (24)",England
+752,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/lys-mousset/profil/spieler/291422,Lys Mousset,Centre-Forward,€4.00m ,"Feb 8, 1996 (20)",France
+753,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/lewis-grabban/profil/spieler/35413,Lewis Grabban,Centre-Forward,€3.00m ,"Jan 12, 1988 (28)",Jamaica
+754,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2016,/sam-surridge/profil/spieler/398402,Sam Surridge,Centre-Forward, ,"Jul 28, 1998 (17)",England
+755,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/tom-heaton/profil/spieler/34130,Tom Heaton,Goalkeeper,€4.00m ,"Apr 15, 1986 (30)",England
+756,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/nick-pope/profil/spieler/192080,Nick Pope,Goalkeeper,€750Th. ,"Apr 19, 1992 (24)",England
+757,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/paul-robinson/profil/spieler/3630,Paul Robinson,Goalkeeper,€250Th. ,"Oct 15, 1979 (36)",England
+758,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/michael-keane/profil/spieler/118534,Michael Keane,Centre-Back,€18.00m ,"Jan 11, 1993 (23)",England
+759,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/ben-mee/profil/spieler/74810,Ben Mee,Centre-Back,€6.00m ,"Sep 21, 1989 (26)",England
+760,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/james-tarkowski/profil/spieler/173504,James Tarkowski,Centre-Back,€2.00m ,"Nov 19, 1992 (23)",England
+761,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/kevin-long/profil/spieler/111114,Kevin Long,Centre-Back,€500Th. ,"Aug 18, 1990 (25)",Ireland
+762,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/tom-anderson/profil/spieler/128828,Tom Anderson,Centre-Back,€250Th. ,"Sep 2, 1993 (22)",England
+763,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/stephen-ward/profil/spieler/34691,Stephen Ward,Left-Back,€1.50m ,"Aug 20, 1985 (30)",Ireland
+764,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/danny-lafferty/profil/spieler/85928,Danny Lafferty,Left-Back,€500Th. ,"May 18, 1989 (27)",Northern Ireland
+765,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/jon-flanagan/profil/spieler/145922,Jon Flanagan,Right-Back,€3.50m ,"Jan 1, 1993 (23)",England
+766,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/matthew-lowton/profil/spieler/102258,Matthew Lowton,Right-Back,€2.50m ,"Jun 9, 1989 (27)",England
+767,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/tendayi-darikwa/profil/spieler/158700,Tendayi Darikwa,Right-Back,€500Th. ,"Dec 13, 1991 (24)",Zimbabwe
+768,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/david-jones/profil/spieler/24634,David Jones,midfield,€1.50m ,"Nov 4, 1984 (31)",England
+769,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/steven-defour/profil/spieler/33866,Steven Defour,Defensive Midfield,€6.00m ,"Apr 15, 1988 (28)",Belgium
+770,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/ashley-westwood/profil/spieler/91317,Ashley Westwood,Defensive Midfield,€4.00m ,"Apr 1, 1990 (26)",England
+771,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/jeff-hendrick/profil/spieler/148262,Jeff Hendrick,Central Midfield,€6.00m ,"Jan 31, 1992 (24)",Ireland
+772,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/scott-arfield/profil/spieler/55291,Scott Arfield,Central Midfield,€3.00m ,"Nov 1, 1988 (27)",Canada
+773,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/dean-marney/profil/spieler/4055,Dean Marney,Central Midfield,€1.00m ,"Jan 31, 1984 (32)",England
+774,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/joey-barton/profil/spieler/3292,Joey Barton,Central Midfield,€1.00m ,"Sep 2, 1982 (33)",England
+775,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/fredrik-ulvestad/profil/spieler/158022,Fredrik Ulvestad,Central Midfield,€750Th. ,"Jun 17, 1992 (24)",Norway
+776,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/aiden-oneill/profil/spieler/385918,Aiden O'Neill,Central Midfield,€100Th. ,"Jul 4, 1998 (17)",Australia
+777,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/robbie-brady/profil/spieler/128229,Robbie Brady,Left Midfield,€10.00m ,"Jan 14, 1992 (24)",Ireland
+778,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/michael-kightly/profil/spieler/25366,Michael Kightly,Left Midfield,€1.00m ,"Jan 24, 1986 (30)",England
+779,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/bradley-jackson/profil/spieler/385920,Bradley Jackson,attack, ,"Oct 20, 1996 (19)",England
+780,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/george-boyd/profil/spieler/45623,George Boyd,Left Winger,€4.00m ,"Oct 2, 1985 (30)",Scotland
+781,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/johann-berg-gudmundsson/profil/spieler/89231,Jóhann Berg Gudmundsson,Right Winger,€2.50m ,"Oct 27, 1990 (25)",Iceland
+782,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/andre-gray/profil/spieler/120565,Andre Gray,Centre-Forward,€10.00m ,"Jun 26, 1991 (25)",Jamaica
+783,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/patrick-bamford/profil/spieler/183334,Patrick Bamford,Centre-Forward,€5.00m ,"Sep 5, 1993 (22)",England
+784,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/sam-vokes/profil/spieler/48078,Sam Vokes,Centre-Forward,€4.50m ,"Oct 21, 1989 (26)",Wales
+785,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/ashley-barnes/profil/spieler/63200,Ashley Barnes,Centre-Forward,€2.50m ,"Oct 30, 1989 (26)",England
+786,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/rouwen-hennings/profil/spieler/16311,Rouwen Hennings,Centre-Forward,€1.50m ,"Aug 28, 1987 (28)",Germany
+787,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/lukas-jutkiewicz/profil/spieler/33507,Lukas Jutkiewicz,Centre-Forward,€1.50m ,"Mar 28, 1989 (27)",England
+788,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/chris-long/profil/spieler/183298,Chris Long,Centre-Forward,€1.00m ,"Feb 25, 1995 (21)",England
+789,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/dan-agyei/profil/spieler/367195,Dan Agyei,Centre-Forward,€75Th. ,"Jun 1, 1997 (19)",England
+790,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2016,/ntumba-massanka/profil/spieler/385922,Ntumba Massanka,Centre-Forward, ,"Nov 30, 1996 (19)",England

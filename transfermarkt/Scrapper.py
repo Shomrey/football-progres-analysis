@@ -24,6 +24,8 @@ class Scrapper:
 
     def scrap_historical_values(self, url):
         records_to_return = []
+        print(url)
+
         try:
 
             req = requests.get(url, headers=self.headers)
@@ -106,18 +108,37 @@ class Scrapper:
         iter = 0
         for player in text:
             if (iter % 3 == 0):
-                player = player.find_all('td')
-                href = str(player[3])
-                href = href.split("href=\"", 1)[1]
-                href = href.split("\"", 1)[0]
-                name_and_surname = (str(player[5]).split(">", 1)[1].split("<", 1)[0])
-                position = (str(player[4]).split(">", 1)[1].split("<", 1)[0])
-                date_of_birth = (str(player[6]).split(">", 1)[1].split("<", 1)[0])
-                country = (str(player[7]).split("img alt=\"", 1)[1].split("\"", 1)[0])
-                market_value = (str(player[8]).split(">", 1)[1].split("<", 1)[0])
-                # todo second country - sometimes this happens
-                records_to_return.append([href, name_and_surname, position, market_value, date_of_birth, country])
-
+                if url.endswith('2020'):
+                    player = player.find_all('td')
+                    href = str(player[3])
+                    href = href.split("href=\"", 1)[1]
+                    href = href.split("\"", 1)[0]
+                    # print(str(player[5]))
+                    name_and_surname = (str(player[5]).split(">", 1)[1].split("<", 1)[0])
+                    position = (str(player[4]).split(">", 1)[1].split("<", 1)[0])
+                    date_of_birth = (str(player[6]).split(">", 1)[1].split("<", 1)[0])
+                    country = (str(player[7]).split("img alt=\"", 1)[1].split("\"", 1)[0])
+                    market_value = (str(player[8]).split(">", 1)[1].split("<", 1)[0])
+                    # todo second country - sometimes this happens
+                    records_to_return.append([href, name_and_surname, position, market_value, date_of_birth, country])
+                else:  # columns are in other order because of extra column current club
+                    player = player.find_all('td')
+                    href = str(player[3])
+                    href = href.split("href=\"", 1)[1]
+                    href = href.split("\"", 1)[0]
+                    # print(player)
+                    # k = 0
+                    # for p in player:
+                    #     print(k)
+                    #     k= k+1
+                    #     print(p)
+                    name_and_surname = (str(player[2]).split("img alt=\"", 1)[1].split("\"", 1)[0])
+                    position = (str(player[4]).split(">", 1)[1].split("<", 1)[0])
+                    date_of_birth = (str(player[5]).split(">", 1)[1].split("<", 1)[0])
+                    country = (str(player[6]).split("img alt=\"", 1)[1].split("\"", 1)[0])
+                    market_value = (str(player[8]).split(">", 1)[1].split("<", 1)[0])
+                    # todo second country - sometimes this happens
+                    records_to_return.append([href, name_and_surname, position, market_value, date_of_birth, country])
             iter += 1
 
         return records_to_return
@@ -125,4 +146,12 @@ class Scrapper:
     def get_url_with_historical_values(self, player_url):
         first_part = player_url.split("/profil", 1)[0]
         last_part = player_url.split("/profil/", 1)[1]
+        return first_part + "/marktwertverlauf/" + last_part
+
+    def get_url_with_historical_values_v2(self, player_url):
+        first_part = player_url.split("/profil", 1)[0]
+        last_part = player_url.split("/profil/", 1)[1]
+        # print(first_part)
+        # print(last_part)
+        # print("last part")
         return first_part + "/marktwertverlauf/" + last_part

@@ -1,0 +1,795 @@
+club_reference,href,name_and_surname,position,market_value,date_of_birth,country
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/thibaut-courtois/profil/spieler/108390,Thibaut Courtois,Goalkeeper,35000000.00,1992-05-11 00:00:00,Belgium
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/asmir-begovic/profil/spieler/33873,Asmir Begovic,Goalkeeper,12000000.00,1987-06-20 00:00:00,Bosnia-Herzegovina
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/jamal-blackman/profil/spieler/128898,Jamal Blackman,Goalkeeper,250000,1993-10-27 00:00:00,England
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/marco-amelia/profil/spieler/16810,Marco Amelia,Goalkeeper,250000,1982-04-02 00:00:00,Italy
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/kurt-zouma/profil/spieler/157509,Kurt Zouma,Centre-Back,17000000.00,1994-10-27 00:00:00,France
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/gary-cahill/profil/spieler/27511,Gary Cahill,Centre-Back,16000000.00,1985-12-19 00:00:00,England
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/branislav-ivanovic/profil/spieler/36827,Branislav Ivanovic,Centre-Back,11000000.00,1984-02-22 00:00:00,Serbia
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/nathan-ake/profil/spieler/177476,Nathan Aké,Centre-Back,4500000.00,1995-02-18 00:00:00,Netherlands
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/papy-djilobodji/profil/spieler/136610,Papy Djilobodji,Centre-Back,3500000.00,1988-12-01 00:00:00,Senegal
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/tomas-kalas/profil/spieler/148657,Tomas Kalas,Centre-Back,3000000.00,1993-05-15 00:00:00,Czech Republic
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/michael-hector/profil/spieler/157490,Michael Hector,Centre-Back,3000000.00,1992-07-19 00:00:00,Jamaica
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/john-terry/profil/spieler/3160,John Terry,Centre-Back,3000000.00,1980-12-07 00:00:00,England
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/matt-miazga/profil/spieler/245893,Matt Miazga,Centre-Back,2500000.00,1995-07-19 00:00:00,United States
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/fikayo-tomori/profil/spieler/303254,Fikayo Tomori,Centre-Back,-1,1997-12-19 00:00:00,England
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/jake-clarke-salter/profil/spieler/316551,Jake Clarke-Salter,Centre-Back,-1,1997-09-22 00:00:00,England
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/abdul-rahman-baba/profil/spieler/224884,Abdul Rahman Baba,Left-Back,13000000.00,1994-07-02 00:00:00,Ghana
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/juan-cuadrado/profil/spieler/91970,Juan Cuadrado,Right-Back,25000000.00,1988-05-26 00:00:00,Colombia
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/cesar-azpilicueta/profil/spieler/57500,César Azpilicueta,Right-Back,20000000.00,1989-08-28 00:00:00,Spain
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/ola-aina/profil/spieler/236490,Ola Aina,Right-Back,-1,1996-10-08 00:00:00,Nigeria
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/nemanja-matic/profil/spieler/74683,Nemanja Matic,Defensive Midfield,38000000.00,1988-08-01 00:00:00,Serbia
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/john-mikel-obi/profil/spieler/30739,John Mikel Obi,Defensive Midfield,10000000.00,1987-04-22 00:00:00,Nigeria
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/cesc-fabregas/profil/spieler/8806,Cesc Fàbregas,Central Midfield,45000000.00,1987-05-04 00:00:00,Spain
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/ramires/profil/spieler/54170,Ramires,Central Midfield,15000000.00,1987-03-24 00:00:00,Brazil
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/ruben-loftus-cheek/profil/spieler/202886,Ruben Loftus-Cheek,Central Midfield,5000000.00,1996-01-23 00:00:00,England
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/charlie-colkett/profil/spieler/236496,Charlie Colkett,Central Midfield,-1,1996-09-04 00:00:00,England
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/victor-moses/profil/spieler/59866,Victor Moses,Right Midfield,7500000.00,1990-12-12 00:00:00,Nigeria
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/oscar/profil/spieler/85314,Oscar,Attacking Midfield,35000000.00,1991-09-09 00:00:00,Brazil
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/kasey-palmer/profil/spieler/258216,Kasey Palmer,Attacking Midfield,-1,1996-11-09 00:00:00,Jamaica
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/eden-hazard/profil/spieler/50202,Eden Hazard,Left Winger,65000000.00,1991-01-07 00:00:00,Belgium
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/kenedy/profil/spieler/281404,Kenedy,Left Winger,8000000.00,1996-02-08 00:00:00,Brazil
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/willian/profil/spieler/52769,Willian,Right Winger,32000000.00,1988-08-09 00:00:00,Brazil
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/pedro/profil/spieler/65278,Pedro,Right Winger,23000000.00,1987-07-28 00:00:00,Spain
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/bertrand-traore/profil/spieler/131996,Bertrand Traoré,Right Winger,4000000.00,1995-09-06 00:00:00,Burkina Faso
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/lucas-piazon/profil/spieler/176485,Lucas Piazon,Right Winger,3000000.00,1994-01-20 00:00:00,Brazil
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/diego-costa/profil/spieler/44779,Diego Costa,Centre-Forward,45000000.00,1988-10-07 00:00:00,Spain
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/falcao/profil/spieler/39152,Falcao,Centre-Forward,23000000.00,1986-02-10 00:00:00,Colombia
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/alexandre-pato/profil/spieler/37579,Alexandre Pato,Centre-Forward,11000000.00,1989-09-02 00:00:00,Brazil
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/loic-remy/profil/spieler/45121,Loïc Rémy,Centre-Forward,10000000.00,1987-01-02 00:00:00,France
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/patrick-bamford/profil/spieler/183334,Patrick Bamford,Centre-Forward,5000000.00,1993-09-05 00:00:00,England
+https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2015,/tammy-abraham/profil/spieler/331726,Tammy Abraham,Centre-Forward,-1,1997-10-02 00:00:00,England
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/joe-hart/profil/spieler/40204,Joe Hart,Goalkeeper,17000000.00,1987-04-19 00:00:00,England
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/willy-caballero/profil/spieler/19948,Willy Caballero,Goalkeeper,3000000.00,1981-09-28 00:00:00,Argentina
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/richard-wright/profil/spieler/3120,Richard Wright,Goalkeeper,250000,1977-11-05 00:00:00,England
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/nicolas-otamendi/profil/spieler/54781,Nicolás Otamendi,Centre-Back,32000000.00,1988-02-12 00:00:00,Argentina
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/vincent-kompany/profil/spieler/9594,Vincent Kompany,Centre-Back,30000000.00,1986-04-10 00:00:00,Belgium
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/eliaquim-mangala/profil/spieler/90681,Eliaquim Mangala,Centre-Back,23000000.00,1991-02-13 00:00:00,France
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/jason-denayer/profil/spieler/277114,Jason Denayer,Centre-Back,4000000.00,1995-06-28 00:00:00,Belgium
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/martin-demichelis/profil/spieler/2963,Martín Demichelis,Centre-Back,2000000.00,1980-12-20 00:00:00,Argentina
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/tosin-adarabioyo/profil/spieler/258878,Tosin Adarabioyo,Centre-Back,-1,1997-09-24 00:00:00,England
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/cameron-humphreys/profil/spieler/277723,Cameron Humphreys,Centre-Back,-1,1998-08-22 00:00:00,England
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/aleksandar-kolarov/profil/spieler/46156,Aleksandar Kolarov,Left-Back,11000000.00,1985-11-10 00:00:00,Serbia
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/gael-clichy/profil/spieler/7449,Gaël Clichy,Left-Back,9000000.00,1985-07-26 00:00:00,France
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/jesus-navas/profil/spieler/15956,Jesús Navas,Right-Back,20000000.00,1985-11-21 00:00:00,Spain
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/pablo-zabaleta/profil/spieler/20007,Pablo Zabaleta,Right-Back,14000000.00,1985-01-16 00:00:00,Argentina
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/bacary-sagna/profil/spieler/26764,Bacary Sagna,Right-Back,7000000.00,1983-02-14 00:00:00,France
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/pablo-maffeo/profil/spieler/251876,Pablo Maffeo,Right-Back,100000,1997-07-12 00:00:00,Spain
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/fernandinho/profil/spieler/26267,Fernandinho,Defensive Midfield,28000000.00,1985-05-04 00:00:00,Brazil
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/fernando-reges/profil/spieler/51174,Fernando Reges,Defensive Midfield,16000000.00,1987-07-25 00:00:00,Brazil
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/george-evans/profil/spieler/181498,George Evans,Defensive Midfield,500000,1994-12-13 00:00:00,England
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/luke-brattan/profil/spieler/114365,Luke Brattan,Defensive Midfield,500000,1990-03-08 00:00:00,Australia
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/george-glendon/profil/spieler/201570,George Glendon,Defensive Midfield,-1,1995-05-03 00:00:00,England
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/james-horsfield/profil/spieler/210202,James Horsfield,Defensive Midfield,-1,1995-11-30 00:00:00,England
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/yaya-toure/profil/spieler/13091,Yaya Touré,Central Midfield,20000000.00,1983-05-13 00:00:00,Cote d'Ivoire
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/fabian-delph/profil/spieler/50362,Fabian Delph,Central Midfield,10000000.00,1989-11-21 00:00:00,England
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/aleix-garcia/profil/spieler/261504,Aleix García,Central Midfield,-1,1997-06-28 00:00:00,Spain
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/angelino/profil/spieler/277179,Angeliño,Left Midfield,-1,1997-01-04 00:00:00,Spain
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/kevin-de-bruyne/profil/spieler/88755,Kevin De Bruyne,Attacking Midfield,60000000.00,1991-06-28 00:00:00,Belgium
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/david-silva/profil/spieler/35518,David Silva,Attacking Midfield,33000000.00,1986-01-08 00:00:00,Spain
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/samir-nasri/profil/spieler/18935,Samir Nasri,Attacking Midfield,21000000.00,1987-06-26 00:00:00,France
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/bersant-celina/profil/spieler/229695,Bersant Celina,Attacking Midfield,-1,1996-09-09 00:00:00,Kosovo
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/manu-garcia/profil/spieler/277118,Manu García,Attacking Midfield,-1,1998-01-02 00:00:00,Spain
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/raheem-sterling/profil/spieler/134425,Raheem Sterling,Left Winger,45000000.00,1994-12-08 00:00:00,England
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/brandon-barker/profil/spieler/214927,Brandon Barker,Left Winger,-1,1996-10-04 00:00:00,England
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/patrick-roberts/profil/spieler/225452,Patrick Roberts,Right Winger,5000000.00,1997-02-05 00:00:00,England
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/sergio-aguero/profil/spieler/26399,Sergio Agüero,Centre-Forward,60000000.00,1988-06-02 00:00:00,Argentina
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/wilfried-bony/profil/spieler/81808,Wilfried Bony,Centre-Forward,23000000.00,1988-12-10 00:00:00,Cote d'Ivoire
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/kelechi-iheanacho/profil/spieler/295330,Kelechi Iheanacho,Centre-Forward,5000000.00,1996-10-03 00:00:00,Nigeria
+https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2015,/david-faupala/profil/spieler/272624,David Faupala,Centre-Forward,-1,1997-02-11 00:00:00,France
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/petr-cech/profil/spieler/5658,Petr Cech,Goalkeeper,12000000.00,1982-05-20 00:00:00,Czech Republic
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/david-ospina/profil/spieler/73396,David Ospina,Goalkeeper,8000000.00,1988-08-31 00:00:00,Colombia
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/emiliano-martinez/profil/spieler/111873,Emiliano Martínez,Goalkeeper,1500000.00,1992-09-02 00:00:00,Argentina
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/matt-macey/profil/spieler/220491,Matt Macey,Goalkeeper,500000,1994-09-09 00:00:00,England
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/laurent-koscielny/profil/spieler/76277,Laurent Koscielny,Centre-Back,22000000.00,1985-09-10 00:00:00,France
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/per-mertesacker/profil/spieler/6710,Per Mertesacker,Centre-Back,13000000.00,1984-09-29 00:00:00,Germany
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/gabriel-paulista/profil/spieler/149498,Gabriel Paulista,Centre-Back,12000000.00,1990-11-26 00:00:00,Brazil
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/calum-chambers/profil/spieler/215118,Calum Chambers,Centre-Back,12000000.00,1995-01-20 00:00:00,England
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/nacho-monreal/profil/spieler/43003,Nacho Monreal,Left-Back,15000000.00,1986-02-26 00:00:00,Spain
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/kieran-gibbs/profil/spieler/44792,Kieran Gibbs,Left-Back,13000000.00,1989-09-26 00:00:00,England
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/hector-bellerin/profil/spieler/191217,Héctor Bellerín,Right-Back,18000000.00,1995-03-19 00:00:00,Spain
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/carl-jenkinson/profil/spieler/126321,Carl Jenkinson,Right-Back,9000000.00,1992-02-08 00:00:00,England
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/mathieu-debuchy/profil/spieler/27306,Mathieu Debuchy,Right-Back,7500000.00,1985-07-28 00:00:00,France
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/francis-coquelin/profil/spieler/74869,Francis Coquelin,Defensive Midfield,12000000.00,1991-05-13 00:00:00,France
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/mohamed-elneny/profil/spieler/160438,Mohamed Elneny,Defensive Midfield,6000000.00,1992-07-11 00:00:00,Egypt
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/mathieu-flamini/profil/spieler/17396,Mathieu Flamini,Defensive Midfield,4000000.00,1984-03-07 00:00:00,France
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/krystian-bielik/profil/spieler/287247,Krystian Bielik,Defensive Midfield,1500000.00,1998-01-04 00:00:00,Poland
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/isaac-hayden/profil/spieler/206225,Isaac Hayden,Defensive Midfield,500000,1995-03-22 00:00:00,England
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/ismael-bennacer/profil/spieler/351816,Ismaël Bennacer,Defensive Midfield,100000,1997-12-01 00:00:00,Algeria
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/glen-kamara/profil/spieler/242632,Glen Kamara,Defensive Midfield,-1,1995-10-28 00:00:00,Finland
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/ben-sheaf/profil/spieler/314384,Ben Sheaf,Defensive Midfield,-1,1998-02-05 00:00:00,England
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/aaron-ramsey/profil/spieler/50057,Aaron Ramsey,Central Midfield,30000000.00,1990-12-26 00:00:00,Wales
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/santi-cazorla/profil/spieler/15799,Santi Cazorla,Central Midfield,24000000.00,1984-12-13 00:00:00,Spain
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/jack-wilshere/profil/spieler/74223,Jack Wilshere,Central Midfield,23000000.00,1992-01-01 00:00:00,England
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/alex-oxlade-chamberlain/profil/spieler/143424,Alex Oxlade-Chamberlain,Central Midfield,20000000.00,1993-08-15 00:00:00,England
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/mikel-arteta/profil/spieler/7451,Mikel Arteta,Central Midfield,2000000.00,1982-03-26 00:00:00,Spain
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/mesut-ozil/profil/spieler/35664,Mesut Özil,Attacking Midfield,50000000.00,1988-10-15 00:00:00,Germany
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/jeff-reine-adelaide/profil/spieler/326300,Jeff Reine-Adélaïde,Attacking Midfield,1000000.00,1998-01-17 00:00:00,France
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/tomas-rosicky/profil/spieler/132,Tomas Rosicky,Attacking Midfield,1000000.00,1980-10-04 00:00:00,Czech Republic
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/jon-toral/profil/spieler/193593,Jon Toral,Attacking Midfield,750000,1995-02-05 00:00:00,Spain
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/alex-iwobi/profil/spieler/242631,Alex Iwobi,Left Winger,1000000.00,1996-05-03 00:00:00,Nigeria
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/chris-willock/profil/spieler/314341,Chris Willock,Left Winger,-1,1998-01-31 00:00:00,England
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/theo-walcott/profil/spieler/33713,Theo Walcott,Right Winger,25000000.00,1989-03-16 00:00:00,England
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/serge-gnabry/profil/spieler/159471,Serge Gnabry,Right Winger,3000000.00,1995-07-14 00:00:00,Germany
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/wellington-silva/profil/spieler/121990,Wellington Silva,Right Winger,2000000.00,1993-01-06 00:00:00,Brazil
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/alexis-sanchez/profil/spieler/40433,Alexis Sánchez,Centre-Forward,55000000.00,1988-12-19 00:00:00,Chile
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/olivier-giroud/profil/spieler/82442,Olivier Giroud,Centre-Forward,25000000.00,1986-09-30 00:00:00,France
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/danny-welbeck/profil/spieler/67063,Danny Welbeck,Centre-Forward,17000000.00,1990-11-26 00:00:00,England
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/joel-campbell/profil/spieler/131248,Joel Campbell,Centre-Forward,8000000.00,1992-06-26 00:00:00,Costa Rica
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/yaya-sanogo/profil/spieler/127194,Yaya Sanogo,Centre-Forward,1500000.00,1993-01-27 00:00:00,France
+https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2015,/chuba-akpom/profil/spieler/197642,Chuba Akpom,Centre-Forward,1000000.00,1995-10-09 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/david-de-gea/profil/spieler/59377,David de Gea,Goalkeeper,40000000.00,1990-11-07 00:00:00,Spain
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/sergio-romero/profil/spieler/30690,Sergio Romero,Goalkeeper,5000000.00,1987-02-22 00:00:00,Argentina
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/victor-valdes/profil/spieler/7589,Víctor Valdés,Goalkeeper,3500000.00,1982-01-14 00:00:00,Spain
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/sam-johnstone/profil/spieler/110864,Sam Johnstone,Goalkeeper,250000,1993-03-25 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/joel-pereira/profil/spieler/192611,Joel Pereira,Goalkeeper,-1,1996-06-28 00:00:00,Portugal
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/dean-henderson/profil/spieler/258919,Dean Henderson,Goalkeeper,-1,1997-03-12 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/chris-smalling/profil/spieler/103427,Chris Smalling,Centre-Back,20000000.00,1989-11-22 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/daley-blind/profil/spieler/12282,Daley Blind,Centre-Back,19000000.00,1990-03-09 00:00:00,Netherlands
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/marcos-rojo/profil/spieler/93176,Marcos Rojo,Centre-Back,18000000.00,1990-03-20 00:00:00,Argentina
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/phil-jones/profil/spieler/117996,Phil Jones,Centre-Back,15000000.00,1992-02-21 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/paddy-mcnair/profil/spieler/167268,Paddy McNair,Centre-Back,4500000.00,1995-04-27 00:00:00,Northern Ireland
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/ro-shaun-williams/profil/spieler/314388,Ro-Shaun Williams,Centre-Back,-1,1998-09-03 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/regan-poole/profil/spieler/340194,Regan Poole,Centre-Back,-1,1998-06-18 00:00:00,Wales
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/axel-tuanzebe/profil/spieler/342046,Axel Tuanzebe,Centre-Back,-1,1997-11-14 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/luke-shaw/profil/spieler/183288,Luke Shaw,Left-Back,21000000.00,1995-07-12 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/cameron-borthwick-jackson/profil/spieler/258879,Cameron Borthwick-Jackson,Left-Back,1500000.00,1997-02-02 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/tyler-blackett/profil/spieler/134414,Tyler Blackett,Left-Back,1000000.00,1994-04-02 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/matteo-darmian/profil/spieler/54906,Matteo Darmian,Right-Back,15000000.00,1989-12-02 00:00:00,Italy
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/antonio-valencia/profil/spieler/33544,Antonio Valencia,Right-Back,8000000.00,1985-08-04 00:00:00,Ecuador
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/guillermo-varela/profil/spieler/188862,Guillermo Varela,Right-Back,500000,1993-03-24 00:00:00,Uruguay
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/donald-love/profil/spieler/179451,Donald Love,Right-Back,-1,1994-12-02 00:00:00,Scotland
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/timothy-fosu-mensah/profil/spieler/315131,Timothy Fosu-Mensah,Right-Back,-1,1998-01-02 00:00:00,Netherlands
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/morgan-schneiderlin/profil/spieler/56818,Morgan Schneiderlin,Defensive Midfield,30000000.00,1989-11-08 00:00:00,France
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/michael-carrick/profil/spieler/3878,Michael Carrick,Defensive Midfield,4000000.00,1981-07-28 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/ander-herrera/profil/spieler/99343,Ander Herrera,Central Midfield,28000000.00,1989-08-14 00:00:00,Spain
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/marouane-fellaini/profil/spieler/39679,Marouane Fellaini,Central Midfield,15000000.00,1987-11-22 00:00:00,Belgium
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/bastian-schweinsteiger/profil/spieler/2514,Bastian Schweinsteiger,Central Midfield,12000000.00,1984-08-01 00:00:00,Germany
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/joe-rothwell/profil/spieler/183293,Joe Rothwell,Central Midfield,100000,1995-01-11 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/james-weir/profil/spieler/251058,James Weir,Central Midfield,-1,1995-08-04 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/sean-goss/profil/spieler/289843,Sean Goss,Central Midfield,-1,1995-10-01 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/joe-riley/profil/spieler/387036,Joe Riley,Central Midfield,-1,1996-12-06 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/ashley-young/profil/spieler/14086,Ashley Young,Left Midfield,10000000.00,1985-07-09 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/juan-mata/profil/spieler/44068,Juan Mata,Attacking Midfield,34000000.00,1988-04-28 00:00:00,Spain
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/jesse-lingard/profil/spieler/141660,Jesse Lingard,Attacking Midfield,5000000.00,1992-12-15 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/andreas-pereira/profil/spieler/203394,Andreas Pereira,Attacking Midfield,2000000.00,1996-01-01 00:00:00,Brazil
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/nick-powell/profil/spieler/134424,Nick Powell,Attacking Midfield,1500000.00,1994-03-23 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/marcus-rashford/profil/spieler/258923,Marcus Rashford,Left Winger,6000000.00,1997-10-31 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/adnan-januzaj/profil/spieler/177847,Adnan Januzaj,Right Winger,7000000.00,1995-02-05 00:00:00,Belgium
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/wayne-rooney/profil/spieler/3332,Wayne Rooney,Centre-Forward,35000000.00,1985-10-24 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/anthony-martial/profil/spieler/182877,Anthony Martial,Centre-Forward,32000000.00,1995-12-05 00:00:00,France
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/memphis-depay/profil/spieler/167850,Memphis Depay,Centre-Forward,25000000.00,1994-02-13 00:00:00,Netherlands
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/chicharito/profil/spieler/50935,Chicharito,Centre-Forward,18000000.00,1988-06-01 00:00:00,Mexico
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/james-wilson/profil/spieler/214104,James Wilson,Centre-Forward,2000000.00,1995-12-01 00:00:00,England
+https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2015,/will-keane/profil/spieler/118535,Will Keane,Centre-Forward,1000000.00,1993-01-11 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/simon-mignolet/profil/spieler/50219,Simon Mignolet,Goalkeeper,12000000.00,1988-03-06 00:00:00,Belgium
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/adam-bogdan/profil/spieler/55247,Ádám Bogdán,Goalkeeper,2000000.00,1987-09-27 00:00:00,Hungary
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/danny-ward/profil/spieler/203026,Danny Ward,Goalkeeper,1500000.00,1993-06-22 00:00:00,Wales
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/lawrence-vigouroux/profil/spieler/243591,Lawrence Vigouroux,Goalkeeper,100000,1993-11-19 00:00:00,Chile
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/ryan-fulton/profil/spieler/193861,Ryan Fulton,Goalkeeper,-1,1996-05-23 00:00:00,Scotland
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/mamadou-sakho/profil/spieler/47713,Mamadou Sakho,Centre-Back,18000000.00,1990-02-13 00:00:00,France
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/emre-can/profil/spieler/119296,Emre Can,Centre-Back,18000000.00,1994-01-12 00:00:00,Germany
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/dejan-lovren/profil/spieler/37838,Dejan Lovren,Centre-Back,13000000.00,1989-07-05 00:00:00,Croatia
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/martin-skrtel/profil/spieler/24180,Martin Skrtel,Centre-Back,10000000.00,1984-12-15 00:00:00,Slovakia
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/steven-caulker/profil/spieler/121280,Steven Caulker,Centre-Back,7500000.00,1991-12-29 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/tiago-ilori/profil/spieler/177859,Tiago Ilori,Centre-Back,4000000.00,1993-02-26 00:00:00,Portugal
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/joe-gomez/profil/spieler/256178,Joe Gomez,Centre-Back,3500000.00,1997-05-23 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/kolo-toure/profil/spieler/3202,Kolo Touré,Centre-Back,2000000.00,1981-03-19 00:00:00,Cote d'Ivoire
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/dan-cleary/profil/spieler/264193,Dan Cleary,Centre-Back,-1,1996-03-09 00:00:00,Ireland
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/conor-masterson/profil/spieler/293784,Conor Masterson,Centre-Back,-1,1998-09-08 00:00:00,Ireland
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/alberto-moreno/profil/spieler/207917,Alberto Moreno,Left-Back,15000000.00,1992-07-05 00:00:00,Spain
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/jose-enrique/profil/spieler/35571,José Enrique,Left-Back,1500000.00,1986-01-23 00:00:00,Spain
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/brad-smith/profil/spieler/175745,Brad Smith,Left-Back,100000,1994-04-09 00:00:00,Australia
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/joe-maguire/profil/spieler/263556,Joe Maguire,Left-Back,-1,1996-01-18 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/nathaniel-clyne/profil/spieler/85177,Nathaniel Clyne,Right-Back,21000000.00,1991-04-05 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/jon-flanagan/profil/spieler/145922,Jon Flanagan,Right-Back,7000000.00,1993-01-01 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/andre-wisdom/profil/spieler/128912,Andre Wisdom,Right-Back,4000000.00,1993-05-09 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/connor-randall/profil/spieler/262545,Connor Randall,Right-Back,250000,1995-10-21 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/lucas-leiva/profil/spieler/41414,Lucas Leiva,Defensive Midfield,12000000.00,1987-01-09 00:00:00,Brazil
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/kevin-stewart/profil/spieler/200782,Kevin Stewart,Defensive Midfield,500000,1993-09-07 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/pedro-chirivella/profil/spieler/242273,Pedro Chirivella,Defensive Midfield,100000,1997-05-23 00:00:00,Spain
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/jordan-henderson/profil/spieler/61651,Jordan Henderson,Central Midfield,28000000.00,1990-06-17 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/james-milner/profil/spieler/3333,James Milner,Central Midfield,15000000.00,1986-01-04 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/joe-allen/profil/spieler/51452,Joe Allen,Central Midfield,8000000.00,1990-03-14 00:00:00,Wales
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/jordan-rossiter/profil/spieler/258924,Jordan Rossiter,Central Midfield,750000,1997-03-24 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/cameron-brannagan/profil/spieler/261357,Cameron Brannagan,Central Midfield,-1,1996-05-09 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/philippe-coutinho/profil/spieler/80444,Philippe Coutinho,Attacking Midfield,32000000.00,1992-06-12 00:00:00,Brazil
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/adam-lallana/profil/spieler/43530,Adam Lallana,Attacking Midfield,19000000.00,1988-05-10 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/joao-carlos-teixeira/profil/spieler/132214,João Carlos Teixeira,Attacking Midfield,1000000.00,1993-01-18 00:00:00,Portugal
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/ryan-kent/profil/spieler/279457,Ryan Kent,Left Winger,100000,1996-11-11 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/jordon-ibe/profil/spieler/195652,Jordon Ibe,Right Winger,7000000.00,1995-12-08 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/sergi-canos/profil/spieler/251845,Sergi Canós,Right Winger,750000,1997-02-02 00:00:00,Spain
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/sheyi-ojo/profil/spieler/236510,Sheyi Ojo,Right Winger,500000,1997-06-19 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/roberto-firmino/profil/spieler/131789,Roberto Firmino,Centre-Forward,35000000.00,1991-10-02 00:00:00,Brazil
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/christian-benteke/profil/spieler/50201,Christian Benteke,Centre-Forward,27000000.00,1990-12-03 00:00:00,Belgium
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/daniel-sturridge/profil/spieler/47082,Daniel Sturridge,Centre-Forward,25000000.00,1989-09-01 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/danny-ings/profil/spieler/134294,Danny Ings,Centre-Forward,12000000.00,1992-07-23 00:00:00,England
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/divock-origi/profil/spieler/148368,Divock Origi,Centre-Forward,11000000.00,1995-04-18 00:00:00,Belgium
+https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2015,/jerome-sinclair/profil/spieler/236513,Jerome Sinclair,Centre-Forward,100000,1996-09-20 00:00:00,England
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/hugo-lloris/profil/spieler/17965,Hugo Lloris,Goalkeeper,24000000.00,1986-12-26 00:00:00,France
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/michel-vorm/profil/spieler/26276,Michel Vorm,Goalkeeper,5000000.00,1983-10-20 00:00:00,Netherlands
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/luke-mcgee/profil/spieler/183301,Luke McGee,Goalkeeper,-1,1995-09-02 00:00:00,England
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/toby-alderweireld/profil/spieler/42710,Toby Alderweireld,Centre-Back,27000000.00,1989-03-02 00:00:00,Belgium
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/jan-vertonghen/profil/spieler/43250,Jan Vertonghen,Centre-Back,23000000.00,1987-04-24 00:00:00,Belgium
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/eric-dier/profil/spieler/175722,Eric Dier,Centre-Back,18000000.00,1994-01-15 00:00:00,England
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/federico-fazio/profil/spieler/45314,Federico Fazio,Centre-Back,8000000.00,1987-03-17 00:00:00,Argentina
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/kevin-wimmer/profil/spieler/122675,Kevin Wimmer,Centre-Back,7000000.00,1992-11-15 00:00:00,Austria
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/cameron-carter-vickers/profil/spieler/341049,Cameron Carter-Vickers,Centre-Back,-1,1997-12-31 00:00:00,United States
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/danny-rose/profil/spieler/50174,Danny Rose,Left-Back,14000000.00,1990-07-02 00:00:00,England
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/ben-davies/profil/spieler/192765,Ben Davies,Left-Back,8000000.00,1993-04-24 00:00:00,Wales
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/kyle-walker/profil/spieler/95424,Kyle Walker,Right-Back,15000000.00,1990-05-28 00:00:00,England
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/kieran-trippier/profil/spieler/95810,Kieran Trippier,Right-Back,6000000.00,1990-09-19 00:00:00,England
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/deandre-yedlin/profil/spieler/255916,DeAndre Yedlin,Right-Back,1500000.00,1993-07-09 00:00:00,United States
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/kyle-walker-peters/profil/spieler/341051,Kyle Walker-Peters,Right-Back,-1,1997-04-13 00:00:00,England
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/harry-winks/profil/spieler/249126,Harry Winks,Defensive Midfield,-1,1996-02-02 00:00:00,England
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/mousa-dembele/profil/spieler/19368,Mousa Dembélé,Central Midfield,18000000.00,1987-07-16 00:00:00,Belgium
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/nabil-bentaleb/profil/spieler/245537,Nabil Bentaleb,Central Midfield,10000000.00,1994-11-24 00:00:00,Algeria
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/ryan-mason/profil/spieler/61834,Ryan Mason,Central Midfield,7500000.00,1991-06-13 00:00:00,England
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/tom-carroll/profil/spieler/121279,Tom Carroll,Central Midfield,5000000.00,1992-05-28 00:00:00,England
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/grant-ward/profil/spieler/283655,Grant Ward,Right Midfield,350000,1994-12-05 00:00:00,England
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/christian-eriksen/profil/spieler/69633,Christian Eriksen,Attacking Midfield,29000000.00,1992-02-14 00:00:00,Denmark
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/dele-alli/profil/spieler/207929,Dele Alli,Attacking Midfield,20000000.00,1996-04-11 00:00:00,England
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/alex-pritchard/profil/spieler/200777,Alex Pritchard,Attacking Midfield,3000000.00,1993-05-03 00:00:00,England
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/josh-onomah/profil/spieler/243589,Josh Onomah,Attacking Midfield,1500000.00,1997-04-27 00:00:00,England
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/heung-min-son/profil/spieler/91845,Heung-min Son,Left Winger,25000000.00,1992-07-08 00:00:00,"Korea, South"
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/nacer-chadli/profil/spieler/59631,Nacer Chadli,Left Winger,13000000.00,1989-08-02 00:00:00,Belgium
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/erik-lamela/profil/spieler/111630,Erik Lamela,Right Winger,24000000.00,1992-03-04 00:00:00,Argentina
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/clinton-njie/profil/spieler/241119,Clinton N'Jie,Right Winger,10000000.00,1993-08-15 00:00:00,Cameroon
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/andros-townsend/profil/spieler/61842,Andros Townsend,Right Winger,9000000.00,1991-07-16 00:00:00,England
+https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2015,/harry-kane/profil/spieler/132098,Harry Kane,Centre-Forward,40000000.00,1993-07-28 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/joel-robles/profil/spieler/101118,Joel Robles,Goalkeeper,3000000.00,1990-06-17 00:00:00,Spain
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/tim-howard/profil/spieler/4267,Tim Howard,Goalkeeper,2000000.00,1979-03-06 00:00:00,United States
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/jindrich-stanek/profil/spieler/242089,Jindrich Stanek,Goalkeeper,100000,1996-04-27 00:00:00,Czech Republic
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/john-stones/profil/spieler/186590,John Stones,Centre-Back,28000000.00,1994-05-28 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/ramiro-funes-mori/profil/spieler/11111,Ramiro Funes Mori,Centre-Back,10000000.00,1991-03-05 00:00:00,Argentina
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/phil-jagielka/profil/spieler/13520,Phil Jagielka,Centre-Back,4500000.00,1982-08-17 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/mason-holgate/profil/spieler/348623,Mason Holgate,Centre-Back,1000000.00,1996-10-22 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/tyias-browning/profil/spieler/156934,Tyias Browning,Centre-Back,1000000.00,1994-05-27 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/matthew-pennington/profil/spieler/220755,Matthew Pennington,Centre-Back,-1,1994-10-06 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/leighton-baines/profil/spieler/13507,Leighton Baines,Left-Back,17000000.00,1984-12-11 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/bryan-oviedo/profil/spieler/124983,Bryan Oviedo,Left-Back,3000000.00,1990-02-18 00:00:00,Costa Rica
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/brendan-galloway/profil/spieler/208244,Brendan Galloway,Left-Back,3000000.00,1996-03-17 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/luke-garbutt/profil/spieler/110860,Luke Garbutt,Left-Back,2000000.00,1993-05-21 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/seamus-coleman/profil/spieler/68390,Seamus Coleman,Right-Back,17000000.00,1988-10-11 00:00:00,Ireland
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/tony-hibbert/profil/spieler/3614,Tony Hibbert,Right-Back,500000,1981-02-20 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/felipe-mattioni/profil/spieler/52432,Felipe Mattioni,Right-Back,500000,1988-10-15 00:00:00,Brazil
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/jonjoe-kenny/profil/spieler/258883,Jonjoe Kenny,Right-Back,-1,1997-03-15 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/muhamed-besic/profil/spieler/93905,Muhamed Besic,Defensive Midfield,6000000.00,1992-09-10 00:00:00,Bosnia-Herzegovina
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/gareth-barry/profil/spieler/3291,Gareth Barry,Defensive Midfield,2500000.00,1981-02-23 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/callum-connolly/profil/spieler/308632,Callum Connolly,Defensive Midfield,-1,1997-09-23 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/ross-barkley/profil/spieler/131978,Ross Barkley,Central Midfield,22000000.00,1993-12-05 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/james-mccarthy/profil/spieler/45333,James McCarthy,Central Midfield,17000000.00,1990-11-12 00:00:00,Ireland
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/tom-cleverley/profil/spieler/73484,Tom Cleverley,Central Midfield,9000000.00,1989-08-12 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/darron-gibson/profil/spieler/42413,Darron Gibson,Central Midfield,2500000.00,1987-10-25 00:00:00,Ireland
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/leon-osman/profil/spieler/3620,Leon Osman,Central Midfield,1000000.00,1981-05-17 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/conor-grant/profil/spieler/218355,Conor Grant,Central Midfield,-1,1995-04-18 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/tom-davies/profil/spieler/314210,Tom Davies,Central Midfield,-1,1998-06-30 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/kieran-dowell/profil/spieler/258916,Kieran Dowell,Attacking Midfield,-1,1997-10-10 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/gerard-deulofeu/profil/spieler/129476,Gerard Deulofeu,Left Winger,9000000.00,1994-03-13 00:00:00,Spain
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/aiden-mcgeady/profil/spieler/21333,Aiden McGeady,Left Winger,4500000.00,1986-04-04 00:00:00,Ireland
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/steven-pienaar/profil/spieler/4321,Steven Pienaar,Left Winger,1500000.00,1982-03-17 00:00:00,South Africa
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/kevin-mirallas/profil/spieler/33639,Kevin Mirallas,Right Winger,13000000.00,1987-10-05 00:00:00,Belgium
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/aaron-lennon/profil/spieler/14221,Aaron Lennon,Right Winger,6000000.00,1987-04-16 00:00:00,England
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/steven-naismith/profil/spieler/12763,Steven Naismith,Second Striker,6000000.00,1986-09-14 00:00:00,Scotland
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/romelu-lukaku/profil/spieler/96341,Romelu Lukaku,Centre-Forward,40000000.00,1993-05-13 00:00:00,Belgium
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/oumar-niasse/profil/spieler/209781,Oumar Niasse,Centre-Forward,13000000.00,1990-04-18 00:00:00,Senegal
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/arouna-kone/profil/spieler/8552,Arouna Koné,Centre-Forward,2500000.00,1983-11-11 00:00:00,Cote d'Ivoire
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/leandro-rodriguez/profil/spieler/238988,Leandro Rodríguez,Centre-Forward,1500000.00,1992-11-19 00:00:00,Uruguay
+https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2015,/conor-mcaleny/profil/spieler/121260,Conor McAleny,Centre-Forward,250000,1992-08-12 00:00:00,England
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/tim-krul/profil/spieler/33027,Tim Krul,Goalkeeper,8000000.00,1988-04-03 00:00:00,Netherlands
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/karl-darlow/profil/spieler/99397,Karl Darlow,Goalkeeper,2500000.00,1990-10-08 00:00:00,England
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/rob-elliot/profil/spieler/39037,Rob Elliot,Goalkeeper,1500000.00,1986-04-30 00:00:00,Ireland
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/freddie-woodman/profil/spieler/226049,Freddie Woodman,Goalkeeper,250000,1997-03-04 00:00:00,England
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/chancel-mbemba/profil/spieler/203348,Chancel Mbemba,Centre-Back,10000000.00,1994-08-08 00:00:00,DR Congo
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/daryl-janmaat/profil/spieler/60744,Daryl Janmaat,Centre-Back,7500000.00,1989-07-22 00:00:00,Netherlands
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/jamaal-lascelles/profil/spieler/183318,Jamaal Lascelles,Centre-Back,3000000.00,1993-11-11 00:00:00,England
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/fabricio-coloccini/profil/spieler/6150,Fabricio Coloccini,Centre-Back,2000000.00,1982-01-22 00:00:00,Argentina
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/mike-williamson/profil/spieler/10642,Mike Williamson,Centre-Back,1500000.00,1983-11-08 00:00:00,England
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/steven-taylor/profil/spieler/17273,Steven Taylor,Centre-Back,1500000.00,1986-01-23 00:00:00,England
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/curtis-good/profil/spieler/179471,Curtis Good,Centre-Back,500000,1993-03-23 00:00:00,Australia
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/paul-dummett/profil/spieler/170321,Paul Dummett,Left-Back,3500000.00,1991-09-26 00:00:00,Wales
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/massadio-haidara/profil/spieler/170929,Massadio Haidara,Left-Back,1500000.00,1992-12-02 00:00:00,Mali
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/liam-gibson/profil/spieler/312553,Liam Gibson,Left-Back,-1,1997-04-25 00:00:00,England
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/kevin-mbabu/profil/spieler/183321,Kevin Mbabu,Right-Back,250000,1995-04-19 00:00:00,Switzerland
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/jamie-sterry/profil/spieler/250431,Jamie Sterry,Right-Back,-1,1995-11-21 00:00:00,England
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/callum-williams/profil/spieler/312533,Callum Williams,Right-Back,-1,1997-02-04 00:00:00,England
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/jack-colback/profil/spieler/61644,Jack Colback,Defensive Midfield,7500000.00,1989-10-24 00:00:00,England
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/cheik-tiote/profil/spieler/33478,Cheik Tioté,Defensive Midfield,6000000.00,1986-06-21 00:00:00,Cote d'Ivoire
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/vurnon-anita/profil/spieler/30670,Vurnon Anita,Defensive Midfield,4000000.00,1989-04-04 00:00:00,Curacao
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/georginio-wijnaldum/profil/spieler/49499,Georginio Wijnaldum,Central Midfield,20000000.00,1990-11-11 00:00:00,Netherlands
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/moussa-sissoko/profil/spieler/46001,Moussa Sissoko,Central Midfield,13000000.00,1989-08-16 00:00:00,France
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/jonjo-shelvey/profil/spieler/71292,Jonjo Shelvey,Central Midfield,12000000.00,1992-02-27 00:00:00,England
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/gael-bigirimana/profil/spieler/158697,Gaël Bigirimana,Central Midfield,750000,1993-10-22 00:00:00,Burundi
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/dan-barlaser/profil/spieler/256773,Dan Barlaser,Central Midfield,-1,1997-01-18 00:00:00,England
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/siem-de-jong/profil/spieler/45509,Siem de Jong,Attacking Midfield,7000000.00,1989-01-28 00:00:00,Netherlands
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/henri-saivet/profil/spieler/51540,Henri Saivet,Attacking Midfield,5000000.00,1990-10-26 00:00:00,Senegal
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/yoan-gouffran/profil/spieler/23825,Yoan Gouffran,Attacking Midfield,4000000.00,1986-05-25 00:00:00,France
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/sylvain-marveaux/profil/spieler/39909,Sylvain Marveaux,Attacking Midfield,1500000.00,1986-04-15 00:00:00,France
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/gabriel-obertan/profil/spieler/43261,Gabriel Obertan,Attacking Midfield,1000000.00,1989-02-26 00:00:00,France
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/sammy-ameobi/profil/spieler/92381,Sammy Ameobi,Left Winger,5000000.00,1992-05-01 00:00:00,England
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/rolando-aarons/profil/spieler/258188,Rolando Aarons,Left Winger,1000000.00,1995-11-16 00:00:00,England
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/florian-thauvin/profil/spieler/184892,Florian Thauvin,Right Winger,9000000.00,1993-01-26 00:00:00,France
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/andros-townsend/profil/spieler/61842,Andros Townsend,Right Winger,9000000.00,1991-07-16 00:00:00,England
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/ayoze-perez/profil/spieler/246968,Ayoze Pérez,Second Striker,8000000.00,1993-07-29 00:00:00,Spain
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/aleksandar-mitrovic/profil/spieler/51152,Aleksandar Mitrovic,Centre-Forward,14000000.00,1994-09-16 00:00:00,Serbia
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/seydou-doumbia/profil/spieler/75287,Seydou Doumbia,Centre-Forward,12000000.00,1987-12-31 00:00:00,Cote d'Ivoire
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/papiss-demba-cisse/profil/spieler/33952,Papiss Demba Cissé,Centre-Forward,7500000.00,1985-06-03 00:00:00,Senegal
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/emmanuel-riviere/profil/spieler/61637,Emmanuel Rivière,Centre-Forward,5000000.00,1990-03-03 00:00:00,Martinique
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/adam-armstrong/profil/spieler/250426,Adam Armstrong,Centre-Forward,1000000.00,1997-02-10 00:00:00,England
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/haris-vuckic/profil/spieler/76560,Haris Vuckic,Centre-Forward,750000,1992-08-21 00:00:00,Slovenia
+https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2015,/ivan-toney/profil/spieler/251664,Ivan Toney,Centre-Forward,500000,1996-03-16 00:00:00,England
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/fraser-forster/profil/spieler/52570,Fraser Forster,Goalkeeper,15000000.00,1988-03-17 00:00:00,England
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/maarten-stekelenburg/profil/spieler/4311,Maarten Stekelenburg,Goalkeeper,1000000.00,1982-09-22 00:00:00,Netherlands
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/paulo-gazzaniga/profil/spieler/195488,Paulo Gazzaniga,Goalkeeper,1000000.00,1992-01-02 00:00:00,Argentina
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/kelvin-davis/profil/spieler/13640,Kelvin Davis,Goalkeeper,250000,1976-09-29 00:00:00,England
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/virgil-van-dijk/profil/spieler/139208,Virgil van Dijk,Centre-Back,12000000.00,1991-07-08 00:00:00,Netherlands
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/steven-caulker/profil/spieler/121280,Steven Caulker,Centre-Back,7500000.00,1991-12-29 00:00:00,England
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/florin-gardos/profil/spieler/57423,Florin Gardos,Centre-Back,5000000.00,1988-10-29 00:00:00,Romania
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/jose-fonte/profil/spieler/33829,José Fonte,Centre-Back,5000000.00,1983-12-22 00:00:00,Portugal
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/maya-yoshida/profil/spieler/81789,Maya Yoshida,Centre-Back,4000000.00,1988-08-24 00:00:00,Japan
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/jack-stephens/profil/spieler/163744,Jack Stephens,Centre-Back,250000,1994-01-27 00:00:00,England
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/jordan-turnbull/profil/spieler/226978,Jordan Turnbull,Centre-Back,250000,1994-10-31 00:00:00,England
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/ryan-bertrand/profil/spieler/40611,Ryan Bertrand,Left-Back,14000000.00,1989-08-05 00:00:00,England
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/matt-targett/profil/spieler/250478,Matt Targett,Left-Back,3000000.00,1995-09-18 00:00:00,England
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/sam-mcqueen/profil/spieler/226968,Sam McQueen,Left-Back,-1,1995-02-06 00:00:00,England
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/cedric-soares/profil/spieler/112988,Cédric Soares,Right-Back,11000000.00,1991-08-31 00:00:00,Portugal
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/cuco-martina/profil/spieler/91251,Cuco Martina,Right-Back,2000000.00,1989-09-25 00:00:00,Curacao
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/jason-mccarthy/profil/spieler/227185,Jason McCarthy,Right-Back,-1,1995-11-07 00:00:00,England
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/victor-wanyama/profil/spieler/77760,Victor Wanyama,Defensive Midfield,15000000.00,1991-06-25 00:00:00,Kenya
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/jordy-clasie/profil/spieler/104223,Jordy Clasie,Defensive Midfield,11000000.00,1991-06-27 00:00:00,Netherlands
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/oriol-romeu/profil/spieler/66100,Oriol Romeu,Defensive Midfield,5000000.00,1991-09-24 00:00:00,Spain
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/james-ward-prowse/profil/spieler/181579,James Ward-Prowse,Central Midfield,11000000.00,1994-11-01 00:00:00,England
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/steven-davis/profil/spieler/28973,Steven Davis,Central Midfield,6000000.00,1985-01-01 00:00:00,Northern Ireland
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/harrison-reed/profil/spieler/226973,Harrison Reed,Central Midfield,1500000.00,1995-01-27 00:00:00,England
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/gaston-ramirez/profil/spieler/123742,Gastón Ramírez,Attacking Midfield,5000000.00,1990-12-02 00:00:00,Uruguay
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/sadio-mane/profil/spieler/200512,Sadio Mané,Left Winger,20000000.00,1992-04-10 00:00:00,Senegal
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/dusan-tadic/profil/spieler/36139,Dusan Tadic,Left Winger,15000000.00,1988-11-20 00:00:00,Serbia
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/lloyd-isgrove/profil/spieler/226965,Lloyd Isgrove,Left Winger,250000,1993-01-12 00:00:00,Wales
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/juanmi/profil/spieler/126737,Juanmi,Right Winger,7000000.00,1993-05-20 00:00:00,Spain
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/jay-rodriguez/profil/spieler/53360,Jay Rodríguez,Centre-Forward,13000000.00,1989-07-29 00:00:00,England
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/charlie-austin/profil/spieler/129627,Charlie Austin,Centre-Forward,13000000.00,1989-07-05 00:00:00,England
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/graziano-pelle/profil/spieler/29594,Graziano Pellè,Centre-Forward,11000000.00,1985-07-15 00:00:00,Italy
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/shane-long/profil/spieler/37304,Shane Long,Centre-Forward,10000000.00,1987-01-22 00:00:00,Ireland
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/sam-gallagher/profil/spieler/227183,Sam Gallagher,Centre-Forward,500000,1995-09-15 00:00:00,England
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/ryan-seager/profil/spieler/247647,Ryan Seager,Centre-Forward,-1,1996-02-05 00:00:00,England
+https://www.transfermarkt.com/fc-southampton/startseite/verein/180/saison_id/2015,/olufela-olomola/profil/spieler/356569,Olufela Olomola,Centre-Forward,-1,1997-09-05 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/adrian/profil/spieler/71271,Adrián,Goalkeeper,7000000.00,1987-01-03 00:00:00,Spain
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/darren-randolph/profil/spieler/51321,Darren Randolph,Goalkeeper,1000000.00,1987-05-12 00:00:00,Ireland
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/raphael-spiegel/profil/spieler/111428,Raphael Spiegel,Goalkeeper,500000,1992-12-19 00:00:00,Switzerland
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/sam-howes/profil/spieler/258023,Sam Howes,Goalkeeper,-1,1997-11-10 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/cheikhou-kouyate/profil/spieler/66934,Cheikhou Kouyaté,Centre-Back,11000000.00,1989-12-21 00:00:00,Senegal
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/winston-reid/profil/spieler/37526,Winston Reid,Centre-Back,9000000.00,1988-07-03 00:00:00,New Zealand
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/angelo-ogbonna/profil/spieler/48002,Angelo Ogbonna,Centre-Back,9000000.00,1988-05-23 00:00:00,Italy
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/james-tomkins/profil/spieler/61592,James Tomkins,Centre-Back,6000000.00,1989-03-29 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/james-collins/profil/spieler/12691,James Collins,Centre-Back,2000000.00,1983-08-23 00:00:00,Wales
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/reece-oxford/profil/spieler/314295,Reece Oxford,Centre-Back,1500000.00,1998-12-16 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/reece-burke/profil/spieler/264220,Reece Burke,Centre-Back,1000000.00,1996-09-02 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/doneil-henry/profil/spieler/157907,Doneil Henry,Centre-Back,500000,1993-04-20 00:00:00,Canada
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/leo-chambers/profil/spieler/183281,Leo Chambers,Centre-Back,250000,1995-08-05 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/josh-pask/profil/spieler/339789,Josh Pask,Centre-Back,-1,1997-11-01 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/aaron-cresswell/profil/spieler/92571,Aaron Cresswell,Left-Back,10000000.00,1989-12-15 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/stephen-hendrie/profil/spieler/186269,Stephen Hendrie,Left-Back,1000000.00,1995-01-08 00:00:00,Scotland
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/nathan-mavila/profil/spieler/242646,Nathan Mavila,Left-Back,-1,1995-10-15 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/lewis-page/profil/spieler/242652,Lewis Page,Left-Back,-1,1996-05-20 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/carl-jenkinson/profil/spieler/126321,Carl Jenkinson,Right-Back,9000000.00,1992-02-08 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/sam-byram/profil/spieler/236953,Sam Byram,Right-Back,4500000.00,1993-09-16 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/joey-obrien/profil/spieler/34672,Joey O'Brien,Right-Back,1500000.00,1986-02-17 00:00:00,Ireland
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/sam-westley/profil/spieler/258311,Sam Westley,Right-Back,25000,1994-02-04 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/kyle-knoyle/profil/spieler/291171,Kyle Knoyle,Right-Back,-1,1996-09-24 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/alex-pike/profil/spieler/345960,Alex Pike,Right-Back,-1,1997-02-08 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/alex-song/profil/spieler/27394,Alex Song,Defensive Midfield,10000000.00,1987-09-09 00:00:00,Cameroon
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/amos-nasha/profil/spieler/242648,Amos Nasha,Defensive Midfield,-1,1995-09-04 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/george-dobson/profil/spieler/292734,George Dobson,Defensive Midfield,-1,1997-11-15 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/pedro-obiang/profil/spieler/101213,Pedro Obiang,Central Midfield,8000000.00,1992-03-27 00:00:00,Equatorial Guinea
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/mark-noble/profil/spieler/31835,Mark Noble,Central Midfield,7000000.00,1987-05-08 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/diego-poyet/profil/spieler/183286,Diego Poyet,Central Midfield,750000,1995-04-08 00:00:00,Uruguay
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/josh-cullen/profil/spieler/242606,Josh Cullen,Central Midfield,-1,1996-04-07 00:00:00,Ireland
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/victor-moses/profil/spieler/59866,Victor Moses,Right Midfield,7500000.00,1990-12-12 00:00:00,Nigeria
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/manuel-lanzini/profil/spieler/135853,Manuel Lanzini,Attacking Midfield,9000000.00,1993-02-15 00:00:00,Argentina
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/kevin-nolan/profil/spieler/3950,Kevin Nolan,Attacking Midfield,2000000.00,1982-06-24 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/marcus-browne/profil/spieler/391470,Marcus Browne,Attacking Midfield,-1,1997-12-18 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/dimitri-payet/profil/spieler/37647,Dimitri Payet,Left Winger,23000000.00,1987-03-29 00:00:00,France
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/matt-jarvis/profil/spieler/15921,Matt Jarvis,Left Winger,3000000.00,1986-05-22 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/martin-samuelsen/profil/spieler/234807,Martin Samuelsen,Left Winger,100000,1997-04-17 00:00:00,Norway
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/morgan-amalfitano/profil/spieler/39883,Morgan Amalfitano,Right Winger,2500000.00,1985-03-20 00:00:00,France
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/djair-parfitt-williams/profil/spieler/345961,Djair Parfitt-Williams,Right Winger,-1,1996-10-01 00:00:00,Bermuda
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/mauro-zarate/profil/spieler/26456,Mauro Zárate,Second Striker,2500000.00,1987-03-18 00:00:00,Argentina
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/enner-valencia/profil/spieler/139503,Enner Valencia,Centre-Forward,11000000.00,1989-11-04 00:00:00,Ecuador
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/andy-carroll/profil/spieler/48066,Andy Carroll,Centre-Forward,10000000.00,1989-01-06 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/diafra-sakho/profil/spieler/120610,Diafra Sakho,Centre-Forward,10000000.00,1989-12-24 00:00:00,Senegal
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/emmanuel-emenike/profil/spieler/120630,Emmanuel Emenike,Centre-Forward,10000000.00,1987-05-10 00:00:00,Nigeria
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/michail-antonio/profil/spieler/104124,Michail Antonio,Centre-Forward,7000000.00,1990-03-28 00:00:00,Jamaica
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/modibo-maiga/profil/spieler/46831,Modibo Maïga,Centre-Forward,2000000.00,1987-09-03 00:00:00,Mali
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/nikica-jelavic/profil/spieler/25742,Nikica Jelavic,Centre-Forward,1200000.00,1985-08-27 00:00:00,Croatia
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/jordan-brown/profil/spieler/242603,Jordan Brown,Centre-Forward,-1,1996-11-10 00:00:00,England
+https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2015,/elliot-lee/profil/spieler/229826,Elliot Lee,Centre-Forward,-1,1994-12-16 00:00:00,England
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/lukasz-fabianski/profil/spieler/29692,Lukasz Fabianski,Goalkeeper,7000000.00,1985-04-18 00:00:00,Poland
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/kristoffer-nordfeldt/profil/spieler/75890,Kristoffer Nordfeldt,Goalkeeper,2500000.00,1989-06-23 00:00:00,Sweden
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/gerhard-tremmel/profil/spieler/488,Gerhard Tremmel,Goalkeeper,500000,1978-11-16 00:00:00,Germany
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/josh-vickers/profil/spieler/242681,Josh Vickers,Goalkeeper,-1,1995-12-01 00:00:00,England
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/federico-fernandez/profil/spieler/85475,Federico Fernández,Centre-Back,9000000.00,1989-02-21 00:00:00,Argentina
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/ashley-williams/profil/spieler/67355,Ashley Williams,Centre-Back,6500000.00,1984-08-23 00:00:00,Wales
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/jordi-amat/profil/spieler/85289,Jordi Amat,Centre-Back,3000000.00,1992-03-21 00:00:00,Spain
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/kyle-bartley/profil/spieler/67421,Kyle Bartley,Centre-Back,1000000.00,1991-05-22 00:00:00,England
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/joe-rodon/profil/spieler/297212,Joe Rodon,Centre-Back,-1,1997-10-22 00:00:00,Wales
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/neil-taylor/profil/spieler/67416,Neil Taylor,Left-Back,5000000.00,1989-02-07 00:00:00,Wales
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/franck-tabanou/profil/spieler/66413,Franck Tabanou,Left-Back,4500000.00,1989-01-30 00:00:00,France
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/stephen-kingsley/profil/spieler/184398,Stephen Kingsley,Left-Back,500000,1994-07-23 00:00:00,Scotland
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/kyle-naughton/profil/spieler/66219,Kyle Naughton,Right-Back,5500000.00,1988-11-17 00:00:00,England
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/angel-rangel/profil/spieler/66550,Ángel Rangel,Right-Back,1500000.00,1982-11-28 00:00:00,Spain
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/daniel-alfei/profil/spieler/130216,Daniel Alfei,Right-Back,-1,1992-02-23 00:00:00,Wales
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/connor-roberts/profil/spieler/214666,Connor Roberts,Right-Back,-1,1995-09-23 00:00:00,Wales
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/liam-shephard/profil/spieler/197910,Liam Shephard,Right-Back,-1,1994-11-22 00:00:00,Wales
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/leroy-fer/profil/spieler/63342,Leroy Fer,Defensive Midfield,8500000.00,1990-01-05 00:00:00,Netherlands
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/sung-yueng-ki/profil/spieler/81796,Sung-yueng Ki,Defensive Midfield,8000000.00,1989-01-24 00:00:00,"Korea, South"
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/jack-cork/profil/spieler/40613,Jack Cork,Defensive Midfield,4000000.00,1989-06-25 00:00:00,England
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/jonjo-shelvey/profil/spieler/71292,Jonjo Shelvey,Central Midfield,12000000.00,1992-02-27 00:00:00,England
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/matt-grimes/profil/spieler/265471,Matt Grimes,Central Midfield,2000000.00,1995-07-15 00:00:00,England
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/leon-britton/profil/spieler/40043,Leon Britton,Central Midfield,1500000.00,1982-09-16 00:00:00,England
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/jay-fulton/profil/spieler/171260,Jay Fulton,Central Midfield,200000,1994-04-04 00:00:00,Scotland
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/kenji-gorre/profil/spieler/374889,Kenji Gorré,Right Midfield,100000,1994-09-29 00:00:00,Curacao
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/gylfi-sigurdsson/profil/spieler/90466,Gylfi Sigurdsson,Attacking Midfield,13000000.00,1989-09-08 00:00:00,Iceland
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/jefferson-montero/profil/spieler/77932,Jefferson Montero,Left Winger,5500000.00,1989-09-01 00:00:00,Ecuador
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/wayne-routledge/profil/spieler/14066,Wayne Routledge,Left Winger,3000000.00,1985-01-07 00:00:00,England
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/modou-barrow/profil/spieler/189070,Modou Barrow,Left Winger,2500000.00,1992-10-13 00:00:00,The Gambia
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/daniel-james/profil/spieler/319301,Daniel James,Left Winger,-1,1997-11-10 00:00:00,Wales
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/nathan-dyer/profil/spieler/37011,Nathan Dyer,Right Winger,4000000.00,1987-11-29 00:00:00,England
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/andre-ayew/profil/spieler/45403,André Ayew,Centre-Forward,15000000.00,1989-12-17 00:00:00,Ghana
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/bafetimbi-gomis/profil/spieler/22388,Bafétimbi Gomis,Centre-Forward,8000000.00,1985-08-06 00:00:00,France
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/alberto-paloschi/profil/spieler/68306,Alberto Paloschi,Centre-Forward,6000000.00,1990-01-04 00:00:00,Italy
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/eder/profil/spieler/84481,Éder,Centre-Forward,5000000.00,1987-12-22 00:00:00,Portugal
+https://www.transfermarkt.com/swansea-city/startseite/verein/2288/saison_id/2015,/marvin-emnes/profil/spieler/37787,Marvin Emnes,Centre-Forward,1000000.00,1988-05-27 00:00:00,Netherlands
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/costel-pantilimon/profil/spieler/47659,Costel Pantilimon,Goalkeeper,4500000.00,1987-02-01 00:00:00,Romania
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/vito-mannone/profil/spieler/33781,Vito Mannone,Goalkeeper,2500000.00,1988-03-02 00:00:00,Italy
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/jordan-pickford/profil/spieler/130164,Jordan Pickford,Goalkeeper,1000000.00,1994-03-07 00:00:00,England
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/steve-harper/profil/spieler/3562,Steve Harper,Goalkeeper,250000,1975-03-14 00:00:00,England
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/max-stryjek/profil/spieler/240457,Max Stryjek,Goalkeeper,-1,1996-07-18 00:00:00,Poland
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/lamine-kone/profil/spieler/57420,Lamine Koné,Centre-Back,5000000.00,1989-02-01 00:00:00,Cote d'Ivoire
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/younes-kaboul/profil/spieler/27114,Younès Kaboul,Centre-Back,3000000.00,1986-01-04 00:00:00,France
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/sebastian-coates/profil/spieler/102427,Sebastián Coates,Centre-Back,2000000.00,1990-10-07 00:00:00,Uruguay
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/valentin-roberge/profil/spieler/87422,Valentin Roberge,Centre-Back,1500000.00,1987-06-09 00:00:00,France
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/jan-kirchhoff/profil/spieler/49734,Jan Kirchhoff,Centre-Back,1500000.00,1990-10-01 00:00:00,Germany
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/john-oshea/profil/spieler/3540,John O'Shea,Centre-Back,1000000.00,1981-04-30 00:00:00,Ireland
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/wes-brown/profil/spieler/3405,Wes Brown,Centre-Back,500000,1979-10-13 00:00:00,England
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/patrick-van-aanholt/profil/spieler/52119,Patrick van Aanholt,Left-Back,4500000.00,1990-08-29 00:00:00,Netherlands
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/tommy-robson/profil/spieler/257968,Tommy Robson,Left-Back,-1,1995-09-11 00:00:00,England
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/adam-matthews/profil/spieler/108878,Adam Matthews,Right-Back,2500000.00,1992-01-13 00:00:00,Wales
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/billy-jones/profil/spieler/36866,Billy Jones,Right-Back,2000000.00,1987-03-24 00:00:00,England
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/deandre-yedlin/profil/spieler/255916,DeAndre Yedlin,Right-Back,1500000.00,1993-07-09 00:00:00,United States
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/charalampos-mavrias/profil/spieler/136647,Charalampos Mavrias,Right-Back,1000000.00,1994-02-21 00:00:00,Greece
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/josh-robson/profil/spieler/357958,Josh Robson,Right-Back,-1,1998-02-03 00:00:00,England
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/jack-rodwell/profil/spieler/57079,Jack Rodwell,Defensive Midfield,8000000.00,1991-03-11 00:00:00,England
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/yann-mvila/profil/spieler/60573,Yann M'Vila,Defensive Midfield,7000000.00,1990-06-29 00:00:00,France
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/lee-cattermole/profil/spieler/37363,Lee Cattermole,Defensive Midfield,3500000.00,1988-03-21 00:00:00,England
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/liam-bridcutt/profil/spieler/40612,Liam Bridcutt,Defensive Midfield,2500000.00,1989-05-08 00:00:00,Scotland
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/tom-beadling/profil/spieler/258653,Tom Beadling,Defensive Midfield,-1,1996-01-16 00:00:00,Australia
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/jordi-gomez/profil/spieler/39010,Jordi Gómez,Central Midfield,3000000.00,1985-05-24 00:00:00,Spain
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/sebastian-larsson/profil/spieler/31720,Sebastian Larsson,Central Midfield,2500000.00,1985-06-06 00:00:00,Sweden
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/emanuele-giaccherini/profil/spieler/84835,Emanuele Giaccherini,Left Midfield,4000000.00,1985-05-05 00:00:00,Italy
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/ola-toivonen/profil/spieler/36500,Ola Toivonen,Attacking Midfield,3000000.00,1986-07-03 00:00:00,Sweden
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/george-honeyman/profil/spieler/218140,George Honeyman,Attacking Midfield,-1,1994-09-08 00:00:00,England
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/rees-greenwood/profil/spieler/320213,Rees Greenwood,Attacking Midfield,-1,1996-12-10 00:00:00,England
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/fabio-borini/profil/spieler/96754,Fabio Borini,Left Winger,6000000.00,1991-03-29 00:00:00,Italy
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/jeremain-lens/profil/spieler/38497,Jeremain Lens,Right Winger,11000000.00,1987-11-24 00:00:00,Netherlands
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/will-buckley/profil/spieler/77329,Will Buckley,Right Winger,2500000.00,1989-11-21 00:00:00,England
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/duncan-watmore/profil/spieler/248045,Duncan Watmore,Right Winger,1500000.00,1994-03-08 00:00:00,England
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/adam-johnson/profil/spieler/31579,Adam Johnson,Right Winger,-1,1987-07-14 00:00:00,England
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/lynden-gooch/profil/spieler/307781,Lynden Gooch,Right Winger,-1,1995-12-24 00:00:00,United States
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/wahbi-khazri/profil/spieler/103565,Wahbi Khazri,Centre-Forward,8000000.00,1991-02-08 00:00:00,Tunisia
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/jermain-defoe/profil/spieler/3875,Jermain Defoe,Centre-Forward,6000000.00,1982-10-07 00:00:00,England
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/dame-ndoye/profil/spieler/44855,Dame N'Doye,Centre-Forward,4000000.00,1985-02-21 00:00:00,Senegal
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/steven-fletcher/profil/spieler/35099,Steven Fletcher,Centre-Forward,3000000.00,1987-03-26 00:00:00,Scotland
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/danny-graham/profil/spieler/29152,Danny Graham,Centre-Forward,1500000.00,1985-08-12 00:00:00,England
+https://www.transfermarkt.com/afc-sunderland/startseite/verein/289/saison_id/2015,/mikael-mandron/profil/spieler/218144,Mikael Mandron,Centre-Forward,-1,1994-10-11 00:00:00,France
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/jack-butland/profil/spieler/128899,Jack Butland,Goalkeeper,9000000.00,1993-03-10 00:00:00,England
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/jakob-haugaard/profil/spieler/138335,Jakob Haugaard,Goalkeeper,750000,1992-05-01 00:00:00,Denmark
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/shay-given/profil/spieler/3146,Shay Given,Goalkeeper,500000,1976-04-20 00:00:00,Ireland
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/daniel-bachmann/profil/spieler/120186,Daniel Bachmann,Goalkeeper,-1,1994-07-09 00:00:00,Austria
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/ryan-shawcross/profil/spieler/45861,Ryan Shawcross,Centre-Back,11000000.00,1987-10-04 00:00:00,England
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/philipp-wollscheid/profil/spieler/53173,Philipp Wollscheid,Centre-Back,6500000.00,1989-03-06 00:00:00,Germany
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/marc-muniesa/profil/spieler/74228,Marc Muniesa,Centre-Back,3000000.00,1992-03-27 00:00:00,Spain
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/marc-wilson/profil/spieler/30456,Marc Wilson,Centre-Back,3000000.00,1987-08-17 00:00:00,Ireland
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/dionatan-teixeira/profil/spieler/107617,Dionatan Teixeira,Centre-Back,500000,1992-07-24 00:00:00,Slovakia
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/erik-pieters/profil/spieler/43763,Erik Pieters,Left-Back,5000000.00,1988-08-07 00:00:00,Netherlands
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/glen-johnson/profil/spieler/3881,Glen Johnson,Right-Back,7000000.00,1984-08-23 00:00:00,England
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/phil-bardsley/profil/spieler/15773,Phil Bardsley,Right-Back,1500000.00,1985-06-28 00:00:00,Scotland
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/giannelli-imbula/profil/spieler/130756,Giannelli Imbula,Defensive Midfield,18000000.00,1992-09-12 00:00:00,DR Congo
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/glenn-whelan/profil/spieler/12124,Glenn Whelan,Defensive Midfield,3000000.00,1984-01-13 00:00:00,Ireland
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/geoff-cameron/profil/spieler/31642,Geoff Cameron,Defensive Midfield,3000000.00,1985-07-11 00:00:00,United States
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/marco-van-ginkel/profil/spieler/147034,Marco van Ginkel,Central Midfield,7000000.00,1992-12-01 00:00:00,Netherlands
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/charlie-adam/profil/spieler/28990,Charlie Adam,Central Midfield,4500000.00,1985-12-10 00:00:00,Scotland
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/steve-sidwell/profil/spieler/13427,Steve Sidwell,Central Midfield,1000000.00,1982-12-14 00:00:00,England
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/ibrahim-afellay/profil/spieler/15760,Ibrahim Afellay,Left Midfield,5000000.00,1986-04-02 00:00:00,Netherlands
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/stephen-ireland/profil/spieler/34838,Stephen Ireland,Attacking Midfield,1500000.00,1986-08-22 00:00:00,Ireland
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/oliver-shenton/profil/spieler/335541,Oliver Shenton,Attacking Midfield,-1,1997-11-06 00:00:00,England
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/mohamed-el-ouriachi/profil/spieler/242280,Mohamed El Ouriachi,Left Winger,250000,1996-01-13 00:00:00,Morocco
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/xherdan-shaqiri/profil/spieler/86792,Xherdan Shaqiri,Right Winger,15000000.00,1991-10-10 00:00:00,Switzerland
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/jonathan-walters/profil/spieler/3306,Jonathan Walters,Right Winger,3500000.00,1983-09-20 00:00:00,Ireland
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/peter-odemwingie/profil/spieler/12516,Peter Odemwingie,Right Winger,1500000.00,1981-07-15 00:00:00,Nigeria
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/bojan-krkic/profil/spieler/44675,Bojan Krkic,Second Striker,10000000.00,1990-08-28 00:00:00,Spain
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/marko-arnautovic/profil/spieler/41384,Marko Arnautovic,Centre-Forward,10000000.00,1989-04-19 00:00:00,Austria
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/mame-diouf/profil/spieler/62049,Mame Diouf,Centre-Forward,8000000.00,1987-12-16 00:00:00,Senegal
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/joselu/profil/spieler/81999,Joselu,Centre-Forward,6000000.00,1990-03-27 00:00:00,Spain
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/peter-crouch/profil/spieler/4072,Peter Crouch,Centre-Forward,2000000.00,1981-01-30 00:00:00,England
+https://www.transfermarkt.com/stoke-city/startseite/verein/512/saison_id/2015,/george-waring/profil/spieler/242417,George Waring,Centre-Forward,-1,1994-12-02 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/wayne-hennessey/profil/spieler/45494,Wayne Hennessey,Goalkeeper,3500000.00,1987-01-24 00:00:00,Wales
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/alex-mccarthy/profil/spieler/95976,Alex McCarthy,Goalkeeper,3000000.00,1989-12-03 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/julian-speroni/profil/spieler/12814,Julián Speroni,Goalkeeper,500000,1979-05-18 00:00:00,Argentina
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/scott-dann/profil/spieler/62688,Scott Dann,Centre-Back,5000000.00,1987-02-14 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/adrian-mariappa/profil/spieler/38145,Adrian Mariappa,Centre-Back,2000000.00,1986-10-03 00:00:00,Jamaica
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/damien-delaney/profil/spieler/36861,Damien Delaney,Centre-Back,2000000.00,1981-07-20 00:00:00,Ireland
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/brede-hangeland/profil/spieler/25553,Brede Hangeland,Centre-Back,1000000.00,1981-06-20 00:00:00,Norway
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/patrick-mccarthy/profil/spieler/29974,Patrick McCarthy,Centre-Back,500000,1983-05-31 00:00:00,Ireland
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/luke-croll/profil/spieler/244309,Luke Croll,Centre-Back,-1,1995-01-10 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/pape-souare/profil/spieler/125868,Pape Souaré,Left-Back,6000000.00,1990-06-06 00:00:00,Senegal
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/zeki-fryers/profil/spieler/141655,Zeki Fryers,Left-Back,2500000.00,1992-09-09 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/jerome-binnom-williams/profil/spieler/245334,Jerome Binnom-Williams,Left-Back,100000,1995-03-07 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/joel-ward/profil/spieler/92572,Joel Ward,Right-Back,5000000.00,1989-10-29 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/martin-kelly/profil/spieler/78959,Martin Kelly,Right-Back,4000000.00,1990-04-27 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/mile-jedinak/profil/spieler/28336,Mile Jedinak,Defensive Midfield,6000000.00,1984-08-03 00:00:00,Australia
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/connor-dymond/profil/spieler/261367,Connor Dymond,Defensive Midfield,-1,1994-09-12 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/yohan-cabaye/profil/spieler/29434,Yohan Cabaye,Central Midfield,18000000.00,1986-01-14 00:00:00,France
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/james-mcarthur/profil/spieler/41416,James McArthur,Central Midfield,7000000.00,1987-10-07 00:00:00,Scotland
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/jordon-mutch/profil/spieler/57207,Jordon Mutch,Central Midfield,4000000.00,1991-12-02 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/joe-ledley/profil/spieler/34409,Joe Ledley,Central Midfield,3500000.00,1987-01-23 00:00:00,Wales
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/jake-gray/profil/spieler/244290,Jake Gray,Central Midfield,-1,1995-12-25 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/luke-dreher/profil/spieler/432293,Luke Dreher,Central Midfield,-1,1998-11-27 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/hiram-boateng/profil/spieler/244125,Hiram Boateng,Central Midfield,-1,1996-01-08 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/jason-puncheon/profil/spieler/47995,Jason Puncheon,Attacking Midfield,5000000.00,1986-06-18 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/jonathan-williams/profil/spieler/170322,Jonathan Williams,Attacking Midfield,750000,1993-10-09 00:00:00,Wales
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/yannick-bolasie/profil/spieler/75471,Yannick Bolasie,Left Winger,12000000.00,1989-05-24 00:00:00,DR Congo
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/wilfried-zaha/profil/spieler/145988,Wilfried Zaha,Left Winger,8000000.00,1992-11-10 00:00:00,Cote d'Ivoire
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/bakary-sako/profil/spieler/46791,Bakary Sako,Left Winger,8000000.00,1988-04-26 00:00:00,Mali
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/sullay-kaikai/profil/spieler/244130,Sullay Kaikai,Left Winger,100000,1995-08-26 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/chung-yong-lee/profil/spieler/81801,Chung-yong Lee,Right Winger,2000000.00,1988-07-02 00:00:00,"Korea, South"
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/connor-wickham/profil/spieler/95435,Connor Wickham,Centre-Forward,6000000.00,1993-03-31 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/patrick-bamford/profil/spieler/183334,Patrick Bamford,Centre-Forward,5000000.00,1993-09-05 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/glenn-murray/profil/spieler/45693,Glenn Murray,Centre-Forward,4000000.00,1983-09-25 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/fraizer-campbell/profil/spieler/42411,Fraizer Campbell,Centre-Forward,3500000.00,1987-09-13 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/dwight-gayle/profil/spieler/196522,Dwight Gayle,Centre-Forward,3000000.00,1989-10-17 00:00:00,England
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/emmanuel-adebayor/profil/spieler/8883,Emmanuel Adebayor,Centre-Forward,2500000.00,1984-02-26 00:00:00,Togo
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/marouane-chamakh/profil/spieler/19085,Marouane Chamakh,Centre-Forward,2000000.00,1984-01-10 00:00:00,Morocco
+https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2015,/kwesi-appiah/profil/spieler/121223,Kwesi Appiah,Centre-Forward,250000,1990-08-12 00:00:00,Ghana
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/ben-foster/profil/spieler/13572,Ben Foster,Goalkeeper,4000000.00,1983-04-03 00:00:00,England
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/boaz-myhill/profil/spieler/3838,Boaz Myhill,Goalkeeper,2000000.00,1982-11-09 00:00:00,Wales
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/anders-lindegaard/profil/spieler/22491,Anders Lindegaard,Goalkeeper,1500000.00,1984-04-13 00:00:00,Denmark
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/jack-rose/profil/spieler/186923,Jack Rose,Goalkeeper,100000,1995-01-31 00:00:00,England
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/alex-palmer/profil/spieler/245625,Alex Palmer,Goalkeeper,-1,1996-08-10 00:00:00,England
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/jonny-evans/profil/spieler/42412,Jonny Evans,Centre-Back,6000000.00,1988-01-03 00:00:00,Northern Ireland
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/james-chester/profil/spieler/73482,James Chester,Centre-Back,5000000.00,1989-01-23 00:00:00,Wales
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/craig-dawson/profil/spieler/121477,Craig Dawson,Centre-Back,5000000.00,1990-05-06 00:00:00,England
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/joleon-lescott/profil/spieler/4241,Joleon Lescott,Centre-Back,2000000.00,1982-08-16 00:00:00,England
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/jonas-olsson/profil/spieler/25248,Jonas Olsson,Centre-Back,1500000.00,1983-03-10 00:00:00,Sweden
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/gareth-mcauley/profil/spieler/40567,Gareth McAuley,Centre-Back,1000000.00,1979-12-05 00:00:00,Northern Ireland
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/shaun-donnellan/profil/spieler/268527,Shaun Donnellan,Centre-Back,-1,1996-10-16 00:00:00,Ireland
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/sebastien-pocognoli/profil/spieler/17804,Sébastien Pocognoli,Left-Back,1000000.00,1987-08-01 00:00:00,Belgium
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/cristian-gamboa/profil/spieler/121686,Cristian Gamboa,Right-Back,2000000.00,1989-10-24 00:00:00,Costa Rica
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/sandro/profil/spieler/74590,Sandro,Defensive Midfield,6000000.00,1989-03-15 00:00:00,Brazil
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/claudio-yacob/profil/spieler/45330,Claudio Yacob,Defensive Midfield,4000000.00,1987-07-18 00:00:00,Argentina
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/james-morrison/profil/spieler/27614,James Morrison,Central Midfield,5000000.00,1986-05-25 00:00:00,Scotland
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/chris-brunt/profil/spieler/36814,Chris Brunt,Central Midfield,4000000.00,1984-12-14 00:00:00,Northern Ireland
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/craig-gardner/profil/spieler/37171,Craig Gardner,Central Midfield,3000000.00,1986-11-25 00:00:00,England
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/darren-fletcher/profil/spieler/3547,Darren Fletcher,Central Midfield,2000000.00,1984-02-01 00:00:00,Scotland
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/sam-field/profil/spieler/387331,Sam Field,Central Midfield,-1,1998-05-08 00:00:00,England
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/james-mcclean/profil/spieler/85935,James McClean,Left Midfield,3000000.00,1989-04-22 00:00:00,Ireland
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/kyle-edwards/profil/spieler/314366,Kyle Edwards,Left Midfield,-1,1998-02-17 00:00:00,England
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/alex-pritchard/profil/spieler/200777,Alex Pritchard,Attacking Midfield,3000000.00,1993-05-03 00:00:00,England
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/stephane-sessegnon/profil/spieler/37157,Stéphane Sessègnon,Attacking Midfield,3000000.00,1984-06-01 00:00:00,Benin
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/joe-ward/profil/spieler/284754,Joe Ward,Attacking Midfield,-1,1996-10-24 00:00:00,England
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/callum-mcmanaman/profil/spieler/61711,Callum McManaman,Right Winger,5000000.00,1991-04-25 00:00:00,England
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/serge-gnabry/profil/spieler/159471,Serge Gnabry,Right Winger,3000000.00,1995-07-14 00:00:00,Germany
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/jonathan-leko/profil/spieler/314266,Jonathan Leko,Right Winger,-1,1999-04-24 00:00:00,England
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/tyler-roberts/profil/spieler/296986,Tyler Roberts,Second Striker,-1,1999-01-12 00:00:00,Wales
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/saido-berahino/profil/spieler/128897,Saido Berahino,Centre-Forward,15000000.00,1993-08-04 00:00:00,Burundi
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/salomon-rondon/profil/spieler/80197,Salomón Rondón,Centre-Forward,15000000.00,1989-09-16 00:00:00,Venezuela
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/brown-ideye/profil/spieler/64308,Brown Ideye,Centre-Forward,6000000.00,1988-10-10 00:00:00,Nigeria
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/rickie-lambert/profil/spieler/49655,Rickie Lambert,Centre-Forward,3000000.00,1982-02-16 00:00:00,England
+https://www.transfermarkt.com/west-bromwich-albion/startseite/verein/984/saison_id/2015,/victor-anichebe/profil/spieler/39532,Victor Anichebe,Centre-Forward,2000000.00,1988-04-23 00:00:00,Nigeria
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/brad-guzan/profil/spieler/39471,Brad Guzan,Goalkeeper,3000000.00,1984-09-09 00:00:00,United States
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/mark-bunn/profil/spieler/49319,Mark Bunn,Goalkeeper,750000,1984-11-16 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/jed-steer/profil/spieler/110867,Jed Steer,Goalkeeper,500000,1992-09-23 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/benjamin-siegrist/profil/spieler/111426,Benjamin Siegrist,Goalkeeper,250000,1992-01-31 00:00:00,Switzerland
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/bradley-watkins/profil/spieler/210662,Bradley Watkins,Goalkeeper,-1,1994-09-11 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/jores-okore/profil/spieler/129085,Jores Okore,Centre-Back,5000000.00,1992-08-11 00:00:00,Denmark
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/ciaran-clark/profil/spieler/98240,Ciaran Clark,Centre-Back,4500000.00,1989-09-26 00:00:00,Ireland
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/tiago-ilori/profil/spieler/177859,Tiago Ilori,Centre-Back,4000000.00,1993-02-26 00:00:00,Portugal
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/nathan-baker/profil/spieler/62638,Nathan Baker,Centre-Back,2500000.00,1991-04-23 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/joleon-lescott/profil/spieler/4241,Joleon Lescott,Centre-Back,2000000.00,1982-08-16 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/jose-crespo/profil/spieler/37397,José Crespo,Centre-Back,700000,1987-02-09 00:00:00,Spain
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/kevin-toner/profil/spieler/265132,Kevin Toner,Centre-Back,-1,1996-07-18 00:00:00,Ireland
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/easah-suliman/profil/spieler/282820,Easah Suliman,Centre-Back,-1,1998-01-26 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/jordan-amavi/profil/spieler/241229,Jordan Amavi,Left-Back,10000000.00,1994-03-09 00:00:00,France
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/joe-bennett/profil/spieler/90964,Joe Bennett,Left-Back,1500000.00,1990-03-28 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/kieran-richardson/profil/spieler/3548,Kieran Richardson,Left-Back,1500000.00,1984-10-21 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/micah-richards/profil/spieler/32617,Micah Richards,Right-Back,5000000.00,1988-06-24 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/alan-hutton/profil/spieler/9619,Alan Hutton,Right-Back,2000000.00,1984-11-30 00:00:00,Scotland
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/janoi-donacien/profil/spieler/197791,Janoi Donacien,Right-Back,250000,1993-11-03 00:00:00,St. Lucia
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/niall-mason/profil/spieler/319817,Niall Mason,Right-Back,-1,1997-01-10 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/idrissa-gueye/profil/spieler/126665,Idrissa Gueye,Defensive Midfield,9000000.00,1989-09-26 00:00:00,Senegal
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/carlos-sanchez/profil/spieler/51226,Carlos Sánchez,Defensive Midfield,5000000.00,1986-02-06 00:00:00,Colombia
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/ashley-westwood/profil/spieler/91317,Ashley Westwood,Defensive Midfield,4000000.00,1990-04-01 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/jordan-veretout/profil/spieler/164771,Jordan Veretout,Central Midfield,8000000.00,1993-03-01 00:00:00,France
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/leandro-bacuna/profil/spieler/126014,Leandro Bacuna,Central Midfield,3000000.00,1991-08-21 00:00:00,Curacao
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/gary-gardner/profil/spieler/110861,Gary Gardner,Central Midfield,2000000.00,1992-06-29 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/jordan-lyden/profil/spieler/251289,Jordan Lyden,Central Midfield,-1,1996-01-30 00:00:00,Australia
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/aly-cissokho/profil/spieler/57515,Aly Cissokho,Left Midfield,2000000.00,1987-09-15 00:00:00,France
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/carles-gil/profil/spieler/127987,Carles Gil,Attacking Midfield,4000000.00,1992-11-22 00:00:00,Spain
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/joe-cole/profil/spieler/3876,Joe Cole,Attacking Midfield,500000,1981-11-08 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/jack-grealish/profil/spieler/203460,Jack Grealish,Left Winger,4500000.00,1995-09-10 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/scott-sinclair/profil/spieler/31552,Scott Sinclair,Left Winger,3500000.00,1989-03-25 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/jerell-sellars/profil/spieler/243690,Jerell Sellars,Left Winger,-1,1995-12-11 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/corey-blackett-taylor/profil/spieler/282821,Corey Blackett-Taylor,Left Winger,-1,1997-09-23 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/andre-green/profil/spieler/309841,Andre Green,Left Winger,-1,1998-07-26 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/adama-traore/profil/spieler/204103,Adama Traoré,Right Winger,8000000.00,1996-01-25 00:00:00,Spain
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/charles-nzogbia/profil/spieler/22165,Charles N'Zogbia,Right Winger,1000000.00,1986-05-28 00:00:00,France
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/jordan-ayew/profil/spieler/108354,Jordan Ayew,Centre-Forward,7500000.00,1991-09-11 00:00:00,Ghana
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/rudy-gestede/profil/spieler/39908,Rudy Gestede,Centre-Forward,7000000.00,1988-10-10 00:00:00,Benin
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/gabriel-agbonlahor/profil/spieler/37148,Gabriel Agbonlahor,Centre-Forward,3000000.00,1986-10-13 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/libor-kozak/profil/spieler/63824,Libor Kozak,Centre-Forward,2000000.00,1989-05-30 00:00:00,Czech Republic
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/callum-robinson/profil/spieler/183299,Callum Robinson,Centre-Forward,500000,1995-02-02 00:00:00,Ireland
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/rushian-hepburn-murphy/profil/spieler/314237,Rushian Hepburn-Murphy,Centre-Forward,-1,1998-08-28 00:00:00,England
+https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2015,/keinan-davis/profil/spieler/412660,Keinan Davis,Centre-Forward,-1,1998-02-13 00:00:00,England
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/costel-pantilimon/profil/spieler/47659,Costel Pantilimon,Goalkeeper,4500000.00,1987-02-01 00:00:00,Romania
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/giedrius-arlauskis/profil/spieler/69001,Giedrius Arlauskis,Goalkeeper,1500000.00,1987-12-01 00:00:00,Lithuania
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/heurelho-gomes/profil/spieler/19059,Heurelho Gomes,Goalkeeper,1000000.00,1981-02-15 00:00:00,Brazil
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/rene-gilmartin/profil/spieler/66518,Rene Gilmartin,Goalkeeper,250000,1987-05-31 00:00:00,Ireland
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/luke-simpson/profil/spieler/223790,Luke Simpson,Goalkeeper,-1,1994-09-23 00:00:00,England
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/nathan-ake/profil/spieler/177476,Nathan Aké,Centre-Back,4500000.00,1995-02-18 00:00:00,Netherlands
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/sebastian-prodl/profil/spieler/37981,Sebastian Prödl,Centre-Back,4000000.00,1987-06-21 00:00:00,Austria
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/craig-cathcart/profil/spieler/59606,Craig Cathcart,Centre-Back,4000000.00,1989-02-06 00:00:00,Northern Ireland
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/miguel-britos/profil/spieler/76799,Miguel Britos,Centre-Back,3500000.00,1985-07-17 00:00:00,Uruguay
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/gabriele-angella/profil/spieler/86793,Gabriele Angella,Centre-Back,2000000.00,1989-04-28 00:00:00,Italy
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/essaid-belkalem/profil/spieler/162395,Essaïd Belkalem,Centre-Back,1500000.00,1989-01-01 00:00:00,Algeria
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/joel-ekstrand/profil/spieler/69912,Joel Ekstrand,Centre-Back,1000000.00,1989-02-04 00:00:00,Sweden
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/tommie-hoban/profil/spieler/183161,Tommie Hoban,Centre-Back,1000000.00,1994-01-24 00:00:00,Ireland
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/jose-cholevas/profil/spieler/41112,Jose Cholevas,Left-Back,2000000.00,1984-06-27 00:00:00,Greece
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/daniel-pudil/profil/spieler/35583,Daniel Pudil,Left-Back,1500000.00,1985-09-27 00:00:00,Czech Republic
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/allan-nyom/profil/spieler/111508,Allan Nyom,Right-Back,4000000.00,1988-05-10 00:00:00,Cameroon
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/juan-carlos-paredes/profil/spieler/100507,Juan Carlos Paredes,Right-Back,2000000.00,1987-07-08 00:00:00,Ecuador
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/etienne-capoue/profil/spieler/63494,Étienne Capoue,Defensive Midfield,9000000.00,1988-07-11 00:00:00,France
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/mario-suarez/profil/spieler/37337,Mario Suárez,Defensive Midfield,8000000.00,1987-02-24 00:00:00,Spain
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/valon-behrami/profil/spieler/21905,Valon Behrami,Defensive Midfield,2500000.00,1985-04-19 00:00:00,Switzerland
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/almen-abdi/profil/spieler/9966,Almen Abdi,Central Midfield,3500000.00,1986-10-21 00:00:00,Switzerland
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/ben-watson/profil/spieler/14081,Ben Watson,Central Midfield,1500000.00,1985-07-09 00:00:00,England
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/adlene-guedioura/profil/spieler/74768,Adlène Guédioura,Central Midfield,1000000.00,1985-11-12 00:00:00,Algeria
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/sean-murray/profil/spieler/148907,Sean Murray,Central Midfield,750000,1993-10-11 00:00:00,Ireland
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/connor-smith/profil/spieler/177771,Connor Smith,Central Midfield,250000,1993-02-18 00:00:00,Ireland
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/miguel-layun/profil/spieler/58576,Miguel Layún,Right Midfield,7000000.00,1988-06-25 00:00:00,Mexico
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/ikechi-anya/profil/spieler/107427,Ikechi Anya,Left Midfield,3000000.00,1988-01-03 00:00:00,Scotland
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/lloyd-dyer/profil/spieler/3668,Lloyd Dyer,Left Midfield,500000,1982-09-13 00:00:00,England
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/jose-manuel-jurado/profil/spieler/28261,José Manuel Jurado,Attacking Midfield,7000000.00,1986-06-29 00:00:00,Spain
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/alessandro-diamanti/profil/spieler/23197,Alessandro Diamanti,Attacking Midfield,1500000.00,1983-05-02 00:00:00,Italy
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/nordin-amrabat/profil/spieler/55619,Nordin Amrabat,Right Winger,5000000.00,1987-03-31 00:00:00,Morocco
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/steven-berghuis/profil/spieler/129554,Steven Berghuis,Right Winger,4000000.00,1991-12-19 00:00:00,Netherlands
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/victor-ibarbo/profil/spieler/92141,Víctor Ibarbo,Second Striker,8000000.00,1990-05-19 00:00:00,Colombia
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/fernando-forestieri/profil/spieler/44948,Fernando Forestieri,Second Striker,3500000.00,1990-01-16 00:00:00,Italy
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/odion-ighalo/profil/spieler/62121,Odion Ighalo,Centre-Forward,12000000.00,1989-06-16 00:00:00,Nigeria
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/troy-deeney/profil/spieler/65477,Troy Deeney,Centre-Forward,9000000.00,1988-06-29 00:00:00,England
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/obbi-oulare/profil/spieler/314959,Obbi Oulare,Centre-Forward,6000000.00,1996-01-08 00:00:00,Belgium
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/matej-vydra/profil/spieler/101500,Matej Vydra,Centre-Forward,5500000.00,1992-05-01 00:00:00,Czech Republic
+https://www.transfermarkt.com/fc-watford/startseite/verein/1010/saison_id/2015,/uche-ikpeazu/profil/spieler/245765,Uche Ikpeazu,Centre-Forward,250000,1995-02-28 00:00:00,Uganda
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/john-ruddy/profil/spieler/29712,John Ruddy,Goalkeeper,3000000.00,1986-10-24 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/declan-rudd/profil/spieler/74088,Declan Rudd,Goalkeeper,2000000.00,1991-01-16 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/jake-kean/profil/spieler/121388,Jake Kean,Goalkeeper,750000,1991-02-04 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/remi-matthews/profil/spieler/196722,Remi Matthews,Goalkeeper,100000,1994-02-10 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/timm-klose/profil/spieler/65255,Timm Klose,Centre-Back,5000000.00,1988-05-09 00:00:00,Switzerland
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/russell-martin/profil/spieler/67303,Russell Martin,Centre-Back,3000000.00,1986-01-04 00:00:00,Scotland
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/sebastien-bassong/profil/spieler/33951,Sébastien Bassong,Centre-Back,3000000.00,1986-07-09 00:00:00,Cameroon
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/michael-turner/profil/spieler/12127,Michael Turner,Centre-Back,2000000.00,1983-11-09 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/ryan-bennett/profil/spieler/67252,Ryan Bennett,Centre-Back,2000000.00,1990-03-06 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/martin-olsson/profil/spieler/38073,Martin Olsson,Left-Back,3500000.00,1988-05-17 00:00:00,Sweden
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/harry-toffolo/profil/spieler/198516,Harry Toffolo,Left-Back,250000,1995-08-19 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/andre-wisdom/profil/spieler/128912,Andre Wisdom,Right-Back,4000000.00,1993-05-09 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/ivo-pinto/profil/spieler/82281,Ivo Pinto,Right-Back,4000000.00,1990-01-07 00:00:00,Portugal
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/steven-whittaker/profil/spieler/12704,Steven Whittaker,Right-Back,1500000.00,1984-06-16 00:00:00,Scotland
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/alexander-tettey/profil/spieler/12384,Alexander Tettey,Defensive Midfield,3500000.00,1986-04-04 00:00:00,Norway
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/youssouf-mulumbu/profil/spieler/45272,Youssouf Mulumbu,Defensive Midfield,3000000.00,1987-01-25 00:00:00,DR Congo
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/louis-thompson/profil/spieler/207771,Louis Thompson,Defensive Midfield,500000,1994-12-19 00:00:00,Wales
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/bradley-johnson/profil/spieler/49327,Bradley Johnson,Central Midfield,6000000.00,1987-04-28 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/vadis-odjidja-ofoe/profil/spieler/38388,Vadis Odjidja-Ofoe,Central Midfield,4500000.00,1989-02-21 00:00:00,Belgium
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/jonathan-howson/profil/spieler/45395,Jonathan Howson,Central Midfield,4000000.00,1988-05-21 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/graham-dorrans/profil/spieler/36608,Graham Dorrans,Central Midfield,3500000.00,1987-05-05 00:00:00,Scotland
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/gary-oneil/profil/spieler/3995,Gary O'Neil,Central Midfield,1000000.00,1983-05-18 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/tony-andreu/profil/spieler/87789,Tony Andreu,Central Midfield,500000,1988-05-22 00:00:00,France
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/conor-mcgrandles/profil/spieler/203127,Conor McGrandles,Central Midfield,250000,1995-09-24 00:00:00,Scotland
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/elliott-bennett/profil/spieler/43193,Elliott Bennett,Right Midfield,1000000.00,1988-12-18 00:00:00,Jamaica
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/robbie-brady/profil/spieler/128229,Robbie Brady,Left Midfield,6000000.00,1992-01-14 00:00:00,Ireland
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/wes-hoolahan/profil/spieler/24589,Wes Hoolahan,Attacking Midfield,2000000.00,1982-05-20 00:00:00,Ireland
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/james-maddison/profil/spieler/294057,James Maddison,Attacking Midfield,1500000.00,1996-11-23 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/nathan-redmond/profil/spieler/129078,Nathan Redmond,Left Winger,7500000.00,1994-03-06 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/matt-jarvis/profil/spieler/15921,Matt Jarvis,Left Winger,3000000.00,1986-05-22 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/josh-murphy/profil/spieler/199528,Josh Murphy,Left Winger,1000000.00,1995-02-24 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/jacob-murphy/profil/spieler/199527,Jacob Murphy,Right Winger,300000,1995-02-24 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/steven-naismith/profil/spieler/12763,Steven Naismith,Second Striker,6000000.00,1986-09-14 00:00:00,Scotland
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/dieumerci-mbokani/profil/spieler/44624,Dieumerci Mbokani,Centre-Forward,7000000.00,1985-11-22 00:00:00,DR Congo
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/patrick-bamford/profil/spieler/183334,Patrick Bamford,Centre-Forward,5000000.00,1993-09-05 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/lewis-grabban/profil/spieler/35413,Lewis Grabban,Centre-Forward,4000000.00,1988-01-12 00:00:00,Jamaica
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/gary-hooper/profil/spieler/42513,Gary Hooper,Centre-Forward,4000000.00,1988-01-26 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/cameron-jerome/profil/spieler/35855,Cameron Jerome,Centre-Forward,3000000.00,1986-08-14 00:00:00,England
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/ricky-van-wolfswinkel/profil/spieler/41355,Ricky van Wolfswinkel,Centre-Forward,2500000.00,1989-01-27 00:00:00,Netherlands
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/kyle-lafferty/profil/spieler/36884,Kyle Lafferty,Centre-Forward,2000000.00,1987-09-16 00:00:00,Northern Ireland
+https://www.transfermarkt.com/norwich-city/startseite/verein/1123/saison_id/2015,/jamar-loza/profil/spieler/203464,Jamar Loza,Centre-Forward,250000,1994-05-10 00:00:00,Jamaica
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/kasper-schmeichel/profil/spieler/16911,Kasper Schmeichel,Goalkeeper,5000000.00,1986-11-05 00:00:00,Denmark
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/ben-hamer/profil/spieler/67283,Ben Hamer,Goalkeeper,500000,1987-11-20 00:00:00,England
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/mark-schwarzer/profil/spieler/3357,Mark Schwarzer,Goalkeeper,500000,1972-10-06 00:00:00,Australia
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/jonny-maddison/profil/spieler/257293,Jonny Maddison,Goalkeeper,-1,1994-09-04 00:00:00,England
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/robert-huth/profil/spieler/2998,Robert Huth,Centre-Back,6000000.00,1984-08-18 00:00:00,Germany
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/daniel-amartey/profil/spieler/214056,Daniel Amartey,Centre-Back,5000000.00,1994-12-21 00:00:00,Ghana
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/yohan-benalouane/profil/spieler/50477,Yohan Benalouane,Centre-Back,3000000.00,1987-03-28 00:00:00,Tunisia
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/wes-morgan/profil/spieler/10003,Wes Morgan,Centre-Back,2500000.00,1984-01-21 00:00:00,Jamaica
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/liam-moore/profil/spieler/128906,Liam Moore,Centre-Back,2000000.00,1993-01-31 00:00:00,Jamaica
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/marcin-wasilewski/profil/spieler/16947,Marcin Wasilewski,Centre-Back,500000,1980-06-09 00:00:00,Poland
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/christian-fuchs/profil/spieler/6636,Christian Fuchs,Left-Back,6000000.00,1986-04-07 00:00:00,Austria
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/ben-chilwell/profil/spieler/316125,Ben Chilwell,Left-Back,1000000.00,1996-12-21 00:00:00,England
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/paul-konchesky/profil/spieler/3296,Paul Konchesky,Left-Back,500000,1981-05-15 00:00:00,England
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/danny-simpson/profil/spieler/37442,Danny Simpson,Right-Back,3000000.00,1987-01-04 00:00:00,England
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/ritchie-de-laet/profil/spieler/55687,Ritchie De Laet,Right-Back,2500000.00,1988-11-28 00:00:00,Belgium
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/gokhan-inler/profil/spieler/19041,Gökhan Inler,Defensive Midfield,6000000.00,1984-06-27 00:00:00,Switzerland
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/ngolo-kante/profil/spieler/225083,N'Golo Kanté,Central Midfield,20000000.00,1991-03-29 00:00:00,France
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/danny-drinkwater/profil/spieler/73491,Danny Drinkwater,Central Midfield,6000000.00,1990-03-05 00:00:00,England
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/andy-king/profil/spieler/56872,Andy King,Central Midfield,3500000.00,1988-10-29 00:00:00,Wales
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/matty-james/profil/spieler/73522,Matty James,Central Midfield,1500000.00,1991-07-22 00:00:00,England
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/dean-hammond/profil/spieler/33065,Dean Hammond,Central Midfield,500000,1983-03-07 00:00:00,England
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/marc-albrighton/profil/spieler/61560,Marc Albrighton,Right Midfield,4000000.00,1989-11-18 00:00:00,England
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/jeffrey-schlupp/profil/spieler/157506,Jeffrey Schlupp,Left Midfield,7000000.00,1992-12-23 00:00:00,Ghana
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/demarai-gray/profil/spieler/292417,Demarai Gray,Left Winger,6000000.00,1996-06-28 00:00:00,England
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/tom-lawrence/profil/spieler/229970,Tom Lawrence,Left Winger,1000000.00,1994-01-13 00:00:00,Wales
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/joe-dodoo/profil/spieler/261738,Joe Dodoo,Left Winger,-1,1995-06-29 00:00:00,England
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/andre-olukanmi/profil/spieler/383152,André Olukanmi,Left Winger,-1,1997-12-01 00:00:00,England
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/riyad-mahrez/profil/spieler/171424,Riyad Mahrez,Right Winger,20000000.00,1991-02-21 00:00:00,Algeria
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/nathan-dyer/profil/spieler/37011,Nathan Dyer,Right Winger,4000000.00,1987-11-29 00:00:00,England
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/harry-panayiotou/profil/spieler/224673,Harry Panayiotou,Second Striker,-1,1994-10-28 00:00:00,St. Kitts &amp; Nevis
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/jamie-vardy/profil/spieler/197838,Jamie Vardy,Centre-Forward,18000000.00,1987-01-11 00:00:00,England
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/shinji-okazaki/profil/spieler/79642,Shinji Okazaki,Centre-Forward,10000000.00,1986-04-16 00:00:00,Japan
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/leonardo-ulloa/profil/spieler/54890,Leonardo Ulloa,Centre-Forward,8000000.00,1986-07-26 00:00:00,Argentina
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/andrej-kramaric/profil/spieler/46580,Andrej Kramaric,Centre-Forward,7500000.00,1991-06-19 00:00:00,Croatia
+https://www.transfermarkt.com/leicester-city/startseite/verein/1003/saison_id/2015,/jacob-blyth/profil/spieler/251914,Jacob Blyth,Centre-Forward,100000,1992-08-14 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/artur-boruc/profil/spieler/15220,Artur Boruc,Goalkeeper,1000000.00,1980-02-20 00:00:00,Poland
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/adam-federici/profil/spieler/4233,Adam Federici,Goalkeeper,1000000.00,1985-01-31 00:00:00,Australia
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/ryan-allsop/profil/spieler/111073,Ryan Allsop,Goalkeeper,250000,1992-06-17 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/marius-adamonis/profil/spieler/300137,Marius Adamonis,Goalkeeper,50000,1997-05-13 00:00:00,Lithuania
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/jordan-holmes/profil/spieler/399158,Jordan Holmes,Goalkeeper,-1,1997-05-08 00:00:00,Australia
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/tyrone-mings/profil/spieler/253677,Tyrone Mings,Centre-Back,6000000.00,1993-03-13 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/steve-cook/profil/spieler/90836,Steve Cook,Centre-Back,3000000.00,1991-04-19 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/tommy-elphick/profil/spieler/37152,Tommy Elphick,Centre-Back,1500000.00,1987-09-07 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/sylvain-distin/profil/spieler/3356,Sylvain Distin,Centre-Back,750000,1977-12-16 00:00:00,France
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/elliott-ward/profil/spieler/15838,Elliott Ward,Centre-Back,500000,1985-01-19 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/stephane-zubar/profil/spieler/56829,Stéphane Zubar,Centre-Back,250000,1986-10-09 00:00:00,Guadeloupe
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/baily-cargill/profil/spieler/293450,Baily Cargill,Centre-Back,250000,1995-07-05 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/jack-simpson/profil/spieler/419930,Jack Simpson,Centre-Back,-1,1996-12-18 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/corey-jordan/profil/spieler/435765,Corey Jordan,Centre-Back,-1,1999-03-04 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/matt-ritchie/profil/spieler/92469,Matt Ritchie,Left-Back,6000000.00,1989-09-10 00:00:00,Scotland
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/charlie-daniels/profil/spieler/61819,Charlie Daniels,Left-Back,2000000.00,1986-09-07 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/joe-bennett/profil/spieler/90964,Joe Bennett,Left-Back,1500000.00,1990-03-28 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/rhoys-wiggins/profil/spieler/42298,Rhoys Wiggins,Left-Back,750000,1987-11-04 00:00:00,Wales
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/filippo-costa/profil/spieler/197743,Filippo Costa,Left-Back,250000,1995-05-21 00:00:00,Italy
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/callum-buckley/profil/spieler/398398,Callum Buckley,Left-Back,-1,1996-01-12 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/simon-francis/profil/spieler/13573,Simon Francis,Right-Back,2000000.00,1985-02-16 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/adam-smith/profil/spieler/61841,Adam Smith,Right-Back,1500000.00,1991-04-29 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/jordan-lee/profil/spieler/416621,Jordan Lee,Right-Back,-1,1996-12-31 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/matt-butcher/profil/spieler/391132,Matt Butcher,Defensive Midfield,-1,1997-05-14 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/dan-gosling/profil/spieler/44983,Dan Gosling,Central Midfield,2000000.00,1990-02-01 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/andrew-surman/profil/spieler/29975,Andrew Surman,Central Midfield,1500000.00,1986-08-20 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/harry-arter/profil/spieler/55742,Harry Arter,Central Midfield,1500000.00,1989-12-28 00:00:00,Ireland
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/eunan-okane/profil/spieler/61583,Eunan O'Kane,Central Midfield,1500000.00,1990-07-10 00:00:00,Ireland
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/shaun-macdonald/profil/spieler/10375,Shaun MacDonald,Central Midfield,500000,1988-06-17 00:00:00,Wales
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/josh-wakefield/profil/spieler/225166,Josh Wakefield,Central Midfield,100000,1993-11-06 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/joe-quigley/profil/spieler/386148,Joe Quigley,attack,-1,1996-12-10 00:00:00,Ireland
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/juan-iturbe/profil/spieler/81455,Juan Iturbe,Left Winger,15000000.00,1993-06-04 00:00:00,Paraguay
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/max-gradel/profil/spieler/28140,Max Gradel,Left Winger,8000000.00,1987-11-30 00:00:00,Cote d'Ivoire
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/junior-stanislas/profil/spieler/87672,Junior Stanislas,Left Winger,4000000.00,1989-11-26 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/christian-atsu/profil/spieler/186997,Christian Atsu,Left Winger,3500000.00,1992-01-10 00:00:00,Ghana
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/marc-pugh/profil/spieler/36939,Marc Pugh,Left Winger,2000000.00,1987-04-02 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/ryan-fraser/profil/spieler/146795,Ryan Fraser,Left Winger,500000,1994-02-24 00:00:00,Scotland
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/harry-cornick/profil/spieler/255703,Harry Cornick,Right Winger,-1,1995-04-09 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/jordan-green/profil/spieler/416622,Jordan Green,Right Winger,-1,1995-02-22 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/lee-tomlin/profil/spieler/104586,Lee Tomlin,Second Striker,3500000.00,1989-01-12 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/joshua-king/profil/spieler/91059,Joshua King,Second Striker,2000000.00,1992-01-15 00:00:00,Norway
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/benik-afobe/profil/spieler/110858,Benik Afobe,Centre-Forward,9000000.00,1993-02-12 00:00:00,DR Congo
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/callum-wilson/profil/spieler/123682,Callum Wilson,Centre-Forward,7000000.00,1992-02-27 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/glenn-murray/profil/spieler/45693,Glenn Murray,Centre-Forward,4000000.00,1983-09-25 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/lewis-grabban/profil/spieler/35413,Lewis Grabban,Centre-Forward,4000000.00,1988-01-12 00:00:00,Jamaica
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/tokelo-rantie/profil/spieler/198495,Tokelo Rantie,Centre-Forward,1000000.00,1990-09-08 00:00:00,South Africa
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/yann-kermorgant/profil/spieler/57410,Yann Kermorgant,Centre-Forward,500000,1981-11-08 00:00:00,France
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/jayden-stockley/profil/spieler/134293,Jayden Stockley,Centre-Forward,250000,1993-09-15 00:00:00,England
+https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2015,/sam-surridge/profil/spieler/398402,Sam Surridge,Centre-Forward,-1,1998-07-28 00:00:00,England

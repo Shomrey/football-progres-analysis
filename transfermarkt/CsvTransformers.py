@@ -85,18 +85,49 @@ class CsvTransformers:
         filename = os.path.join("csv_transform", "Values.csv")
         df.to_csv(filename, index=False)
 
+    def transform_values_missing(self):
+        print("sfdsdf")
+        filename = os.path.join("csv", "Values_Missing.csv")
+        df = pd.read_csv(filename)
+        print(df)
+        for i, row in df.iterrows():
+            df.at[i, 'date'] = self.get_date_time(df.at[i, 'date'])
+        df.drop('Unnamed: 0', axis=1, inplace=True)
+
+        # extra_files = ["Values_Missing3.csv", "Values_Missing5.csv"]
+        # for extra_file in extra_files:
+        #     filename2 = os.path.join("csv", extra_file)
+        #     df2 = pd.read_csv(filename2)
+        #     print(df2)
+        #     for i, row in df2.iterrows():
+        #         print("))))99")
+        #         print(row)
+        #         print("FDsdfsdsfd")
+        #         if df2.at[i, 3]:
+        #             df2.at[i, 3] = self.get_date_time(df2.at[i, 3])
+        #         print("))))92")
+        #         new_row = {'player_reference': df2.at[i, 1], 'value': df2.at[i, 2],
+        #                    'club': df2.at[i, 3], 'date': df2.at[i, 4]}
+        #         # append row to the dataframe
+        #         df_marks = df_marks.append(new_row, ignore_index=True)
+        #
+        #         df.append(-1, df2.at[i, 1], df2.at[i, 2], df2.at[i, 3], df2.at[i, 4])
+
+        filename = os.path.join("csv_transform", "Values_Missing.csv")
+        df.to_csv(filename, index=False)
+
 
 helper = CsvTransformers()
 
-seasons = ['2015', '2016', '2017', '2018', '2019', '2020']
-
-for season in seasons:
-    helper.transform_clubs("Clubs_" + season + ".csv")
-    helper.transform_players("Players_" + season + ".csv")
+# seasons = ['2015', '2016', '2017', '2018', '2019', '2020']
+#
+# for season in seasons:
+#     helper.transform_clubs("Clubs_" + season + ".csv")
+#     helper.transform_players("Players_" + season + ".csv")
 
 # helper.transform_players()
-# helper.transform_values()
 
+helper.transform_values_missing()
 
 # euros = helper.get_string_monetary_value_as_decimal("€56.00m")
 # print(euros)

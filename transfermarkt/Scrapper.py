@@ -24,6 +24,8 @@ class Scrapper:
 
     def scrap_historical_values(self, url):
         records_to_return = []
+        print(url)
+
         try:
 
             req = requests.get(url, headers=self.headers)
@@ -144,4 +146,12 @@ class Scrapper:
     def get_url_with_historical_values(self, player_url):
         first_part = player_url.split("/profil", 1)[0]
         last_part = player_url.split("/profil/", 1)[1]
+        return first_part + "/marktwertverlauf/" + last_part
+
+    def get_url_with_historical_values_v2(self, player_url):
+        first_part = player_url.split("/profil", 1)[0]
+        last_part = player_url.split("/profil/", 1)[1]
+        # print(first_part)
+        # print(last_part)
+        # print("last part")
         return first_part + "/marktwertverlauf/" + last_part

@@ -208,7 +208,7 @@ def select_player_id_from_players_transfermarkt_by_url(url):
 def insert_into_players_transfermarkt_fpl():
     cnx = sqlite3.connect('fpa-database.db')
 
-    df_transfer = pd.read_sql_query("SELECT player_name FROM players_transfermarkt group by player_name", cnx)
+    df_transfer = pd.read_sql_query("SELECT * FROM players_transfermarkt", cnx)
     print(df_transfer)
 
     df_fpl = pd.read_sql_query("SELECT * FROM players", cnx)

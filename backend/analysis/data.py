@@ -1,5 +1,7 @@
 from . import prediction
 import sqlite3
+import pandas as pd
+
 
 forwards_training_parameters = ['bps', 'influence', 'goals_scored',
                                 'ict_index', 'total_points']
@@ -22,5 +24,22 @@ prediction.predict_value(wingers, wingers_training_parameters, target, result_co
 prediction.predict_value(midfielders, wingers_training_parameters, target, result_column_name='predicted_value')
 
 
+def get_players_stats(season):
+    global cnx
+    players_stats = pd.read_sql_query("SELECT * from player_statistics as p " + \
+                                           "WHERE p.year = {}".format(season), cnx)
+    player_names = players_stats.iloc[:, [0, 1, 2, -2, -1]]
+    player_data = players_stats.iloc[:, 3:-2]
+    return players_stats, player_names, player_data
 
 
+def get_guid_for_player(dataframe, first_name, second_name):
+    try:
+        player = players_with_values[(dataframe['first_name'] == first_name) & (dataframe['second_name'] == second_name)]
+        player_guid = player['guid'].values[0]
+        return player_guid
+    except:
+        raise PlayerNotFound()
+
+class PlayerNotFound(Exception):
+    pass

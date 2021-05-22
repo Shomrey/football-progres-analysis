@@ -30,17 +30,15 @@ def divide_dataframe(players):
     return names, stats
 
 
-def find_closest_players_for_player_in_season(neighbours_season, players_df, guid, n=5):
-    cnx = sqlite3.connect('Database/fpa-database.db')
+def find_closest_players_for_player_in_season(cnx, neighbours_season, players_df, guid, n=5):
     counter = 0
-    index  = get_index_for_player_guid(players_df, guid)
+    index = get_index_for_player_guid(players_df, guid)
 
     possible_neighbours = pd.read_sql_query("SELECT * from player_statistics as p " + \
                                             "WHERE p.year = {}".format(neighbours_season), cnx)
 
     possible_neighbours_names, possible_neighbours_stats = divide_dataframe(possible_neighbours)
     names, stats = divide_dataframe(players_df)
-
 
     try:
         index = index.tolist()[0]
@@ -62,3 +60,21 @@ def find_closest_players_for_player_in_season(neighbours_season, players_df, gui
         counter = counter + 1
         if counter == n:
             return neighbours
+
+
+def get_closest_players_dataframe(players_with_values, closest_players):
+    guids = []
+    columns = players_with_values.columns
+    closest_players_df = pd.DataFrame(columns=columns)
+
+    for a in closest_players.values():
+        guid = a.guid
+        player_data = players_with_values[(players_with_values['guid'] == guid) & (players_with_values['year'] == 2016) ]
+        for i, j in player_data.iterrows():
+            if guid in guids:
+                pass
+            else:
+                guids.append(guid)
+                closest_players_df = closest_players_df.append(j)
+
+    return closest_players_df

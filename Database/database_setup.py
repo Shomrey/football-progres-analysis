@@ -209,10 +209,10 @@ def select_player_id_from_players_transfermarkt_by_url(url):
     cursor.execute(sql_insert_into_clubs, data_tuple)
 
     rows = cursor.fetchall()
+    sqlite_connection.close()
 
     for row in rows:
         return row[0]
-    sqlite_connection.close()
 
 
 # def insert_into_players_transfermarkt_fpl():

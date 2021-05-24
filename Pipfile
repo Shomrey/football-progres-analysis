@@ -14,6 +14,7 @@ unidecode = "*"
 matplotlib = "*"
 scikit-learn = "*"
 jupyter = "*"
+flask = "*"
 
 [requires]
 python_version = "3.8"

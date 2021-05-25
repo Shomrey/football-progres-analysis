@@ -215,34 +215,6 @@ def select_player_id_from_players_transfermarkt_by_url(url):
         return row[0]
 
 
-# def insert_into_players_transfermarkt_fpl():
-#     cnx = sqlite3.connect('fpa-database.db')
-#
-#     df_transfer = pd.read_sql_query("SELECT * FROM players_transfermarkt", cnx)
-#     print(df_transfer)
-#
-#     df_fpl = pd.read_sql_query("SELECT * FROM players", cnx)
-#
-#     for index_transfer, row_transfer in df_transfer.iterrows():
-#         for index_fpl, row_fpl in df_fpl.iterrows():
-#             if unidecode(row_transfer["player_name"]) == unidecode(
-#                     row_fpl["first_name"] + " " + row_fpl["second_name"]):
-#                 try:
-#                     cursor = cnx.cursor()
-#                     sql_insert_into_clubs = '''INSERT INTO players_transfermarkt_fpl
-#                                                           (player_id_transfermarkt,player_id_fpl)
-#                                                            VALUES
-#                                                           (?, ?)'''
-#
-#                     data_tuple = (row_transfer['id'], row_fpl['guid'])
-#                     cursor.execute(sql_insert_into_clubs, data_tuple)
-#                     cnx.commit()
-#                 except sqlite3.Error as error:
-#
-#                     print("Error while creating a sqlite table", error)
-#                 except Exception as e:
-#                     print(e)
-#     if (cnx): cnx.close()
 
 
 cursor = connection.cursor()

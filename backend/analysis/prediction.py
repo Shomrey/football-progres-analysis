@@ -4,7 +4,10 @@ from sklearn.linear_model import LinearRegression
 FORWARDS = 'forwards'
 WINGERS = 'wingers'
 MIDFIELDERS = 'midfielders'
-VALID_POSITIONS = [FORWARDS, WINGERS, MIDFIELDERS]
+BACK_DEFENDERS = 'back-defenders'
+CENTER_DEFENDERS = 'center-defenders'
+GOALKEEPERS = 'goalkeepers'
+VALID_POSITIONS = [FORWARDS, WINGERS, MIDFIELDERS, BACK_DEFENDERS, CENTER_DEFENDERS, GOALKEEPERS]
 
 
 def get_perspective_players_dataframe(data, columns, min_percent, max_percent):
@@ -96,6 +99,12 @@ def get_players_by_position(players_with_values, position):
         result = wingers
     elif position == MIDFIELDERS:
         result = midfielders
+    elif position == BACK_DEFENDERS:
+        result = back_defenders
+    elif position == CENTER_DEFENDERS:
+        result = center_defenders
+    elif position == GOALKEEPERS:
+        result = goalkeepers
     return result
     # corr = forwards.corr()
     # forwards_corr = corr['player_value']

@@ -25,6 +25,12 @@ def get_perspective_players_by_position(position):
         players_by_position = data.wingers
     elif position == prediction.MIDFIELDERS:
         players_by_position = data.midfielders
+    elif position == prediction.BACK_DEFENDERS:
+        players_by_position = data.back_defenders
+    elif position == prediction.CENTER_DEFENDERS:
+        players_by_position = data.center_defenders
+    elif position == prediction.GOALKEEPERS:
+        players_by_position = data.goalkeepers
 
     perspective_players = prediction.get_player_for_given_season(players_by_position, season=season, max_age=max_age)
     perspective_players_sorted = perspective_players.sort_values('predicted_value_diff_percent', ascending=False)
@@ -83,8 +89,17 @@ def get_closest_players(guid):
     return json.dumps(results), 200
 
 
+@app_analysis.route('/player/<int:guid>', methods=["GET"])
+def get_player_stats(guid):
+    player_data = data.players_with_values[data.players_with_values['guid'] == guid]
+    results = dict()
+    player_data = json.loads(player_data.to_json(orient='records'))
+    results['player_data'] = player_data
+    return results, 200
+
+
 @app_analysis.route('/player')
-def get_guid_por_player():
+def get_guid_for_player():
     first_name = request.args.get('first', type=str)
     second_name = request.args.get('second', type=str)
     try:

@@ -15,7 +15,7 @@ goalkeepers_training_parameters = ['clean_sheets', 'total_points', 'minutes']
 
 
 target = 'player_value'
-cnx = sqlite3.connect('../Database/fpa-database.db', check_same_thread=False)
+cnx = sqlite3.connect('../Database/fpa-database-fix.db', check_same_thread=False)
 
 
 players_with_values = prediction.get_players_with_values(cnx)

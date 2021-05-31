@@ -8,7 +8,7 @@ cwd = os.getcwd()
 scrapper = Scrapper()
 
 #done
-# players = select_player_than_not_have_values_yet(db_path="..//Database//fpa-database.db")
+# players = select_player_than_not_have_values_yet(db_path="..//Database//fpa-database-fix.db")
 #
 # historic_values = []
 # for player in players:

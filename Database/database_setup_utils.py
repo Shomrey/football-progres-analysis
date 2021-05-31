@@ -1,7 +1,7 @@
 import sqlite3 as sql
 import os
 
-database_name = 'fpa-database.db'
+database_name = 'fpa-database-fix.db'
 
 
 def create_connection(db_name = database_name):

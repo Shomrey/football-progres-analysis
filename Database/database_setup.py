@@ -69,7 +69,7 @@ def insert_into_clubs():
 
         for index, row in df.iterrows():
             try:
-                sqlite_connection = sqlite3.connect("fpa-database.db")
+                sqlite_connection = sqlite3.connect("fpa-database-fix.db")
                 cursor = sqlite_connection.cursor()
 
                 sql_insert_into_clubs = '''INSERT INTO clubs
@@ -94,7 +94,7 @@ def insert_into_players_transfermarkt():
         df = pd.read_csv(filename)
         for index, row in df.iterrows():
             try:
-                sqlite_connection = sqlite3.connect("fpa-database.db")
+                sqlite_connection = sqlite3.connect("fpa-database-fix.db")
                 cursor = sqlite_connection.cursor()
 
                 sql_insert_into_clubs = '''INSERT INTO players_transfermarkt
@@ -121,7 +121,7 @@ def insert_into_player_values():
     df = pd.read_csv(filename)
     for index, row in df.iterrows():
         try:
-            sqlite_connection = sqlite3.connect("fpa-database.db")
+            sqlite_connection = sqlite3.connect("fpa-database-fix.db")
             cursor = sqlite_connection.cursor()
 
             sql_insert_into_clubs = '''INSERT INTO player_values
@@ -150,7 +150,7 @@ def insert_into_player_values_missing():
     df = pd.read_csv(filename)
     for index, row in df.iterrows():
         try:
-            sqlite_connection = sqlite3.connect("fpa-database.db")
+            sqlite_connection = sqlite3.connect("fpa-database-fix.db")
             cursor = sqlite_connection.cursor()
 
             sql_insert_into_clubs = '''INSERT INTO player_values
@@ -176,7 +176,7 @@ def insert_into_player_values_missing():
 
 
 def select_club_id_from_clubs_by_url(url):
-    sqlite_connection = sqlite3.connect("fpa-database.db")
+    sqlite_connection = sqlite3.connect("fpa-database-fix.db")
     cursor = sqlite_connection.cursor()
     sql_insert_into_clubs = '''SELECT  id from clubs where url = ?'''
     data_tuple = (url,)
@@ -189,7 +189,7 @@ def select_club_id_from_clubs_by_url(url):
         return row[0]
 
 def select_all_players_names():
-    sqlite_connection = sqlite3.connect("fpa-database.db")
+    sqlite_connection = sqlite3.connect("fpa-database-fix.db")
     cursor = sqlite_connection.cursor()
     sql_insert_into_clubs = '''select player_name from players_transfermarkt group by player_name'''
     cursor.execute(sql_insert_into_clubs)
@@ -202,7 +202,7 @@ def select_all_players_names():
 
 
 def select_player_id_from_players_transfermarkt_by_url(url):
-    sqlite_connection = sqlite3.connect("fpa-database.db")
+    sqlite_connection = sqlite3.connect("fpa-database-fix.db")
     cursor = sqlite_connection.cursor()
     sql_insert_into_clubs = '''SELECT  id from players_transfermarkt where url = ?'''
     data_tuple = (url,)

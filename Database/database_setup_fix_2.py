@@ -17,7 +17,7 @@ sqlite_create_table_values = ''' CREATE TABLE IF NOT EXISTS player_values_transf
 
 
 def insert_into_player_values_transfermarkt():
-    cnx = sqlite3.connect('fpa-database.db')
+    cnx = sqlite3.connect('fpa-database-fix.db')
 
     df_transfermarkt = pd.read_sql_query("select * from player_values", cnx)
 
@@ -45,7 +45,7 @@ def insert_into_player_values_transfermarkt():
 
 
 def select_player_id_global_from_players_transfermarkt_id(id):
-    sqlite_connection = sqlite3.connect("fpa-database.db")
+    sqlite_connection = sqlite3.connect("fpa-database-fix.db")
     cursor = sqlite_connection.cursor()
     sql_select = '''select id from players_transfermarkt_singles where player_name = (select player_name from players_transfermarkt pt where id = ? group by player_name);'''
     data_tuple = (id,)

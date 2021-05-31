@@ -9,7 +9,7 @@ import numpy as np
 
 
 def get_values_from_db(transfermarkt_player_id):
-    cnx = sqlite3.connect('fpa-database.db')
+    cnx = sqlite3.connect('fpa-database-fix.db')
 
     cur = cnx.cursor()
     cur.execute(
@@ -49,7 +49,7 @@ def get_values_from_db(transfermarkt_player_id):
 
 
 def get_fpl_first_name_and_last_name_from_transfermarkt_id(transfermarkt_id):
-    sqlite_connection = sqlite3.connect("fpa-database.db")
+    sqlite_connection = sqlite3.connect("fpa-database-fix.db")
     cursor = sqlite_connection.cursor()
     sql_select = '''select first_name, second_name, guid from players where guid =
                             (select player_id_fpl from players_transfermarkt_fpl where player_id_transfermarkt = ?);'''
@@ -64,7 +64,7 @@ def get_fpl_first_name_and_last_name_from_transfermarkt_id(transfermarkt_id):
 
 
 def head_to_head_comparison(transfermarkt_player_id_1, transfermarkt_player_id_2):
-    cnx = sqlite3.connect('fpa-database.db')
+    cnx = sqlite3.connect('fpa-database-fix.db')
 
     cur = cnx.cursor()
     cur.execute(

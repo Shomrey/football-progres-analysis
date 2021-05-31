@@ -8,7 +8,7 @@ print(unidecode(text))
 import sqlite3
 import pandas as pd
 # Create your connection.
-cnx = sqlite3.connect('fpa-database.db')
+cnx = sqlite3.connect('fpa-database-fix.db')
 
 df_transfer = pd.read_sql_query("SELECT * FROM players_transfermarkt", cnx)
 print(df_transfer)

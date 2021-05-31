@@ -14,7 +14,7 @@ player_transfermarkt_fpl = ('players_transfermarkt_fpl', 'players_transfermarkt_
 
 list_of_tables = [player_guid, position, player_statistics, clubs, player_transfermarkt, player_values, player_transfermarkt_fpl]
 
-connection = sql.connect("fpa-database.db")
+connection = sql.connect("fpa-database-fix.db")
 
 for table in list_of_tables:
     tmp_df = pd.read_sql_query('SELECT * FROM {}'.format(table[0]), connection)

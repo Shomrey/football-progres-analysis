@@ -8,7 +8,7 @@ from . import closest_players_search
 
 app_analysis = Blueprint("app_login", __name__)
 
-cnx = sqlite3.connect('../Database/fpa-database.db', check_same_thread=False)
+cnx = sqlite3.connect('../Database/fpa-database-fix.db', check_same_thread=False)
 
 
 @app_analysis.route('/perspective/<position>', methods=["GET"])

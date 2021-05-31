@@ -53,9 +53,9 @@ def fit_linear_regression(data, training_parameters, target):
 def get_players_with_values(cnx):
     players_with_values = pd.read_sql_query("SELECT * from players as p " + \
                                             "JOIN players_transfermarkt_fpl as ptf on ptf.player_id_fpl = p.guid " + \
-                                            "JOIN players_transfermarkt as pt on pt.id = ptf.player_id_transfermarkt " +
+                                            "JOIN players_transfermarkt_singles as pts on pts.id = ptf.player_id_transfermarkt " +
                                             "JOIN player_statistics as ps on ps.guid = p.guid " +
-                                            "JOIN player_values as pv on pv.transfermarkt_player_id = pt.id " +
+                                            "JOIN player_values as pv on pv.transfermarkt_player_id = pts.id " +
                                             "WHERE strftime('%Y',pv.date_stamp) = ps.year", cnx)
 
     players_with_values = players_with_values.dropna(axis=1)

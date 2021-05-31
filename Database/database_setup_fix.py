@@ -25,7 +25,7 @@ sqlite_create_table_players_transfermarkt_fpl = ''' CREATE TABLE IF NOT EXISTS p
 
 
 def insert_into_players_transfermarkt_singles():
-    cnx = sqlite3.connect('fpa-database.db')
+    cnx = sqlite3.connect('fpa-database-fix.db')
 
     df_transfermarkt = pd.read_sql_query("select player_name from players_transfermarkt group by player_name", cnx)
 
@@ -51,7 +51,7 @@ def insert_into_players_transfermarkt_singles():
 
 
 def insert_into_players_transfermarkt_fpl():
-    cnx = sqlite3.connect('fpa-database.db')
+    cnx = sqlite3.connect('fpa-database-fix.db')
 
     df_transfer = pd.read_sql_query("SELECT * FROM players_transfermarkt_singles", cnx)
     print(df_transfer)
@@ -83,7 +83,7 @@ def insert_into_players_transfermarkt_fpl():
 
 
 def insert_into_players_transfermarkt_fpl_extra_time():
-    cnx = sqlite3.connect('fpa-database.db')
+    cnx = sqlite3.connect('fpa-database-fix.db')
 
     df_transfer = pd.read_sql_query(
         "select * from players_transfermarkt_singles pt where pt.id not in (select player_id_transfermarkt from players_transfermarkt_fpl)",
@@ -124,7 +124,7 @@ def insert_into_players_transfermarkt_fpl_extra_time():
 
 
 def insert_into_players_transfermarkt_fpl_singles(name_transfer, first_name, second_name):
-    cnx = sqlite3.connect('fpa-database.db')
+    cnx = sqlite3.connect('fpa-database-fix.db')
 
     cur = cnx.cursor()
     cur.execute("""select * 

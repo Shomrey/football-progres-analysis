@@ -50,9 +50,9 @@ def get_player_value_chart(guid):
     axes.legend(sc.legend_elements()[0], labels)
     plt.ylabel("Market value [mln euro]")
     plt.plot(x, b, linestyle='dashed')
-    plt.show()
-    path = os.path.join("../dynamic_charts", get_player_surname(guid))
+    path = os.path.join("../dynamic_charts/{}".format(get_player_surname(guid)))
     plt.savefig(os.path.join(path))
+    plt.show()
     if (cnx): cnx.close()
     return path
 

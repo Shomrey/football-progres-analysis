@@ -118,7 +118,7 @@ def get_guid_for_player():
     return 'Player: {} {} GUID: {} '.format(first_name, second_name, guid), 200
 
 
-@app_analysis.route('/playerValueChart', methods=["GET"])
+@app_analysis.route('/chart', methods=["GET"])
 def generate_player_value_chart():
     guid = request.args.get('guid', type=int)
     return_dict = dict()

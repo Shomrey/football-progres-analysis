@@ -55,7 +55,7 @@ def get_players_with_values(cnx):
                                             "JOIN players_transfermarkt_fpl as ptf on ptf.player_id_fpl = p.guid " + \
                                             "JOIN players_transfermarkt_singles as pts on pts.id = ptf.player_id_transfermarkt " +
                                             "JOIN player_statistics as ps on ps.guid = p.guid " +
-                                            "JOIN player_values as pv on pv.transfermarkt_player_id = pts.id " +
+                                            "JOIN player_values_transfermarkt as pv on pv.transfermarkt_player_id = pts.id " +
                                             "WHERE strftime('%Y',pv.date_stamp) = ps.year", cnx)
 
     players_with_values = players_with_values.dropna(axis=1)

@@ -51,7 +51,7 @@ def get_player_value_chart(guid):
     plt.ylabel("Market value [mln euro]")
     plt.plot(x, b, linestyle='dashed')
     plt.show()
-    path = os.path.join("..", "dynamic_charts", get_player_surname(guid))
+    path = os.path.join("../dynamic_charts", get_player_surname(guid))
     plt.savefig(os.path.join(path))
     if (cnx): cnx.close()
     return path
@@ -63,11 +63,11 @@ def get_player_surname(guid):
     cur = cnx.cursor()
     cur.execute(
         """select second_name
-           from players""",
+           from players where guid = ?""",
         (guid,))
     rows = cur.fetchall()
     if (cnx): cnx.close()
-    return rows[0]
+    return rows[0][0]
 
 
 def get_player_transfermarkt_id_by_guid(guid):
@@ -81,7 +81,7 @@ def get_player_transfermarkt_id_by_guid(guid):
         (guid,))
     rows = cur.fetchall()
     if (cnx): cnx.close()
-    return rows[0]
+    return rows[0][0]
 
 
 def get_players_comparison_value_chart(guid1, guid2):

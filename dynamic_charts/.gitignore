@@ -1,0 +1,2 @@
+# extra file, to include directory dynamic_charts but not its content
+*.png

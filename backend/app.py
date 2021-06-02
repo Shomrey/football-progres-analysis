@@ -1,6 +1,5 @@
 from flask import Flask
 
-from typing import Optional
 from analysis.analysis_api import app_analysis
 
 

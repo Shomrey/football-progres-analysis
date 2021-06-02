@@ -1,14 +1,19 @@
+import os
+
 from flask import Blueprint, request
 import sqlite3
 import pandas as pd
 import json
+
+from Database.database_constants import DATABASE_NAME
 from . import prediction
 from . import data
 from . import closest_players_search
+from . import chart_service
+from .chart_service import get_players_comparison_value_chart, get_player_value_chart
 
 app_analysis = Blueprint("app_login", __name__)
-
-cnx = sqlite3.connect('../Database/fpa-database-fix.db', check_same_thread=False)
+cnx = sqlite3.connect(os.path.join("..", "Database", DATABASE_NAME), check_same_thread=False)
 
 
 @app_analysis.route('/perspective/<position>', methods=["GET"])
@@ -55,8 +60,10 @@ def get_closest_players(guid):
         neighbour_season = request.args.get('neighseason', default=2016, type=int)
         players_stats, _, _ = data.get_players_stats(season)
 
-        closest_players = closest_players_search.find_closest_players_for_player_in_season(cnx, neighbour_season, players_stats, guid=guid)
-        closest_players_df = closest_players_search.get_closest_players_dataframe(data.players_with_values, closest_players)
+        closest_players = closest_players_search.find_closest_players_for_player_in_season(cnx, neighbour_season,
+                                                                                           players_stats, guid=guid)
+        closest_players_df = closest_players_search.get_closest_players_dataframe(data.players_with_values,
+                                                                                  closest_players)
         print(closest_players_df)
         print(closest_players_df['guid'])
     except data.PlayerNotFound:
@@ -73,7 +80,8 @@ def get_closest_players(guid):
     player_vals = pd.read_sql_query("""SELECT ftp.player_id_fpl as guid, p.date_stamp, p.player_value, p.player_club from player_values as p 
                                         JOIN players_transfermarkt_fpl as ftp on ftp.player_id_transfermarkt = p.transfermarkt_player_id
                                                 WHERE ftp.player_id_fpl IN {}
-                                                AND p.date_stamp BETWEEN '{}-01-01 00:00:01' AND '{}-12-31 23:59:59'""".format(guids, neighbour_season, neighbour_season+2), cnx)
+                                                AND p.date_stamp BETWEEN '{}-01-01 00:00:01' AND '{}-12-31 23:59:59'""".format(
+        guids, neighbour_season, neighbour_season + 2), cnx)
 
     closest_players_values = closest_players_values.append(player_vals)
     max_value = (closest_players_values['player_value'].max())
@@ -108,3 +116,31 @@ def get_guid_for_player():
         return 'Bad request', 400
 
     return 'Player: {} {} GUID: {} '.format(first_name, second_name, guid), 200
+
+
+@app_analysis.route('/playerValueChart', methods=["GET"])
+def generate_player_value_chart():
+    guid = request.args.get('guid', type=int)
+    return_dict = dict()
+    try:
+        path_to_chart = get_player_value_chart(guid)
+        return_dict['pathToChart'] = path_to_chart
+    except:
+        return 'Internal server error', 500
+
+    return json.dumps(return_dict), 200
+
+
+@app_analysis.route('/playersComparisonValueChart', methods=["GET"])
+def generate_players_comparison_value_chart():
+    guid1 = request.args.get('guid1', type=int)
+    guid2 = request.args.get('guid2', type=int)
+
+    return_dict = dict()
+    try:
+        path_to_chart = get_players_comparison_value_chart(guid1, guid2)
+        return_dict['pathToChart'] = path_to_chart
+    except:
+        return 'Internal server error', 500
+
+    return json.dumps(return_dict), 200

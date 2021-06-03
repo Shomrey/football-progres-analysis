@@ -50,7 +50,7 @@ def get_player_value_chart(guid):
     axes.legend(sc.legend_elements()[0], labels)
     plt.ylabel("Market value [mln euro]")
     plt.plot(x, b, linestyle='dashed')
-    path = os.path.join("../dynamic_charts/{}".format(get_player_surname(guid)))
+    path = os.path.join("../dynamic_charts/{}.png".format(get_player_surname(guid)))
     plt.savefig(os.path.join(path))
     plt.show()
     if (cnx): cnx.close()
@@ -152,7 +152,7 @@ def get_players_comparison_value_chart(guid1, guid2):
                 loc='lower center')
     # Manually add the first legend back
     axes.add_artist(legend1)
-    path = os.path.join("..", "dynamic_charts", get_player_surname(guid1) + "_" + get_player_surname(guid2))
+    path = os.path.join("../dynamic_charts/{}_{}.png".format(get_player_surname(guid1), get_player_surname(guid2)))
     plt.savefig(os.path.join(path))
     plt.show()
     if (cnx): cnx.close()

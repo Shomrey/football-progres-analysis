@@ -100,10 +100,53 @@ def get_closest_players(guid):
 @app_analysis.route('/player/<int:guid>', methods=["GET"])
 def get_player_stats(guid):
     player_data = data.players_with_values[data.players_with_values['guid'] == guid]
+    player_data = player_data.groupby('year').agg('max')
+
     results = dict()
     player_data = json.loads(player_data.to_json(orient='records'))
     results['player_data'] = player_data
-    return results, 200
+
+    try:
+        path_to_chart = get_player_value_chart(guid)
+        results['pathToChart'] = path_to_chart
+    except:
+        return 'Internal server error', 500
+
+    return json.dumps(results), 200
+
+
+@app_analysis.route('/player/compare', methods=["GET"])
+def compare_two_players():
+    guid1 = request.args.get('guid1', type=int)
+    guid2 = request.args.get('guid2', type=int)
+
+    season1 = request.args.get('season1', type=int)
+    season2 = request.args.get('season2', type=int)
+
+    player_data_1 = get_player_stats_in_season(guid1, season1)
+    player_data_2 = get_player_stats_in_season(guid2, season2)
+
+    results = dict()
+    player_data_1 = json.loads(player_data_1.to_json(orient='records'))
+    player_data_2 = json.loads(player_data_2.to_json(orient='records'))
+
+    results['player_data_1'] = player_data_1
+    results['player_data_2'] = player_data_2
+
+    try:
+        path_to_chart = get_players_comparison_value_chart(guid1, guid2)
+        results['pathToChart'] = path_to_chart
+    except:
+        return 'Cannot get chart', 400
+
+    return json.dumps(results), 200
+
+
+def get_player_stats_in_season(guid, season):
+    player_data = data.players_with_values[(data.players_with_values['guid'] == guid) &
+                                           (data.players_with_values['year'] == season)]
+    player_data = player_data.groupby('year').agg('max')
+    return player_data
 
 
 @app_analysis.route('/player')
@@ -115,32 +158,9 @@ def get_guid_for_player():
     except:
         return 'Bad request', 400
 
-    return 'Player: {} {} GUID: {} '.format(first_name, second_name, guid), 200
+    result = dict()
+    result['first_name'] = first_name
+    result['second_name'] = second_name
+    result['guid'] = int(guid)
+    return json.dumps(result), 200
 
-
-@app_analysis.route('/chart', methods=["GET"])
-def generate_player_value_chart():
-    guid = request.args.get('guid', type=int)
-    return_dict = dict()
-    try:
-        path_to_chart = get_player_value_chart(guid)
-        return_dict['pathToChart'] = path_to_chart
-    except:
-        return 'Internal server error', 500
-
-    return json.dumps(return_dict), 200
-
-
-@app_analysis.route('/playersComparisonValueChart', methods=["GET"])
-def generate_players_comparison_value_chart():
-    guid1 = request.args.get('guid1', type=int)
-    guid2 = request.args.get('guid2', type=int)
-
-    return_dict = dict()
-    try:
-        path_to_chart = get_players_comparison_value_chart(guid1, guid2)
-        return_dict['pathToChart'] = path_to_chart
-    except:
-        return 'Internal server error', 500
-
-    return json.dumps(return_dict), 200

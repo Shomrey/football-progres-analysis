@@ -34,6 +34,8 @@ prediction.predict_value(back_defenders, back_defenders_training_parameters, tar
 prediction.predict_value(center_defenders, center_defenders_training_parameters, target, result_column_name='predicted_value')
 prediction.predict_value(goalkeepers, goalkeepers_training_parameters, target, result_column_name='predicted_value')
 
+players_with_values = pd.concat([forwards, wingers, midfielders, back_defenders, center_defenders, goalkeepers])
+
 
 def get_players_stats(season):
     global cnx

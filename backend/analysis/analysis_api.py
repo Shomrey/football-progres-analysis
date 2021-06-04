@@ -50,22 +50,28 @@ def get_perspective_players_by_position(position):
     return json.dumps(results), 200
 
 
-@app_analysis.route('/closest/<int:guid>', methods=["GET"])
-def get_closest_players(guid):
-    '''Returns closest players to player with given guid in season neighseason
+@app_analysis.route('/closest', methods=["GET"])
+def get_closest_players():
+    '''Returns closest players to player with given first and second name in season neighseason
     Moreover, it is also retuned higest value of one of closest players
     in period since neighseason and 2 years after as predicted value'''
     try:
         season = request.args.get('season', default=2020, type=int)
         neighbour_season = request.args.get('neighseason', default=2016, type=int)
+        first_name = request.args.get('first', type=str)
+        second_name = request.args.get('second', type=str)
+
+        try:
+            guid = data.get_guid_for_player(data.players_with_values, first_name, second_name)
+        except:
+            return 'Bad request', 400
+
         players_stats, _, _ = data.get_players_stats(season)
 
         closest_players = closest_players_search.find_closest_players_for_player_in_season(cnx, neighbour_season,
                                                                                            players_stats, guid=guid)
         closest_players_df = closest_players_search.get_closest_players_dataframe(data.players_with_values,
                                                                                   closest_players)
-        print(closest_players_df)
-        print(closest_players_df['guid'])
     except data.PlayerNotFound:
         print('Player not found')
     except:
@@ -97,8 +103,16 @@ def get_closest_players(guid):
     return json.dumps(results), 200
 
 
-@app_analysis.route('/player/<int:guid>', methods=["GET"])
-def get_player_stats(guid):
+@app_analysis.route('/player', methods=["GET"])
+def get_player_stats():
+    first_name = request.args.get('first', type=str)
+    second_name = request.args.get('second', type=str)
+
+    try:
+        guid = data.get_guid_for_player(data.players_with_values, first_name, second_name)
+    except:
+        return 'Bad request', 400
+
     player_data = data.players_with_values[data.players_with_values['guid'] == guid]
     player_data = player_data.groupby('year').agg('max')
 
@@ -117,14 +131,22 @@ def get_player_stats(guid):
 
 @app_analysis.route('/player/compare', methods=["GET"])
 def compare_two_players():
-    guid1 = request.args.get('guid1', type=int)
-    guid2 = request.args.get('guid2', type=int)
+    first_name_1 = request.args.get('first1', type=str)
+    second_name_1 = request.args.get('second1', type=str)
+    first_name_2 = request.args.get('first2', type=str)
+    second_name_2 = request.args.get('second2', type=str)
 
-    season1 = request.args.get('season1', type=int)
-    season2 = request.args.get('season2', type=int)
+    try:
+        guid_1 = data.get_guid_for_player(data.players_with_values, first_name_1, second_name_1)
+        guid_2 = data.get_guid_for_player(data.players_with_values, first_name_2, second_name_2)
+    except:
+        return 'Bad request', 400
 
-    player_data_1 = get_player_stats_in_season(guid1, season1)
-    player_data_2 = get_player_stats_in_season(guid2, season2)
+    season_1 = request.args.get('season1', type=int)
+    season_2 = request.args.get('season2', type=int)
+
+    player_data_1 = get_player_stats_in_season(guid_1, season_1)
+    player_data_2 = get_player_stats_in_season(guid_2, season_2)
 
     results = dict()
     player_data_1 = json.loads(player_data_1.to_json(orient='records'))
@@ -134,7 +156,7 @@ def compare_two_players():
     results['player_data_2'] = player_data_2
 
     try:
-        path_to_chart = get_players_comparison_value_chart(guid1, guid2)
+        path_to_chart = get_players_comparison_value_chart(guid_1, guid_2)
         results['pathToChart'] = path_to_chart
     except:
         return 'Cannot get chart', 400
@@ -147,20 +169,3 @@ def get_player_stats_in_season(guid, season):
                                            (data.players_with_values['year'] == season)]
     player_data = player_data.groupby('year').agg('max')
     return player_data
-
-
-@app_analysis.route('/player')
-def get_guid_for_player():
-    first_name = request.args.get('first', type=str)
-    second_name = request.args.get('second', type=str)
-    try:
-        guid = data.get_guid_for_player(data.players_with_values, first_name, second_name)
-    except:
-        return 'Bad request', 400
-
-    result = dict()
-    result['first_name'] = first_name
-    result['second_name'] = second_name
-    result['guid'] = int(guid)
-    return json.dumps(result), 200
-

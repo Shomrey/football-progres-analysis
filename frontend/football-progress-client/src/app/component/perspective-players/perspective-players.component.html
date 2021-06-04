@@ -1,0 +1,27 @@
+<div *ngIf="showPlayer()">
+    <div class="navigation">
+        <button (click)="getPerspectivePlayers()">Search</button>
+        <select (change)="selectChangeHandler($event)">
+            <option *ngFor="let pos of availablePositions" value="{{pos}}">{{pos}}</option>
+        </select>
+        <input type="number" [(ngModel)]="year" placeholder="Year">
+        <input type="number" [(ngModel)]="age" placeholder="Age">
+    </div>
+    <div class="player-list-container">
+        <div *ngFor="let player of players; let idx = index" class="player-list-row">
+            <div class="player-list-data">{{idx+1}}. {{player.first_name}} {{player.second_name}} </div>
+            <div class="player-list-button"><button (click)="setPlayerIdx(idx)">Show details </button></div>
+        </div>
+    </div>
+</div>
+
+<div *ngIf="!showPlayer()">
+    Show player: {{playerIdx}}
+    <button (click)="setPlayerIdx(-1)">Back</button>
+    <div class="player-details-container">
+        <div *ngFor="let field of (players[playerIdx] | keyvalue)" class="player-details-row">
+            <div class="player-details-key">{{field.key}}:</div>
+            <div class="player-details-value">{{field.value}}</div>
+        </div>
+    </div>
+</div>

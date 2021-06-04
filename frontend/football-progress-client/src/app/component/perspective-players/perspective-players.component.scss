@@ -1,0 +1,76 @@
+.player-details-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.player-details-container {
+    width: 30%;
+    margin: 10px;
+}
+
+.player-details-key {
+    display: flex;
+    justify-content: left;
+    width: 100%;
+    //background-color: aquamarine;
+    
+    border-style: solid;
+    border-width: thin;
+    border-right: none;
+}
+
+.player-details-value {
+    display: flex;
+    justify-content: right;
+    width: 100%;
+    //background-color: blueviolet;
+    border-style: solid;
+    border-width: thin;
+}
+
+.player-list-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 3px;
+}
+
+.player-list-container {
+    width: 30%;
+    margin: 10px;
+}
+
+.player-list-data{
+    display: flex;
+    justify-content: left;
+    width: 100%;
+    //background-color: aquamarine;
+    
+
+}
+
+.player-list-button {
+    display: flex;
+    justify-content: right;
+    width: 100%;
+    //background-color: blueviolet;
+
+}
+
+
+
+
+
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}

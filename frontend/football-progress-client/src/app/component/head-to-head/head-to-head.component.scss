@@ -1,0 +1,29 @@
+.input-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px;
+    width: 50%;
+}
+
+.container {
+    justify-content: center;
+    display: flex;
+    flex-grow: 4;
+    flex-shrink: 1;
+    background-color:blueviolet;
+    width: 100%;
+}
+
+.page {
+    display: flex;
+    flex-direction: row;
+}
+
+.paremeters-container {
+    display: flex;
+    flex-grow: 1;
+    flex-shrink: 4;
+    background-color: aquamarine;
+    width: 100%;
+}

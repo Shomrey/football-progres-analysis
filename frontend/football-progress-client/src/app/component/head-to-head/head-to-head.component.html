@@ -1,0 +1,24 @@
+<div class="page">
+<div class="container">
+    <div class="input-container">
+        asdf
+    </div>
+</div>
+<div class="paremeters-container">
+    <div>
+    <div>
+        <input type="text" placeholder="Player name" [(ngModel)]="firstPlayerFirstName">
+        <input type="text" placeholder="Player surname" [(ngModel)]="firstPlayerSurname">
+        <input type="number" placeholder="Season" [(ngModel)]="firstPlayerSeason">
+    </div>
+    <div>
+        <input type="text" placeholder="Player name" [(ngModel)]="secondPlayerFirstName">
+        <input type="text" placeholder="Player surname" [(ngModel)]="secondPlayerSurname">
+        <input type="number" placeholder="Season" [(ngModel)]="secondPlayerSeason">
+    </div>
+    </div>
+    <div>
+        <button (click)="compare()">Compare</button>
+    </div>
+</div>
+</div>

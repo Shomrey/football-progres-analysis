@@ -7,16 +7,24 @@
         <input type="number" [(ngModel)]="year" placeholder="Year">
         <input type="number" [(ngModel)]="age" placeholder="Age">
     </div>
-    <div class="player-list-container">
-        <div *ngFor="let player of players; let idx = index" class="player-list-row">
+    <div class="player-list-container" *ngIf="players.length > 0">
+        <div class="player-list-row"> 
+        <div class="player-list-data">&nbsp;&nbsp;&nbsp;&nbsp;Name </div>
+        <div class="player-list-data">Age </div>
+        <div class="player-list-data">Value </div>
+        <div class="player-list-button"></div>
+        </div>
+        <div *ngFor="let player of players; let idx = index" class="player-list-row">            
             <div class="player-list-data">{{idx+1}}. {{player.first_name}} {{player.second_name}} </div>
+            <div class="player-list-data">{{player.age}} </div>
+            <div class="player-list-data">{{player.player_value}} </div>
             <div class="player-list-button"><button (click)="setPlayerIdx(idx)">Show details </button></div>
         </div>
     </div>
 </div>
 
 <div *ngIf="!showPlayer()">
-    Show player: {{playerIdx}}
+    Show player: {{players[playerIdx].player_name}}
     <button (click)="setPlayerIdx(-1)">Back</button>
     <div class="player-details-container">
         <div *ngFor="let field of (players[playerIdx] | keyvalue)" class="player-details-row">

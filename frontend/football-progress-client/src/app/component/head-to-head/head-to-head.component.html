@@ -1,7 +1,15 @@
 <div class="page">
 <div class="container">
     <div class="input-container">
-        asdf
+        <div *ngIf="playersLoaded" class="players-loaded">
+            <div class="compare-row">
+                <div class="compare-field"></div><div class="compare-field">{{firstPlayer.player_name}}</div><div class="compare-field">{{secondPlayer.player_name}}</div>
+            </div>
+            <div *ngFor="let field of (firstPlayer | keyvalue)" class="compare-row">
+                <div class="compare-field">{{field.key}}</div><div class="compare-field">{{field.value}}</div><div class="compare-field">{{secondPlayer[field.key]}}</div>
+            </div>
+            <img [src]="pathToChart" alt="chart">
+        </div>
     </div>
 </div>
 <div class="paremeters-container">

@@ -1,4 +1,4 @@
-import { HttpClient} from '@angular/common/http';
+import { HttpClient, HttpErrorResponse} from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable, throwError } from 'rxjs';
 import { catchError, retry, tap } from 'rxjs/operators';
@@ -8,7 +8,7 @@ import { catchError, retry, tap } from 'rxjs/operators';
 })
 export class ServerConnectionService {
 
-  private url: string = 'http://127.0.0.1:5000/';
+  private url: string = 'http://192.168.0.105:5000/';
 
   constructor(private http: HttpClient) { }
 
@@ -22,7 +22,10 @@ export class ServerConnectionService {
     {
       specUrl += ('?max_age='+age);
     }
-    return this.http.get<[]>(this.url+specUrl);
+    console.log(this.url+specUrl);
+    return this.http.get<[]>(this.url+specUrl).pipe(
+      catchError(error => console.log)
+    );
   }
 
   getHeadToHead(firstName: string, firstSurname: string, firstSeason: number, secondName: string, secondSurname: string, secondSeason: number): Observable<any>

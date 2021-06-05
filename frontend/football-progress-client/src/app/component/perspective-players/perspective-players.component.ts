@@ -10,12 +10,12 @@ import { ServerConnectionService } from 'src/app/service/server-connection.servi
 export class PerspectivePlayersComponent implements OnInit {
 
   private subscribtion: Subscription;
-  private availablePositions: string[] = ['forwards', 'wingers', 'midfielders'];
+  private availablePositions: string[] = ['forwards', 'wingers', 'midfielders', 'back-defenders', 'center-defenders', 'goalkeepers'];
   private position: string;
   players: object[] = [];
   playerIdx = -1;
-  age: number = 0;
-  year: number = 0;
+  age: number = 24;
+  year: number = 2020;
   constructor(private serverConnectionService: ServerConnectionService) { }
 
   ngOnInit(): void {
@@ -31,15 +31,13 @@ export class PerspectivePlayersComponent implements OnInit {
   }
 
   getPerspectivePlayers() { 
-    console.log(this.position);
-    this.subscribtion?.unsubscribe();  
-    this.subscribtion = this.serverConnectionService.getPerspectivePlayers(this.position, this.year, this.age).subscribe(result => this.players = result['players']);
-    this.log(this.players);
-  }
-
-  log(toLog: any)
-  {
-    console.log(toLog);
+    console.log(this.age);
+    //this.subscribtion?.unsubscribe();  
+    this.subscribtion = this.serverConnectionService.getPerspectivePlayers(this.position, this.year, this.age).subscribe(result => 
+      {
+        this.players = result['players'];
+        console.log(this.players);
+      });
   }
 
   selectChangeHandler (event: any) {

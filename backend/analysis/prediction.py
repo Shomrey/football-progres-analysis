@@ -22,6 +22,18 @@ def get_perspective_players_dataframe(data, columns, min_percent, max_percent):
     return perspective_players_df
 
 
+def get_player_stats(data, columns, min_percent, max_percent):
+    perspective_players = get_players_with_higher_predicted_value(data, min_percent, max_percent)
+    print(perspective_players)
+    perspective_players_df = pd.DataFrame(columns=columns)
+
+    for k in perspective_players.keys():
+        perspective_players_df = perspective_players_df.append(perspective_players[k])
+
+    perspective_players_df = perspective_players_df[perspective_players_df['minutes'] > 0]
+    return perspective_players_df
+
+
 def get_players_with_higher_predicted_value(data, min_precent, max_percent):
     players_with_higher_than_actual_value = dict()
     for index, row in data.iterrows():

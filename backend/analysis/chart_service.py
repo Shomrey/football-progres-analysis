@@ -11,7 +11,7 @@ import numpy as np
 from Database.database_constants import DATABASE_NAME
 
 CHARTS_DIRECTORY = os.path.join("..", "dynamic_charts")
-
+PATH_TO_CHARTS_DIR = '../../dynamic_charts/'
 
 def get_player_value_chart(guid):
     cnx = sqlite3.connect(os.path.join("..", "Database", DATABASE_NAME))
@@ -22,8 +22,9 @@ def get_player_value_chart(guid):
            from player_values_transfermarkt pvt
            where pvt.transfermarkt_player_id = (select player_id_transfermarkt from players_transfermarkt_fpl where player_id_fpl = ?) 
            order by pvt.date_stamp""",
-        (guid,))
+        (int(guid),))
     rows = cur.fetchall()
+    print(rows)
 
     origin = []
     b = []
@@ -50,11 +51,13 @@ def get_player_value_chart(guid):
     axes.legend(sc.legend_elements()[0], labels)
     plt.ylabel("Market value [mln euro]")
     plt.plot(x, b, linestyle='dashed')
-    path = os.path.join("../dynamic_charts/{}.png".format(get_player_surname(guid)))
-    plt.savefig(os.path.join(path))
+    file_name = "{}.png".format(get_player_surname(guid))
+    path = PATH_TO_CHARTS_DIR + file_name
+    abs_path = os.path.abspath(path)
+    plt.savefig(os.path.join("../dynamic_charts/" + file_name))
     plt.show()
     if (cnx): cnx.close()
-    return path
+    return abs_path
 
 
 def get_player_surname(guid):
@@ -64,7 +67,7 @@ def get_player_surname(guid):
     cur.execute(
         """select second_name
            from players where guid = ?""",
-        (guid,))
+        (int(guid),))
     rows = cur.fetchall()
     if (cnx): cnx.close()
     return rows[0][0]
@@ -78,7 +81,7 @@ def get_player_transfermarkt_id_by_guid(guid):
         """select player_id_transfermarkt
            from players_transfermarkt_fpl
            where player_id_fpl = ?""",
-        (guid,))
+        (int(guid),))
     rows = cur.fetchall()
     if (cnx): cnx.close()
     return rows[0][0]
@@ -93,7 +96,7 @@ def get_players_comparison_value_chart(guid1, guid2):
            from player_values_transfermarkt pvt
            where pvt.transfermarkt_player_id = (select player_id_transfermarkt from players_transfermarkt_fpl where player_id_fpl = ?) 
            order by pvt.date_stamp""",
-        (guid1,))
+        (int(guid1),))
     rows_1 = cur.fetchall()
 
     cur.execute(
@@ -101,7 +104,7 @@ def get_players_comparison_value_chart(guid1, guid2):
            from player_values_transfermarkt pvt
            where pvt.transfermarkt_player_id = (select player_id_transfermarkt from players_transfermarkt_fpl where player_id_fpl = ?) 
            order by pvt.date_stamp""",
-        (guid2,))
+        (int(guid2),))
     rows_2 = cur.fetchall()
 
     origin1 = []
@@ -152,11 +155,14 @@ def get_players_comparison_value_chart(guid1, guid2):
                 loc='lower center')
     # Manually add the first legend back
     axes.add_artist(legend1)
-    path = os.path.join("../dynamic_charts/{}_{}.png".format(get_player_surname(guid1), get_player_surname(guid2)))
-    plt.savefig(os.path.join(path))
+
+    file_name = "{}_{}.png".format(get_player_surname(guid1), get_player_surname(guid2))
+    path = PATH_TO_CHARTS_DIR + file_name
+    abs_path = os.path.abspath(path)
+    plt.savefig(os.path.join("../dynamic_charts/" + file_name))
     plt.show()
     if (cnx): cnx.close()
-    return path
+    return abs_path
 
 
 def get_fpl_first_name_and_last_name_from_transfermarkt_id(transfermarkt_id):

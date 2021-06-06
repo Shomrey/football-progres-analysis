@@ -9,6 +9,7 @@ import { PerspectivePlayersComponent } from './component/perspective-players/per
 import { WelcomeComponent } from './component/welcome/welcome.component';
 import { HeadToHeadComponent } from './component/head-to-head/head-to-head.component';
 import { FormsModule } from '@angular/forms';
+import { ClosestPlayersComponent } from './component/closest-players/closest-players.component';
 
 
 @NgModule({
@@ -17,7 +18,8 @@ import { FormsModule } from '@angular/forms';
     LayoutComponent,
     PerspectivePlayersComponent,
     WelcomeComponent,
-    HeadToHeadComponent
+    HeadToHeadComponent,
+    ClosestPlayersComponent
   ],
   imports: [
     BrowserModule,

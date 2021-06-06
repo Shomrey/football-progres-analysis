@@ -24,7 +24,7 @@ export class LayoutComponent implements OnInit {
   }
 
   navigateClosest(): void {
-    //this.router.navigateByUrl('/head-to-head')
+    this.router.navigateByUrl('/closest-players')
   }
 
 }

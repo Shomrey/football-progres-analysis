@@ -9,17 +9,18 @@ import { DomSanitizer } from '@angular/platform-browser';
 })
 export class HeadToHeadComponent implements OnInit {
 
-  firstPlayerFirstName: string = 'Jan';
-  firstPlayerSurname: string = 'Bednarek';
-  firstPlayerSeason: number = 2020;
-  secondPlayerFirstName: string = 'Vincent';
-  secondPlayerSurname: string = 'Kompany';
-  secondPlayerSeason: number = 2018;
+  firstPlayerFirstName: string = '';
+  firstPlayerSurname: string = '';
+  firstPlayerSeason: number | undefined;
+  secondPlayerFirstName: string = '';
+  secondPlayerSurname: string = '';
+  secondPlayerSeason: number | undefined;
 
   firstPlayer: any = {};
   secondPlayer: any = {};
   pathToChart: string = 'assets/Bednarek_Kompany.png'; //'C:\\Users\\SSD2\\Desktop\\AGH\\Eksploracja danych\\Projekt\\dynamic_charts\\Bednarek_Kompany.png'; 
   playersLoaded: boolean = false;
+  wrongData: boolean = false;
   constructor(private serverConnectionService: ServerConnectionService, private sanitizer: DomSanitizer) { }
 
   ngOnInit(): void {
@@ -32,9 +33,18 @@ export class HeadToHeadComponent implements OnInit {
       this.secondPlayer = obj.player_data_2[0];
       //this.pathToChart = obj.pathToChart;
       this.playersLoaded = true;
+      this.wrongData = false;
       console.log(this.firstPlayer);
       console.log(this.secondPlayer);
+    },
+    err => {
+      this.playersLoaded = false;
+      this.wrongData = true;
     });
+  }
+
+  buttonEnabled(): boolean {
+    return this.firstPlayerFirstName.length > 0 && this.firstPlayerSurname.length > 0 && this.firstPlayerSeason !== undefined && this.secondPlayerSeason !== undefined && this.secondPlayerSurname.length > 0 && this.secondPlayerFirstName.length > 0;
   }
 
   /*getSafeResource() {

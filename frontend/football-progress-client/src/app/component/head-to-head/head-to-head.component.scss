@@ -26,6 +26,8 @@
     flex-shrink: 4;
     //background-color: aquamarine;
     width: 100%;
+    flex-direction: column;
+    margin: 10px;
 }
 
 .compare-row {
@@ -47,4 +49,14 @@
     display: flex;
     width: 100%;
     flex-direction: column;
+}
+
+.players-input {
+    display: flex;
+    flex-direction: row;
+}
+
+.button-input {
+    display: flex;
+    justify-content: center;
 }

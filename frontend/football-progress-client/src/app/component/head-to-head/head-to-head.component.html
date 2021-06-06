@@ -1,32 +1,39 @@
 <div class="page">
-<div class="container">
-    <div class="input-container">
-        <div *ngIf="playersLoaded" class="players-loaded">
-            <div class="compare-row">
-                <div class="compare-field"></div><div class="compare-field">{{firstPlayer.player_name}}</div><div class="compare-field">{{secondPlayer.player_name}}</div>
+    <div class="container">
+        <div class="input-container">
+            <div *ngIf="playersLoaded" class="players-loaded">
+                <div class="compare-row">
+                    <div class="compare-field"></div>
+                    <div class="compare-field">{{firstPlayer.player_name}}</div>
+                    <div class="compare-field">{{secondPlayer.player_name}}</div>
+                </div>
+                <div *ngFor="let field of (firstPlayer | keyvalue)" class="compare-row">
+                    <div class="compare-field">{{field.key}}</div>
+                    <div class="compare-field">{{field.value}}</div>
+                    <div class="compare-field">{{secondPlayer[field.key]}}</div>
+                </div>
+                <img [src]="pathToChart" alt="chart">
             </div>
-            <div *ngFor="let field of (firstPlayer | keyvalue)" class="compare-row">
-                <div class="compare-field">{{field.key}}</div><div class="compare-field">{{field.value}}</div><div class="compare-field">{{secondPlayer[field.key]}}</div>
+            <div *ngIf="wrongData" class="players-loaded">
+                Please provide valida names and year
             </div>
-            <img [src]="pathToChart" alt="chart">
         </div>
     </div>
-</div>
-<div class="paremeters-container">
-    <div>
-    <div>
-        <input type="text" placeholder="Player name" [(ngModel)]="firstPlayerFirstName">
-        <input type="text" placeholder="Player surname" [(ngModel)]="firstPlayerSurname">
-        <input type="number" placeholder="Season" [(ngModel)]="firstPlayerSeason">
+    <div class="paremeters-container">
+        <div class="players-input">
+            <div>
+                <input type="text" placeholder="Player name" [(ngModel)]="firstPlayerFirstName">
+                <input type="text" placeholder="Player surname" [(ngModel)]="firstPlayerSurname">
+                <input type="number" placeholder="Season" [(ngModel)]="firstPlayerSeason">
+            </div>
+            <div>
+                <input type="text" placeholder="Player name" [(ngModel)]="secondPlayerFirstName">
+                <input type="text" placeholder="Player surname" [(ngModel)]="secondPlayerSurname">
+                <input type="number" placeholder="Season" [(ngModel)]="secondPlayerSeason">
+            </div>
+        </div>
+        <div class="button-input">
+            <button (click)="compare()" [disabled]="!buttonEnabled()">Compare</button>
+        </div>
     </div>
-    <div>
-        <input type="text" placeholder="Player name" [(ngModel)]="secondPlayerFirstName">
-        <input type="text" placeholder="Player surname" [(ngModel)]="secondPlayerSurname">
-        <input type="number" placeholder="Season" [(ngModel)]="secondPlayerSeason">
-    </div>
-    </div>
-    <div>
-        <button (click)="compare()">Compare</button>
-    </div>
-</div>
 </div>

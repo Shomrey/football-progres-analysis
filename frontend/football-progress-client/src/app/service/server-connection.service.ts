@@ -18,20 +18,24 @@ export class ServerConnectionService {
     {
       specUrl += ('?season='+year);
     }    
-    if(year !== 0)
+    if(age !== 0)
     {
-      specUrl += ('?max_age='+age);
+      specUrl += ('&max_age='+age);
     }
     console.log(this.url+specUrl);
-    return this.http.get<[]>(this.url+specUrl).pipe(
-      catchError(error => console.log)
-    );
+    return this.http.get<[]>(this.url+specUrl);
   }
 
   getHeadToHead(firstName: string, firstSurname: string, firstSeason: number, secondName: string, secondSurname: string, secondSeason: number): Observable<any>
   {
     console.log(firstSeason)
     let specUrl = `player/compare?first1=${firstName}&second1=${firstSurname}&first2=${secondName}&second2=${secondSurname}&season1=${firstSeason}&season2=${secondSeason}`;
-    return this.http.get<[]>(this.url+specUrl).pipe(tap(console.log));
+    return this.http.get<[]>(this.url+specUrl);
+  }
+
+  getClosestPlayers(firstName: string, surname: string, year: number, neighSeason: number): Observable<any>
+  {
+    let specUrl = `closest?first=${firstName}&second=${surname}&season=${year}&neighseason=${neighSeason}`
+    return this.http.get<[]>(this.url+specUrl);
   }
 }

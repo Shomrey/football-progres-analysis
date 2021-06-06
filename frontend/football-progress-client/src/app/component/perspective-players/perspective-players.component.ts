@@ -14,8 +14,8 @@ export class PerspectivePlayersComponent implements OnInit {
   private position: string;
   players: object[] = [];
   playerIdx = -1;
-  age: number = 24;
-  year: number = 2020;
+  age: number | undefined;
+  year: number | undefined;
   constructor(private serverConnectionService: ServerConnectionService) { }
 
   ngOnInit(): void {
@@ -38,6 +38,11 @@ export class PerspectivePlayersComponent implements OnInit {
         this.players = result['players'];
         console.log(this.players);
       });
+  }
+
+  disableButton(): boolean {
+    console.log(this.year);
+    return !(this.year !== undefined && this.age !== undefined);
   }
 
   selectChangeHandler (event: any) {

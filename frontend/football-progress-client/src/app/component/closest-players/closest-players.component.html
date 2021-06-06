@@ -1,14 +1,13 @@
 <div *ngIf="showPlayer()">
     <div class="navigation">
-        <button (click)="getPerspectivePlayers()" [disabled]="disableButton()">Search</button>
-        <select (change)="selectChangeHandler($event)">
-            <option *ngFor="let pos of availablePositions" value="{{pos}}">{{pos}}</option>
-        </select>
-        <input type="number" [(ngModel)]="year" placeholder="Year">
-        <input type="number" [(ngModel)]="age" placeholder="Age">
+        <button (click)="getClosestPlayers()" [disabled]="!buttonEnabled()">Search</button>
+        <input type="number" [(ngModel)]="year" placeholder="Player season">
+        <input type="number" [(ngModel)]="neighSeason" placeholder="Neighbours">
+        <input type="text" [(ngModel)]="firstName" placeholder="First name">
+        <input type="text" [(ngModel)]="surname" placeholder="Surname">
     </div>
     <div class="player-list-container" *ngIf="players.length > 0">
-        <div class="player-list-row" style="border-bottom-width: thin; border-bottom-style: solid;"> 
+        <div class="player-list-row"> 
         <div class="player-list-data">&nbsp;&nbsp;&nbsp;&nbsp;Name </div>
         <div class="player-list-data">Age </div>
         <div class="player-list-data">Value (M) </div>

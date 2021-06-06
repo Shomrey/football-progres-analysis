@@ -19,4 +19,12 @@ export class LayoutComponent implements OnInit {
     this.router.navigateByUrl('/perspective-players')
   }
 
+  navigateHeadToHead(): void {
+    this.router.navigateByUrl('/head-to-head')
+  }
+
+  navigateClosest(): void {
+    this.router.navigateByUrl('/closest-players')
+  }
+
 }

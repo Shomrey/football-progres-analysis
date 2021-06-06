@@ -1,0 +1,62 @@
+.input-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px;
+    width: 100%;
+}
+
+.container {
+    justify-content: center;
+    display: flex;
+    flex-grow: 4;
+    flex-shrink: 1;
+    //background-color:blueviolet;
+    width: 100%;
+}
+
+.page {
+    display: flex;
+    flex-direction: row;
+}
+
+.paremeters-container {
+    display: flex;
+    flex-grow: 1;
+    flex-shrink: 4;
+    //background-color: aquamarine;
+    width: 100%;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.compare-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.compare-field {
+    display: flex;
+    justify-content: left;
+    //border-style: solid;
+    //border-width: thin;
+    border-bottom-style:solid;
+    border-bottom-width:thin ;
+    width: 100%;
+}
+
+.players-loaded {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.players-input {
+    display: flex;
+    flex-direction: row;
+}
+
+.button-input {
+    display: flex;
+    justify-content: center;
+}

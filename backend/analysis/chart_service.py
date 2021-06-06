@@ -13,6 +13,7 @@ from Database.database_constants import DATABASE_NAME
 CHARTS_DIRECTORY = os.path.join("..", "dynamic_charts")
 PATH_TO_CHARTS_DIR = '../../dynamic_charts/'
 
+
 def get_player_value_chart(guid):
     cnx = sqlite3.connect(os.path.join("..", "Database", DATABASE_NAME))
 
@@ -52,7 +53,7 @@ def get_player_value_chart(guid):
     plt.ylabel("Market value [mln euro]")
     plt.plot(x, b, linestyle='dashed')
     file_name = "{}.png".format(get_player_surname(guid))
-    plt.savefig(os.path.join("../frontend/football-progress-client/src/assets/" + file_name))
+    plt.savefig(os.path.join("../frontend/football-progress-client/src/assets/" + file_name), bbox_inches='tight')
     plt.show()
     if (cnx): cnx.close()
     return file_name
@@ -154,7 +155,7 @@ def get_players_comparison_value_chart(guid1, guid2):
     # Manually add the first legend back
     axes.add_artist(legend1)
     file_name = "{}_{}.png".format(get_player_surname(guid1), get_player_surname(guid2))
-    plt.savefig(os.path.join("../frontend/football-progress-client/src/assets/" + file_name))
+    plt.savefig(os.path.join("../frontend/football-progress-client/src/assets/" + file_name), bbox_inches='tight')
     plt.show()
     if (cnx): cnx.close()
     return file_name

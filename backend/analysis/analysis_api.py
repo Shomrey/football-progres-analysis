@@ -117,6 +117,8 @@ def get_player_stats():
 
     results = dict()
     player_data = json.loads(player_data.to_json(orient='records'))
+    for element in player_data:
+        clean_json(element)
     results['player_data'] = player_data
 
     try:
@@ -150,6 +152,11 @@ def compare_two_players():
     results = dict()
     player_data_1 = json.loads(player_data_1.to_json(orient='records'))
     player_data_2 = json.loads(player_data_2.to_json(orient='records'))
+    for element in player_data_1:
+        clean_json(element)
+
+    for element in player_data_2:
+        clean_json(element)
 
     results['player_data_1'] = player_data_1
     results['player_data_2'] = player_data_2
@@ -168,3 +175,16 @@ def get_player_stats_in_season(guid, season):
                                            (data.players_with_values['year'] == season)]
     player_data = player_data.groupby('year').agg('max')
     return player_data
+
+
+def clean_json(element):
+    element["transfermarkt_url"] = "https://www.transfermarkt.pl" + element.get('player_url')
+    element.pop('player_id_fpl', None)
+    element.pop('guid', None)
+    element.pop('id', None)
+    element.pop('player_id_transfermarkt', None)
+    element.pop('player_name_transfermarkt', None)
+    element.pop('player_name', None)
+    element.pop('transfermarkt_player_id', None)
+    element.pop('player_url', None)
+    return element

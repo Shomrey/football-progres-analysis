@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { emit } from 'process';
+import { Subject } from 'rxjs';
 
 @Component({
   selector: 'app-player-details-wrapper',
@@ -18,7 +20,10 @@ export class PlayerDetailsWrapperComponent implements OnInit {
   }
 
   search(): void {
-    if(this.playerFirstName.length > 0 && this.playerSurname.length > 0 ) this.playerLoaded = true;
+    if(this.playerFirstName.length > 0 && this.playerSurname.length > 0 ) 
+    {
+      this.playerLoaded = true;
+    }
   }
 
   back(): void {

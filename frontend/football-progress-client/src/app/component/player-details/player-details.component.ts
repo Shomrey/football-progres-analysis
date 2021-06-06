@@ -1,4 +1,5 @@
 import { Component, Input, OnInit, Output, EventEmitter } from '@angular/core';
+import { Observable } from 'rxjs';
 import { ServerConnectionService } from 'src/app/service/server-connection.service';
 
 @Component({
@@ -20,6 +21,10 @@ export class PlayerDetailsComponent implements OnInit {
   constructor(private serverConnectionService: ServerConnectionService) { }
 
   ngOnInit(): void {
+    this.loadPlayer();
+  }
+
+  loadPlayer(): void {
     this.serverConnectionService.getPlayer(this.firstName, this.surname, this.year).subscribe(
       data => {
         this.playerDataList = data.player_data;

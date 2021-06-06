@@ -41,8 +41,10 @@ export class ServerConnectionService {
 
   getPlayer(firstName: string, surname: string, year: number): Observable<any>
   {
-    let yearString = year > 0 ? `&year=${year}` : ''
+    let yearString = year > 0 ? `&season=${year}` : ''
     let specUrl = `player?first=${firstName}&second=${surname}${yearString}`;
+    console.log(specUrl);
+    console.log(year);
     return this.http.get(this.url+specUrl);
   }
 }

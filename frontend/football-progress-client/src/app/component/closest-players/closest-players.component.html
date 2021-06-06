@@ -5,6 +5,7 @@
         <input type="number" [(ngModel)]="neighSeason" placeholder="Neighbours">
         <input type="text" [(ngModel)]="firstName" placeholder="First name">
         <input type="text" [(ngModel)]="surname" placeholder="Surname">
+        <p *ngIf="showValue">{{firstName}} {{surname}} predicted value: {{predictedValue}}</p>
     </div>
     <div class="player-list-container" *ngIf="players.length > 0">
         <div class="player-list-row"> 

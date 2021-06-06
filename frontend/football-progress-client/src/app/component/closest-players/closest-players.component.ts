@@ -16,6 +16,7 @@ export class ClosestPlayersComponent implements OnInit {
   firstName: string = '';
   surname: string = '';
   predictedValue: number;
+  showValue: boolean = false;
   constructor(private serverConnectionService: ServerConnectionService) { }
 
   ngOnInit(): void {
@@ -35,6 +36,7 @@ export class ClosestPlayersComponent implements OnInit {
       {
         this.players = result['players'];
         this.predictedValue = result.predicted_value;
+        this.showValue = true;
         console.log(this.players);
       });
   }

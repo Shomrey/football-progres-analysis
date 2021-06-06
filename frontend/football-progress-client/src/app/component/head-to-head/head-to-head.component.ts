@@ -16,9 +16,9 @@ export class HeadToHeadComponent implements OnInit {
   secondPlayerSurname: string = '';
   secondPlayerSeason: number | undefined;
 
-  firstPlayer: any = {};
-  secondPlayer: any = {};
-  pathToChart: string = 'assets/Bednarek_Kompany.png'; //'C:\\Users\\SSD2\\Desktop\\AGH\\Eksploracja danych\\Projekt\\dynamic_charts\\Bednarek_Kompany.png'; 
+  firstPlayer: any | undefined = {};
+  secondPlayer: any | undefined = {};
+  pathToChart: string = '';//'assets/Bednarek_Kompany.png'; //'C:\\Users\\SSD2\\Desktop\\AGH\\Eksploracja danych\\Projekt\\dynamic_charts\\Bednarek_Kompany.png'; 
   playersLoaded: boolean = false;
   wrongData: boolean = false;
   constructor(private serverConnectionService: ServerConnectionService, private sanitizer: DomSanitizer) { }
@@ -31,11 +31,16 @@ export class HeadToHeadComponent implements OnInit {
     .subscribe(obj => {
       this.firstPlayer = obj.player_data_1[0];
       this.secondPlayer = obj.player_data_2[0];
-      //this.pathToChart = obj.pathToChart;
+      this.pathToChart = 'assets/' + obj.pathToChart;
       this.playersLoaded = true;
       this.wrongData = false;
       console.log(this.firstPlayer);
       console.log(this.secondPlayer);
+      if(this.firstPlayer === undefined || this.secondPlayer === undefined)
+      {
+        this.playersLoaded = false;
+        this.wrongData = true;
+      }
     },
     err => {
       this.playersLoaded = false;

@@ -106,13 +106,21 @@ def get_closest_players():
 def get_player_stats():
     first_name = request.args.get('first', type=str)
     second_name = request.args.get('second', type=str)
+    try:
+        season = request.args.get('season', type=int)
+    except:
+        season = None
 
     try:
         guid = data.get_guid_for_player(data.players_with_values, first_name, second_name)
     except:
         return 'Bad request', 400
 
-    player_data = data.players_with_values[data.players_with_values['guid'] == guid]
+    if season:
+        player_data = data.players_with_values[(data.players_with_values['guid'] == guid) & (data.players_with_values['year'] == season)]
+    else:
+        player_data = data.players_with_values[data.players_with_values['guid'] == guid]
+
     player_data = player_data.groupby('year').agg('max')
 
     results = dict()

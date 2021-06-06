@@ -10,6 +10,8 @@ import { WelcomeComponent } from './component/welcome/welcome.component';
 import { HeadToHeadComponent } from './component/head-to-head/head-to-head.component';
 import { FormsModule } from '@angular/forms';
 import { ClosestPlayersComponent } from './component/closest-players/closest-players.component';
+import { PlayerDetailsComponent } from './component/player-details/player-details.component';
+import { PlayerDetailsWrapperComponent } from './component/player-details-wrapper/player-details-wrapper.component';
 
 
 @NgModule({
@@ -19,7 +21,9 @@ import { ClosestPlayersComponent } from './component/closest-players/closest-pla
     PerspectivePlayersComponent,
     WelcomeComponent,
     HeadToHeadComponent,
-    ClosestPlayersComponent
+    ClosestPlayersComponent,
+    PlayerDetailsComponent,
+    PlayerDetailsWrapperComponent
   ],
   imports: [
     BrowserModule,

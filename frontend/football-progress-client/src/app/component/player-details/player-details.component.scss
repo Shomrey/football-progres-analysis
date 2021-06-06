@@ -1,0 +1,30 @@
+.player-details-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.player-details-container {
+    width: 70%;
+    margin: 10px;
+}
+
+.player-details-key {
+    display: flex;
+    justify-content: left;
+    width: 100%;
+    //background-color: aquamarine;
+    
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    //border-right: none;
+}
+
+.player-details-value {
+    display: flex;
+    justify-content: right;
+    width: 100%;
+    //background-color: blueviolet;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+}

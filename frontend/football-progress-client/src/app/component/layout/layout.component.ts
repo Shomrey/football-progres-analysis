@@ -16,15 +16,19 @@ export class LayoutComponent implements OnInit {
   }
 
   navigatePerspectivePlayers(): void {
-    this.router.navigateByUrl('/perspective-players')
+    this.router.navigateByUrl('/perspective-players');
   }
 
   navigateHeadToHead(): void {
-    this.router.navigateByUrl('/head-to-head')
+    this.router.navigateByUrl('/head-to-head');
   }
 
   navigateClosest(): void {
-    this.router.navigateByUrl('/closest-players')
+    this.router.navigateByUrl('/closest-players');
+  }
+
+  navigatePlayerDetails(): void {
+    this.router.navigateByUrl('/player-details');
   }
 
 }

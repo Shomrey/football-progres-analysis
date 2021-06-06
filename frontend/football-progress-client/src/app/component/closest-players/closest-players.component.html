@@ -10,7 +10,7 @@
         <div class="player-list-row"> 
         <div class="player-list-data">&nbsp;&nbsp;&nbsp;&nbsp;Name </div>
         <div class="player-list-data">Age </div>
-        <div class="player-list-data">Value (M) </div>
+        <div class="player-list-data">Value </div>
         <div class="player-list-data">Club </div>
         <div class="player-list-data">Nationality </div>
         <div class="player-list-data">Predicted value </div>
@@ -29,12 +29,13 @@
 </div>
 
 <div *ngIf="!showPlayer()">
-    Show player: {{players[playerIdx].player_name}}
+    <!--Show player: {{players[playerIdx].player_name}}
     <button (click)="setPlayerIdx(-1)">Back</button>
     <div class="player-details-container">
         <div *ngFor="let field of (players[playerIdx] | keyvalue)" class="player-details-row">
             <div class="player-details-key">{{field.key}}:</div>
             <div class="player-details-value">{{field.value}}</div>
         </div>
-    </div>
+    </div>-->
+    <app-player-details (goBack)="setPlayerIdx(-1)" [firstName]="players[playerIdx].first_name" [surname]="players[playerIdx].second_name"></app-player-details>
 </div>

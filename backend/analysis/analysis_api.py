@@ -82,7 +82,7 @@ def get_closest_players():
     guids = closest_players_df['guid'].values
     guids = tuple(guids)
 
-    player_vals = pd.read_sql_query("""SELECT ftp.player_id_fpl as guid, p.date_stamp, p.player_value, p.player_club from player_values as p 
+    player_vals = pd.read_sql_query("""SELECT ftp.player_id_fpl as guid, p.date_stamp, p.player_value, p.player_club from player_values_transfermarkt as p 
                                         JOIN players_transfermarkt_fpl as ftp on ftp.player_id_transfermarkt = p.transfermarkt_player_id
                                                 WHERE ftp.player_id_fpl IN {}
                                                 AND p.date_stamp BETWEEN '{}-01-01 00:00:01' AND '{}-12-31 23:59:59'""".format(

@@ -1,0 +1,9 @@
+<div>
+    <input type="text" placeholder="Player name" [(ngModel)]="playerFirstName">
+    <input type="text" placeholder="Player surname" [(ngModel)]="playerSurname">
+    <input type="number" placeholder="Season" [(ngModel)]="playerSeason">
+    <button (click)="search()">Search</button>
+    <div *ngIf="playerLoaded">
+        <app-player-details (goBack)="back()" [firstName]="playerFirstName" [surname]="playerSurname" [year]="playerSeason" ></app-player-details>
+    </div>
+</div>

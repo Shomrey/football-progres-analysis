@@ -38,4 +38,11 @@ export class ServerConnectionService {
     let specUrl = `closest?first=${firstName}&second=${surname}&season=${year}&neighseason=${neighSeason}`
     return this.http.get<[]>(this.url+specUrl);
   }
+
+  getPlayer(firstName: string, surname: string, year: number): Observable<any>
+  {
+    let yearString = year > 0 ? `&year=${year}` : ''
+    let specUrl = `player?first=${firstName}&second=${surname}${yearString}`;
+    return this.http.get(this.url+specUrl);
+  }
 }

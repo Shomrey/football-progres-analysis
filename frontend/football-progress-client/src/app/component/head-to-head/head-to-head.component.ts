@@ -18,6 +18,7 @@ export class HeadToHeadComponent implements OnInit {
 
   firstPlayer: any | undefined = {};
   secondPlayer: any | undefined = {};
+  keyList: string[] | undefined = [];
   pathToChart: string = '';//'assets/Bednarek_Kompany.png'; //'C:\\Users\\SSD2\\Desktop\\AGH\\Eksploracja danych\\Projekt\\dynamic_charts\\Bednarek_Kompany.png'; 
   playersLoaded: boolean = false;
   wrongData: boolean = false;
@@ -31,6 +32,7 @@ export class HeadToHeadComponent implements OnInit {
     .subscribe(obj => {
       this.firstPlayer = obj.player_data_1[0];
       this.secondPlayer = obj.player_data_2[0];
+      this.keyList = Object.getOwnPropertyNames(this.firstPlayer);
       this.pathToChart = 'assets/' + obj.pathToChart;
       this.playersLoaded = true;
       this.wrongData = false;

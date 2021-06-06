@@ -1,0 +1,11 @@
+<div>
+    Show player: {{firstName}} {{surname}} <button (click)="back()">Back</button>
+    <div class="player-details-container">
+        <div *ngFor="let key of keyList" class="player-details-row">
+            <div class="player-details-key">{{key}} </div>
+            <div *ngFor="let season_data of playerDataList" class="player-details-value"> {{season_data[key]}}
+            </div>
+        </div>
+    </div>
+    <img [src]="pathToChart">
+</div>

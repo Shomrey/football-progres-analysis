@@ -35,7 +35,7 @@ def find_closest_players_for_player_in_season(cnx, neighbours_season, players_df
     index = get_index_for_player_guid(players_df, guid)
 
     possible_neighbours = pd.read_sql_query("SELECT * from player_statistics as p " + \
-                                            "WHERE p.year = {}".format(neighbours_season), cnx)
+                                            "WHERE p.year = {} AND p.guid != {} ".format(neighbours_season, guid), cnx)
 
     possible_neighbours_names, possible_neighbours_stats = divide_dataframe(possible_neighbours)
     names, stats = divide_dataframe(players_df)

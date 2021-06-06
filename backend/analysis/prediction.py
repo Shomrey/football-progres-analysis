@@ -1,5 +1,6 @@
 import pandas as pd
 from sklearn.linear_model import LinearRegression
+import numpy as np
 
 FORWARDS = 'forwards'
 WINGERS = 'wingers'
@@ -128,6 +129,7 @@ def get_players_by_position(players_with_values, position):
 def predict_value(data, training_parameters, target, result_column_name):
     fit = fit_linear_regression(data, training_parameters , target)
     predicted_value = fit.predict(data[training_parameters])
+    predicted_value = np.round(predicted_value, -5).astype(int)
     data[result_column_name] = predicted_value
     get_predicted_value_diff(data, result_column_name, target)
 

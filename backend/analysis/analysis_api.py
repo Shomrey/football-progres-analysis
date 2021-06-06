@@ -9,7 +9,6 @@ from Database.database_constants import DATABASE_NAME
 from . import prediction
 from . import data
 from . import closest_players_search
-from . import chart_service
 from .chart_service import get_players_comparison_value_chart, get_player_value_chart
 
 app_analysis = Blueprint("app_login", __name__)

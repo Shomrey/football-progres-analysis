@@ -52,12 +52,10 @@ def get_player_value_chart(guid):
     plt.ylabel("Market value [mln euro]")
     plt.plot(x, b, linestyle='dashed')
     file_name = "{}.png".format(get_player_surname(guid))
-    path = PATH_TO_CHARTS_DIR + file_name
-    abs_path = os.path.abspath(path)
-    plt.savefig(os.path.join("../dynamic_charts/" + file_name))
+    plt.savefig(os.path.join("../frontend/football-progress-client/src/assets/" + file_name))
     plt.show()
     if (cnx): cnx.close()
-    return abs_path
+    return file_name
 
 
 def get_player_surname(guid):
@@ -155,14 +153,11 @@ def get_players_comparison_value_chart(guid1, guid2):
                 loc='lower center')
     # Manually add the first legend back
     axes.add_artist(legend1)
-
     file_name = "{}_{}.png".format(get_player_surname(guid1), get_player_surname(guid2))
-    path = PATH_TO_CHARTS_DIR + file_name
-    abs_path = os.path.abspath(path)
-    plt.savefig(os.path.join("../dynamic_charts/" + file_name))
+    plt.savefig(os.path.join("../frontend/football-progress-client/src/assets/" + file_name))
     plt.show()
     if (cnx): cnx.close()
-    return abs_path
+    return file_name
 
 
 def get_fpl_first_name_and_last_name_from_transfermarkt_id(transfermarkt_id):

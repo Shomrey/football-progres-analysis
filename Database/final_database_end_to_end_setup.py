@@ -426,6 +426,9 @@ def insert_into_players_transfermarkt_fpl_singles(name_transfer, first_name, sec
     if (cnx): cnx.close()
 
 
+sqlite_delete_table_players_values = ''' DROP TABLE player_values '''
+
+
 cursor = connection.cursor()
 cursor.execute(sqlite_create_table_clubs)
 cursor.execute(sqlite_create_table_players_transfermarkt_singles)
@@ -473,6 +476,9 @@ connection.commit()
 insert_into_players_transfermarkt_fpl_singles('Ederson', 'Ederson', 'Santana de Moraes')
 connection.commit()
 insert_into_players_transfermarkt_fpl_singles('Dionatan Teixeira', 'Dionatan do Nascimento', 'Teixeira')
+connection.commit()
+
+cursor.execute(sqlite_delete_table_players_values)
 connection.commit()
 
 connection.close()
